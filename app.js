@@ -1,28 +1,124 @@
-let league;
-const $=s=>document.querySelector(s);
-const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-async function init(){
- league=await fetch("/api/league").then(r=>r.json());
- for(let i=1;i<=13;i++) $("#week").insertAdjacentHTML("beforeend",`<option>${i}</option>`);
- $("#week").value=Math.min(13,Math.max(1,Number(localStorage.sfgWeek||1)));
- renderTeams();renderSchedule();await renderWeek();
+let league = null;
+let scores = null;
+
+async function loadJSON(file) {
+  const response = await fetch(file + "?v=" + Date.now());
+
+  if (!response.ok) {
+    throw new Error(`Could not load ${file}`);
+  }
+
+  return response.json();
 }
-async function renderWeek(){
- const w=Number($("#week").value); localStorage.sfgWeek=w;
- $("#bonus").textContent=league.bonuses[w]||"PLAYOFF FOOTBALL";
- $("#status").textContent=`WEEK ${w}`;
- $("#matchups").innerHTML="<div class=card>Dialing the stats superhighway…</div>";
- try{
-  const d=await fetch(`/api/score?week=${w}`).then(async r=>{if(!r.ok)throw Error((await r.json()).error);return r.json()});
-  $("#matchups").innerHTML=d.matchups.map(([a,b])=>`<article class=card>${team(a)}<div class=versus>VS.</div>${team(b)}</article>`).join("");
-  $("#dataNote").textContent=`Stats feed connected • ${d.season} Week ${w} • refreshed ${new Date().toLocaleTimeString()}`;
- }catch(e){
-  $("#matchups").innerHTML=(league.schedule[w]||[]).map(([a,b])=>`<article class=card>${team(league.teams.find(x=>x.id===a),false)}<div class=versus>VS.</div>${team(league.teams.find(x=>x.id===b),false)}</article>`).join("");
-  $("#dataNote").textContent=`Stats feed unavailable (${e.message}). Schedule still loaded.`;
- }
+
+async function start() {
+  try {
+    league = await loadJSON("./league.json");
+
+    try {
+      scores = await loadJSON("./scores.json");
+    } catch {
+      scores = null;
+    }
+
+    document.querySelector("#status").textContent =
+      scores ? "SCORES LOADED" : "LEAGUE ONLINE";
+
+    render();
+  } catch (error) {
+    console.error(error);
+
+    document.querySelector("#status").textContent = "DATA ERROR";
+
+    document.querySelector("#matchups").innerHTML =
+      `<p>Unable to load league data: ${error.message}</p>`;
+  }
 }
-function team(t,scored=true){return `<div class=teamline><div><b>${esc(t.name)}</b><div class=owner>${esc(t.owner)}</div></div>${scored&&t.total!=null?`<span class=score>${t.total.toFixed(1)}</span>`:""}</div>`}
-function renderTeams(){$("#teamGrid").innerHTML=league.teams.map(t=>`<article class=card><div class=versus>#${t.id}</div><h3>${esc(t.name)}</h3><div class=owner>OWNER: ${esc(t.owner)}</div><hr><div class=roster>${Object.entries(t.roster).map(([p,n])=>`<b>${p}</b> — ${esc(n)}`).join("<br>")}</div></article>`).join("")}
-function renderSchedule(){$("#sched").innerHTML=Object.entries(league.schedule).map(([w,ms])=>`<div class=weekrow><b>WEEK ${w}</b><br>${ms.map(([a,b])=>`${esc(league.teams[a-1].name)} vs ${esc(league.teams[b-1].name)}`).join("<br>")}</div>`).join("")}
-document.addEventListener("click",e=>{if(e.target.dataset.view){document.querySelectorAll("main>section").forEach(s=>s.hidden=true);$("#"+e.target.dataset.view).hidden=false}})
-$("#refresh").onclick=renderWeek;$("#week").onchange=renderWeek;init().catch(e=>{$("#dataNote").textContent=e.message});
+
+function render() {
+  const weekSelect = document.querySelector("#week");
+  const week = weekSelect ? weekSelect.value : "1";
+
+  const matchups = league.schedule[week] || [];
+
+  const bonus =
+    league.bonuses && league.bonuses[week]
+      ? league.bonuses[week]
+      : "No weekly bonus listed.";
+
+  const bonusBox = document.querySelector("#bonus");
+  if (bonusBox) {
+    bonusBox.textContent = `★ 10-POINT WEEKLY BONUS ★ ${bonus}`;
+  }
+
+  const teamById = {};
+  league.teams.forEach(team => {
+    teamById[team.id] = team;
+  });
+
+  let html = `<h2>THIS WEEK'S MATCHUPS</h2>`;
+
+  matchups.forEach(pair => {
+    const team1 = teamById[pair[0]];
+    const team2 = teamById[pair[1]];
+
+    const score1 = getScore(week, team1.id);
+    const score2 = getScore(week, team2.id);
+
+    html += `
+      <div class="matchup">
+        <div>
+          <strong>${team1.name}</strong>
+          <span>${score1}</span>
+        </div>
+
+        <div class="vs">VS.</div>
+
+        <div>
+          <strong>${team2.name}</strong>
+          <span>${score2}</span>
+        </div>
+      </div>
+    `;
+  });
+
+  if (!scores) {
+    html += `
+      <p class="data-status">
+        LIVE DATA STATUS: League site connected.
+        Automated scoring is being configured.
+      </p>
+    `;
+  }
+
+  document.querySelector("#matchups").innerHTML = html;
+}
+
+function getScore(week, teamId) {
+  if (
+    !scores ||
+    !scores.weeks ||
+    !scores.weeks[week] ||
+    scores.weeks[week][teamId] === undefined
+  ) {
+    return "--";
+  }
+
+  return Number(scores.weeks[week][teamId]).toFixed(1);
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  const weekSelect = document.querySelector("#week");
+
+  if (weekSelect) {
+    weekSelect.addEventListener("change", render);
+  }
+
+  const updateButton = document.querySelector("#updateScores");
+
+  if (updateButton) {
+    updateButton.addEventListener("click", start);
+  }
+
+  start();
+});
