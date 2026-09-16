@@ -6,13 +6,19 @@ const MAX_LEAGUE_WEEK = 13;
 const scoring = {
   pass_yd: 1 / 25,
   pass_td: 4,
-  pass_int: -2,
+  pass_int: -1,
   rush_yd: 1 / 10,
   rush_td: 6,
   rec: 0,
   rec_yd: 1 / 10,
   rec_td: 6,
-  fum_lost: -2
+  fum_lost: -1
+};
+
+const injuryReplacements = {
+  "1": {
+    "Brock Bowers": "Michael Mayer"
+  }
 };
 
 function normalize(name) {
@@ -65,7 +71,10 @@ async function getPlayerIds(league) {
       league.teams.flatMap(team => Object.values(team.roster))
     )
   ];
+const replacementNames = Object.values(injuryReplacements)
+  .flatMap(week => Object.values(week));
 
+rosterNames.push(...replacementNames);
   const cached = await readJSON(cacheFile);
 
   if (
@@ -223,20 +232,26 @@ for (let week = 1; week <= currentWeek; week++) {
     let total = 0;
     const players = [];
 
-    for (const [position, name] of Object.entries(team.roster)) {
-      const playerId = playerIds[name];
-      const playerStats = stats[playerId] || {};
-      const points = fantasyPoints(playerStats);
+for (const [position, name] of Object.entries(team.roster)) {
+  const replacement =
+    injuryReplacements[String(week)]?.[name] || null;
 
-      total += points;
+  const scoringName = replacement || name;
+  const playerId = playerIds[scoringName];
+  const playerStats = stats[playerId] || {};
+  const points = fantasyPoints(playerStats);
 
-      players.push({
-        position,
-        name,
-        playerId,
-        points
-      });
-    }
+  total += points;
+
+  players.push({
+    position,
+    name,
+    replacement,
+    scoringName,
+    playerId,
+    points
+  });
+}
 
     total = Number(total.toFixed(2));
 
