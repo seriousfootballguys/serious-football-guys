@@ -1,0 +1,343 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Jordan Love Eats at McDonald's a Lot",
+      
+      "roster": {
+        "QB": "Caleb Williams",
+        "WR": "Justin Jefferson",
+        "TE": "Colston Loveland",
+        "RB": "Bijan Robinson"
+      }
+    },
+    {
+      "id": 2,
+      "name": "The Sparklers",
+ 
+      "roster": {
+        "QB": "Josh Allen",
+        "WR": "Ja'Marr Chase",
+        "TE": "Brock Bowers",
+        "RB": "Saquon Barkley"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Man, You Gotta be Fast to Play Defense",
+ 
+      "roster": {
+        "QB": "Justin Herbert",
+        "WR": "Jaxon Smith-Njigba",
+        "TE": "Sam LaPorta",
+        "RB": "Derrick Henry"
+      }
+    },
+    {
+      "id": 4,
+      "name": "The Roadrunners",
+    
+      "roster": {
+        "QB": "Caleb Williams",
+        "WR": "Luther Burden III",
+        "TE": "Cole Kmet",
+        "RB": "D'Andre Swift"
+      }
+    },
+    {
+      "id": 5,
+      "name": "The Banana Crew",
+
+      "roster": {
+        "QB": "Josh Allen",
+        "WR": "George Pickens",
+        "TE": "Brock Bowers",
+        "RB": "Jahmyr Gibbs"
+      }
+    },
+    {
+      "id": 6,
+      "name": "The Wrecking Crew",
+   
+      "roster": {
+        "QB": "Joe Burrow",
+        "WR": "Jaxon Smith-Njigba",
+        "TE": "Trey McBride",
+        "RB": "De'Von Achane"
+      }
+    },
+    {
+      "id": 7,
+      "name": "aMerrickan Football 1",
+
+      "roster": {
+        "QB": "Josh Allen",
+        "WR": "Ja'Marr Chase",
+        "TE": "Brock Bowers",
+        "RB": "Jahmyr Gibbs"
+      }
+    },
+    {
+      "id": 8,
+      "name": "aMerrickan Football 2",
+
+      "roster": {
+        "QB": "Drake Maye",
+        "WR": "Puka Nacua",
+        "TE": "Trey McBride",
+        "RB": "Bijan Robinson"
+      }
+    }
+  ],
+  "schedule": {
+    "1": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "2": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        6,
+        8
+      ]
+    ],
+    "3": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        7
+      ]
+    ],
+    "4": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "5": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "6": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        7
+      ]
+    ],
+    "7": [
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        6
+      ]
+    ],
+    "8": [
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        5
+      ]
+    ],
+    "9": [
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        3,
+        4
+      ],
+      [
+        6,
+        8
+      ]
+    ],
+    "10": [
+      [
+        1,
+        6
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        5,
+        7
+      ]
+    ],
+    "11": [
+      [
+        1,
+        5
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        6
+      ]
+    ],
+    "12": [
+      [
+        1,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        7,
+        8
+      ]
+    ],
+    "13": [
+      [
+        1,
+        3
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        7
+      ]
+    ]
+  },
+  "bonuses": {
+    "1": "Most interceptions",
+    "2": "Most fumbles",
+    "3": "Aggies or Tigers? Pick by Wednesday; winner earns bonus",
+    "4": "Most passing TDs",
+    "5": "Most TDs by a TE",
+    "6": "Most TDs by a RB",
+    "7": "Most rushing TDs by a QB",
+    "8": "Most QB rushing yards",
+    "9": "Longest receiving or rushing TD",
+    "10": "Longhorns or Tigers? Pick by Wednesday; winner earns bonus",
+    "11": "Least standard-league points",
+    "12": "Aggies or Longhorns? Pick by Wednesday; winner earns bonus",
+    "13": "Most cumulative rushing, passing, and receiving yards"
+  }
+}
