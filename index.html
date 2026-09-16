@@ -12,9 +12,23 @@
 <main>
 <section id="home">
  <div class="bar"><b>LEAGUE CENTRAL</b><span id="status">CONNECTING...</span></div>
- <div class="controls"><label>WEEK <select id="week"></select></label><button id="refresh">↻ UPDATE SCORES</button></div>
- <div class="bonus"><small>★ 10-POINT WEEKLY BONUS ★</small><strong id="bonus"></strong></div>
- <h2>THIS WEEK'S MATCHUPS</h2><div id="matchups" class="matchups"></div>
+ <div class="controls"><label>WEEK <select id="week">
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+  <option value="11">11</option>
+  <option value="12">12</option>
+  <option value="13">13</option>
+</select></label><button id="updateScores">↻ UPDATE SCORES</button></div>
+<div class="bonus"><strong id="bonus"></strong></div>
+ <div id="matchups" class="matchups"></div>
  <p class="note">LIVE DATA STATUS: <span id="dataNote">Loading…</span></p>
 </section>
 <section id="teams" hidden><div class="bar"><b>TEAM DIRECTORY</b><span>PLAYER CARDS</span></div><div id="teamGrid" class="teamgrid"></div></section>
