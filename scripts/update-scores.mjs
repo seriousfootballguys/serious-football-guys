@@ -99,7 +99,8 @@ async function getPlayerIds(league) {
   const missing = [];
 
   for (const name of rosterNames) {
-    const id = byName[normalize(name)];
+    const lookupName = name === "Luther Burden III" ? "Luther Burden" : name;
+const id = byName[normalize(lookupName)];
 
     if (id) {
       ids[name] = id;
