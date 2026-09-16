@@ -23,7 +23,13 @@ async function start() {
 
     document.querySelector("#status").textContent =
       scores ? "SCORES LOADED" : "LEAGUE ONLINE";
+const dataNote = document.querySelector("#dataNote");
 
+if (dataNote) {
+  dataNote.textContent = scores
+    ? "Latest scoring data loaded."
+    : "Automated scoring is being configured.";
+}
     render();
   } catch (error) {
     console.error(error);
@@ -59,39 +65,30 @@ function render() {
   let html = `<h2>THIS WEEK'S MATCHUPS</h2>`;
 
   matchups.forEach(pair => {
-    const team1 = teamById[pair[0]];
-    const team2 = teamById[pair[1]];
+  const team1 = teamById[pair[0]];
+  const team2 = teamById[pair[1]];
 
-    const score1 = getScore(week, team1.id);
-    const score2 = getScore(week, team2.id);
+  const score1 = getScore(week, team1.id);
+  const score2 = getScore(week, team2.id);
 
-    html += `
-      <div class="matchup">
-        <div>
-          <strong>${team1.name}</strong>
-          <span>${score1}</span>
-        </div>
-
-        <div class="vs">VS.</div>
-
-        <div>
-          <strong>${team2.name}</strong>
-          <span>${score2}</span>
-        </div>
+  html += `
+    <div class="card">
+      <div class="teamline">
+        <strong>${team1.name}</strong>
+        <span class="score">${score1}</span>
       </div>
-    `;
-  });
 
-  if (!scores) {
-    html += `
-      <p class="data-status">
-        LIVE DATA STATUS: League site connected.
-        Automated scoring is being configured.
-      </p>
-    `;
-  }
+      <div class="versus">VS.</div>
 
-  document.querySelector("#matchups").innerHTML = html;
+      <div class="teamline">
+        <strong>${team2.name}</strong>
+        <span class="score">${score2}</span>
+      </div>
+    </div>
+  `;
+});
+  
+    document.querySelector("#matchups").innerHTML = html;
 }
 
 function getScore(week, teamId) {
