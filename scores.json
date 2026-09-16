@@ -1,0 +1,523 @@
+{
+  "season": 2026,
+  "scoring": {
+    "pass_yd": 0.04,
+    "pass_td": 4,
+    "pass_int": -2,
+    "rush_yd": 0.1,
+    "rush_td": 6,
+    "rec": 0,
+    "rec_yd": 0.1,
+    "rec_td": 6,
+    "fum_lost": -2
+  },
+  "weeks": {
+    "1": {
+      "1": 60.56,
+      "2": 44.86,
+      "3": 70.56,
+      "4": 82.66,
+      "5": 67.06,
+      "6": 54.46,
+      "7": 65.46,
+      "8": 56.02
+    },
+    "2": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0
+    }
+  },
+  "details": {
+    "1": {
+      "1": {
+        "team": "Jordan Love Eats at McDonald's a Lot",
+        "total": 60.56,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Caleb Williams",
+            "playerId": "11560",
+            "points": 37.26
+          },
+          {
+            "position": "WR",
+            "name": "Justin Jefferson",
+            "playerId": "13524",
+            "points": 0
+          },
+          {
+            "position": "TE",
+            "name": "Colston Loveland",
+            "playerId": "12517",
+            "points": 0
+          },
+          {
+            "position": "RB",
+            "name": "Bijan Robinson",
+            "playerId": "9509",
+            "points": 23.3
+          }
+        ]
+      },
+      "2": {
+        "team": "The Sparklers",
+        "total": 44.86,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Josh Allen",
+            "playerId": "4984",
+            "points": 35.66
+          },
+          {
+            "position": "WR",
+            "name": "Ja'Marr Chase",
+            "playerId": "7564",
+            "points": 1.2
+          },
+          {
+            "position": "TE",
+            "name": "Brock Bowers",
+            "playerId": "11604",
+            "points": 0
+          },
+          {
+            "position": "RB",
+            "name": "Saquon Barkley",
+            "playerId": "4866",
+            "points": 8
+          }
+        ]
+      },
+      "3": {
+        "team": "Man, You Gotta be Fast to Play Defense",
+        "total": 70.56,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Justin Herbert",
+            "playerId": "6797",
+            "points": 13.26
+          },
+          {
+            "position": "WR",
+            "name": "Jaxon Smith-Njigba",
+            "playerId": "9488",
+            "points": 18.2
+          },
+          {
+            "position": "TE",
+            "name": "Sam LaPorta",
+            "playerId": "10859",
+            "points": 4.8
+          },
+          {
+            "position": "RB",
+            "name": "Derrick Henry",
+            "playerId": "3198",
+            "points": 34.3
+          }
+        ]
+      },
+      "4": {
+        "team": "The Roadrunners",
+        "total": 82.66,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Caleb Williams",
+            "playerId": "11560",
+            "points": 37.26
+          },
+          {
+            "position": "WR",
+            "name": "Luther Burden III",
+            "playerId": "12519",
+            "points": 4.5
+          },
+          {
+            "position": "TE",
+            "name": "Cole Kmet",
+            "playerId": "6826",
+            "points": 9.5
+          },
+          {
+            "position": "RB",
+            "name": "D'Andre Swift",
+            "playerId": "6790",
+            "points": 31.4
+          }
+        ]
+      },
+      "5": {
+        "team": "The Banana Crew",
+        "total": 67.06,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Josh Allen",
+            "playerId": "4984",
+            "points": 35.66
+          },
+          {
+            "position": "WR",
+            "name": "George Pickens",
+            "playerId": "8137",
+            "points": 2.8
+          },
+          {
+            "position": "TE",
+            "name": "Brock Bowers",
+            "playerId": "11604",
+            "points": 0
+          },
+          {
+            "position": "RB",
+            "name": "Jahmyr Gibbs",
+            "playerId": "9221",
+            "points": 28.6
+          }
+        ]
+      },
+      "6": {
+        "team": "The Wrecking Crew",
+        "total": 54.46,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Joe Burrow",
+            "playerId": "6770",
+            "points": 14.16
+          },
+          {
+            "position": "WR",
+            "name": "Jaxon Smith-Njigba",
+            "playerId": "9488",
+            "points": 18.2
+          },
+          {
+            "position": "TE",
+            "name": "Trey McBride",
+            "playerId": "8130",
+            "points": 15.5
+          },
+          {
+            "position": "RB",
+            "name": "De'Von Achane",
+            "playerId": "9226",
+            "points": 6.6
+          }
+        ]
+      },
+      "7": {
+        "team": "aMerrickan Football 1",
+        "total": 65.46,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Josh Allen",
+            "playerId": "4984",
+            "points": 35.66
+          },
+          {
+            "position": "WR",
+            "name": "Ja'Marr Chase",
+            "playerId": "7564",
+            "points": 1.2
+          },
+          {
+            "position": "TE",
+            "name": "Brock Bowers",
+            "playerId": "11604",
+            "points": 0
+          },
+          {
+            "position": "RB",
+            "name": "Jahmyr Gibbs",
+            "playerId": "9221",
+            "points": 28.6
+          }
+        ]
+      },
+      "8": {
+        "team": "aMerrickan Football 2",
+        "total": 56.02,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Drake Maye",
+            "playerId": "11564",
+            "points": 9.82
+          },
+          {
+            "position": "WR",
+            "name": "Puka Nacua",
+            "playerId": "9493",
+            "points": 7.4
+          },
+          {
+            "position": "TE",
+            "name": "Trey McBride",
+            "playerId": "8130",
+            "points": 15.5
+          },
+          {
+            "position": "RB",
+            "name": "Bijan Robinson",
+            "playerId": "9509",
+            "points": 23.3
+          }
+        ]
+      }
+    },
+    "2": {
+      "1": {
+        "team": "Jordan Love Eats at McDonald's a Lot",
+        "total": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Caleb Williams",
+            "playerId": "11560",
+            "points": 0
+          },
+          {
+            "position": "WR",
+            "name": "Justin Jefferson",
+            "playerId": "13524",
+            "points": 0
+          },
+          {
+            "position": "TE",
+            "name": "Colston Loveland",
+            "playerId": "12517",
+            "points": 0
+          },
+          {
+            "position": "RB",
+            "name": "Bijan Robinson",
+            "playerId": "9509",
+            "points": 0
+          }
+        ]
+      },
+      "2": {
+        "team": "The Sparklers",
+        "total": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Josh Allen",
+            "playerId": "4984",
+            "points": 0
+          },
+          {
+            "position": "WR",
+            "name": "Ja'Marr Chase",
+            "playerId": "7564",
+            "points": 0
+          },
+          {
+            "position": "TE",
+            "name": "Brock Bowers",
+            "playerId": "11604",
+            "points": 0
+          },
+          {
+            "position": "RB",
+            "name": "Saquon Barkley",
+            "playerId": "4866",
+            "points": 0
+          }
+        ]
+      },
+      "3": {
+        "team": "Man, You Gotta be Fast to Play Defense",
+        "total": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Justin Herbert",
+            "playerId": "6797",
+            "points": 0
+          },
+          {
+            "position": "WR",
+            "name": "Jaxon Smith-Njigba",
+            "playerId": "9488",
+            "points": 0
+          },
+          {
+            "position": "TE",
+            "name": "Sam LaPorta",
+            "playerId": "10859",
+            "points": 0
+          },
+          {
+            "position": "RB",
+            "name": "Derrick Henry",
+            "playerId": "3198",
+            "points": 0
+          }
+        ]
+      },
+      "4": {
+        "team": "The Roadrunners",
+        "total": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Caleb Williams",
+            "playerId": "11560",
+            "points": 0
+          },
+          {
+            "position": "WR",
+            "name": "Luther Burden III",
+            "playerId": "12519",
+            "points": 0
+          },
+          {
+            "position": "TE",
+            "name": "Cole Kmet",
+            "playerId": "6826",
+            "points": 0
+          },
+          {
+            "position": "RB",
+            "name": "D'Andre Swift",
+            "playerId": "6790",
+            "points": 0
+          }
+        ]
+      },
+      "5": {
+        "team": "The Banana Crew",
+        "total": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Josh Allen",
+            "playerId": "4984",
+            "points": 0
+          },
+          {
+            "position": "WR",
+            "name": "George Pickens",
+            "playerId": "8137",
+            "points": 0
+          },
+          {
+            "position": "TE",
+            "name": "Brock Bowers",
+            "playerId": "11604",
+            "points": 0
+          },
+          {
+            "position": "RB",
+            "name": "Jahmyr Gibbs",
+            "playerId": "9221",
+            "points": 0
+          }
+        ]
+      },
+      "6": {
+        "team": "The Wrecking Crew",
+        "total": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Joe Burrow",
+            "playerId": "6770",
+            "points": 0
+          },
+          {
+            "position": "WR",
+            "name": "Jaxon Smith-Njigba",
+            "playerId": "9488",
+            "points": 0
+          },
+          {
+            "position": "TE",
+            "name": "Trey McBride",
+            "playerId": "8130",
+            "points": 0
+          },
+          {
+            "position": "RB",
+            "name": "De'Von Achane",
+            "playerId": "9226",
+            "points": 0
+          }
+        ]
+      },
+      "7": {
+        "team": "aMerrickan Football 1",
+        "total": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Josh Allen",
+            "playerId": "4984",
+            "points": 0
+          },
+          {
+            "position": "WR",
+            "name": "Ja'Marr Chase",
+            "playerId": "7564",
+            "points": 0
+          },
+          {
+            "position": "TE",
+            "name": "Brock Bowers",
+            "playerId": "11604",
+            "points": 0
+          },
+          {
+            "position": "RB",
+            "name": "Jahmyr Gibbs",
+            "playerId": "9221",
+            "points": 0
+          }
+        ]
+      },
+      "8": {
+        "team": "aMerrickan Football 2",
+        "total": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Drake Maye",
+            "playerId": "11564",
+            "points": 0
+          },
+          {
+            "position": "WR",
+            "name": "Puka Nacua",
+            "playerId": "9493",
+            "points": 0
+          },
+          {
+            "position": "TE",
+            "name": "Trey McBride",
+            "playerId": "8130",
+            "points": 0
+          },
+          {
+            "position": "RB",
+            "name": "Bijan Robinson",
+            "playerId": "9509",
+            "points": 0
+          }
+        ]
+      }
+    }
+  },
+  "updatedAt": "2026-09-16T05:27:41.076Z"
+}
