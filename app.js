@@ -70,20 +70,23 @@ function render() {
 
   const score1 = getScore(week, team1.id);
   const score2 = getScore(week, team2.id);
-
+  const bonus1 = getBonus(week, team1.id);
+  const bonus2 = getBonus(week, team2.id);
   html += `
     <div class="card">
       <div class="teamline">
-        <strong>${team1.name}</strong>
-        <span class="score">${score1}</span>
-      </div>
+  <strong>${team1.name}</strong>
+  <span class="score">${score1}</span>
+  ${bonus1 ? `<span class="bonus-earned">${bonus1}</span>` : ""}
+</div>
 
       <div class="versus">VS.</div>
 
-      <div class="teamline">
-        <strong>${team2.name}</strong>
-        <span class="score">${score2}</span>
-      </div>
+     <div class="teamline">
+  <strong>${team2.name}</strong>
+  <span class="score">${score2}</span>
+  ${bonus2 ? `<span class="bonus-earned">${bonus2}</span>` : ""}
+</div>
     </div>
   `;
 });
@@ -102,6 +105,19 @@ function getScore(week, teamId) {
   }
 
   return Number(scores.weeks[week][teamId]).toFixed(2);
+function getBonus(week, teamId) {
+  if (
+    !scores ||
+    !scores.details ||
+    !scores.details[week] ||
+    !scores.details[week][teamId]
+  ) {
+    return "";
+  }
+
+  const bonus = Number(scores.details[week][teamId].bonus || 0);
+
+  return bonus > 0 ? `+${bonus} BONUS` : "";
 }
 
 document.addEventListener("DOMContentLoaded", () => {
