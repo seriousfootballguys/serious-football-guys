@@ -31,6 +31,7 @@ if (dataNote) {
     : "Automated scoring is being configured.";
 }
     render();
+    renderTeams();
   } catch (error) {
     console.error(error);
 
@@ -121,7 +122,28 @@ function getBonus(week, teamId) {
 
   return bonus > 0 ? `+${bonus} BONUS` : "";
 }
+function renderTeams() {
+  const teamGrid = document.querySelector("#teamGrid");
 
+  if (!teamGrid || !league) {
+    return;
+  }
+
+  teamGrid.innerHTML = league.teams.map(team => {
+    const roster = Object.entries(team.roster)
+      .map(([position, name]) => {
+        return `<div><b>${position}:</b> ${name}</div>`;
+      })
+      .join("");
+
+    return `
+      <div class="card">
+        <h3>${team.name}</h3>
+        <div class="roster">${roster}</div>
+      </div>
+    `;
+  }).join("");
+}
 document.addEventListener("DOMContentLoaded", () => {
   const navButtons = document.querySelectorAll("nav button[data-view]");
   const sections = document.querySelectorAll("main > section");
