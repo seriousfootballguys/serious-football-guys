@@ -37,6 +37,7 @@ if (dataNote) {
     render();
     renderTeams();
     renderSchedule();
+    renderStandings();
   } catch (error) {
     console.error(error);
 
@@ -181,6 +182,89 @@ function renderSchedule() {
       `;
     })
     .join("");
+}
+function renderStandings() {
+  const container = document.querySelector("#standingsTable");
+
+  if (!container || !league || !scores || !scores.weeks) {
+    return;
+  }
+
+  const standings = {};
+
+  league.teams.forEach(team => {
+    standings[team.id] = {
+      name: team.name,
+      wins: 0,
+      losses: 0,
+      ties: 0,
+      points: 0
+    };
+  });
+
+  const scoredWeeks = Object.keys(scores.weeks)
+    .map(Number)
+    .sort((a, b) => a - b);
+
+  const currentWeek = Math.max(...scoredWeeks);
+
+  scoredWeeks
+    .filter(week => week < currentWeek)
+    .forEach(week => {
+      const weekScores = scores.weeks[String(week)];
+      const matchups = league.schedule[String(week)] || [];
+
+      matchups.forEach(([team1, team2]) => {
+        const score1 = Number(weekScores[team1] || 0);
+        const score2 = Number(weekScores[team2] || 0);
+
+        standings[team1].points += score1;
+        standings[team2].points += score2;
+
+        if (score1 > score2) {
+          standings[team1].wins++;
+          standings[team2].losses++;
+        } else if (score2 > score1) {
+          standings[team2].wins++;
+          standings[team1].losses++;
+        } else {
+          standings[team1].ties++;
+          standings[team2].ties++;
+        }
+      });
+    });
+
+  const rows = Object.values(standings)
+    .sort((a, b) => {
+      if (b.wins !== a.wins) {
+        return b.wins - a.wins;
+      }
+
+      return b.points - a.points;
+    });
+
+  container.innerHTML = `
+    <table>
+      <thead>
+        <tr>
+          <th>RK</th>
+          <th>TEAM</th>
+          <th>RECORD</th>
+          <th>PF</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${rows.map((team, index) => `
+          <tr>
+            <td>${index + 1}</td>
+            <td>${team.name}</td>
+            <td>${team.wins}-${team.losses}${team.ties ? `-${team.ties}` : ""}</td>
+            <td>${team.points.toFixed(2)}</td>
+          </tr>
+        `).join("")}
+      </tbody>
+    </table>
+  `;
 }
 function startMusic() {
   themeMusic.play();
