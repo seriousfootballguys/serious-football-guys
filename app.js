@@ -101,7 +101,7 @@ function getScore(week, teamId) {
     return "--";
   }
 
-  return Number(scores.weeks[week][teamId]).toFixed(1);
+  return Number(scores.weeks[week][teamId]).toFixed(2);
 }
 
 document.addEventListener("DOMContentLoaded", () => {
