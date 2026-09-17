@@ -7,19 +7,24 @@
 #standingsTable table {
   width: 100%;
   border-collapse: collapse;
-  background: white;
+  background: #1f1f1f;
+  color: #f2e8c9;
   font-size: 16px;
 }
 
 #standingsTable th,
 #standingsTable td {
-  border: 2px solid #111;
+  border: 1px solid #4a4a4a;
   padding: 10px;
   text-align: left;
+}
 }
 
 #standingsTable th {
   font-weight: bold;
+  background: #2b2b2b;
+  color: #ffd36a;
+}
 }
 
 #standingsTable td:first-child,
