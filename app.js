@@ -104,7 +104,9 @@ function getScore(week, teamId) {
     return "--";
   }
 
-  return Number(scores.weeks[week][teamId]).toFixed(2);
+return Number(scores.weeks[week][teamId]).toFixed(2);
+}
+
 function getBonus(week, teamId) {
   if (
     !scores ||
