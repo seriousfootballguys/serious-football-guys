@@ -267,6 +267,7 @@ for (let week = 1; week <= currentWeek; week++) {
   for (const team of league.teams) {
     let total = 0;
     const players = [];
+    let qbInterceptions = 0;
 
 for (const [position, name] of Object.entries(team.roster)) {
   const replacement =
@@ -277,6 +278,10 @@ for (const [position, name] of Object.entries(team.roster)) {
   const playerStats = stats[playerId] || {};
   const points = fantasyPoints(playerStats);
 
+  if (position === "QB") {
+  qbInterceptions = Number(playerStats.pass_int || 0);
+}
+  
   total += points;
 
   players.push({
@@ -293,11 +298,33 @@ for (const [position, name] of Object.entries(team.roster)) {
 
     output.weeks[String(week)][String(team.id)] = total;
 
-    output.details[String(week)][String(team.id)] = {
-      team: team.name,
-      total,
-      players
-    };
+   output.details[String(week)][String(team.id)] = {
+  team: team.name,
+  total,
+  qbInterceptions,
+  players
+};
+  }
+} if (week === 1) {
+  const weekDetails = output.details[String(week)];
+
+  const maxInterceptions = Math.max(
+    ...Object.values(weekDetails).map(
+      team => Number(team.qbInterceptions || 0)
+    )
+  );
+
+  for (const [teamId, teamDetail] of Object.entries(weekDetails)) {
+    if (Number(teamDetail.qbInterceptions || 0) === maxInterceptions) {
+      teamDetail.bonus = 10;
+      teamDetail.total = Number(
+        (teamDetail.total + 10).toFixed(2)
+      );
+
+      output.weeks[String(week)][teamId] = teamDetail.total;
+    } else {
+      teamDetail.bonus = 0;
+    }
   }
 }
 
