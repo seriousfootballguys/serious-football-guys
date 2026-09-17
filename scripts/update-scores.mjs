@@ -305,7 +305,9 @@ for (const [position, name] of Object.entries(team.roster)) {
   players
 };
   }
-} if (week === 1) {
+}
+
+if (week === 1) {
   const weekDetails = output.details[String(week)];
 
   const maxInterceptions = Math.max(
@@ -327,7 +329,7 @@ for (const [position, name] of Object.entries(team.roster)) {
     }
   }
 }
-
+}
 output.updatedAt = new Date().toISOString();
 
 await fs.writeFile(
