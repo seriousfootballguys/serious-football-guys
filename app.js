@@ -32,6 +32,7 @@ if (dataNote) {
 }
     render();
     renderTeams();
+    renderSchedule();
   } catch (error) {
     console.error(error);
 
@@ -143,6 +144,39 @@ function renderTeams() {
       </div>
     `;
   }).join("");
+}
+function renderSchedule() {
+  const sched = document.querySelector("#sched");
+
+  if (!sched || !league) {
+    return;
+  }
+
+  const teamById = {};
+
+  league.teams.forEach(team => {
+    teamById[team.id] = team;
+  });
+
+  sched.innerHTML = Object.entries(league.schedule)
+    .map(([week, matchups]) => {
+      const games = matchups
+        .map(pair => {
+          const team1 = teamById[pair[0]];
+          const team2 = teamById[pair[1]];
+
+          return `<div>${team1.name} vs. ${team2.name}</div>`;
+        })
+        .join("");
+
+      return `
+        <div class="weekrow">
+          <b>WEEK ${week}</b>
+          ${games}
+        </div>
+      `;
+    })
+    .join("");
 }
 document.addEventListener("DOMContentLoaded", () => {
   const navButtons = document.querySelectorAll("nav button[data-view]");
