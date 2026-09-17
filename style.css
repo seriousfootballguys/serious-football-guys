@@ -4,3 +4,33 @@
   font-weight: bold;
   font-size: 0.85em;
 }
+#standingsTable table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  font-size: 16px;
+}
+
+#standingsTable th,
+#standingsTable td {
+  border: 2px solid #111;
+  padding: 10px;
+  text-align: left;
+}
+
+#standingsTable th {
+  font-weight: bold;
+}
+
+#standingsTable td:first-child,
+#standingsTable th:first-child {
+  text-align: center;
+  width: 50px;
+}
+
+#standingsTable td:nth-child(3),
+#standingsTable th:nth-child(3),
+#standingsTable td:nth-child(4),
+#standingsTable th:nth-child(4) {
+  text-align: center;
+}
