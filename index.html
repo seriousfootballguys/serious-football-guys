@@ -12,7 +12,8 @@
   <button data-view="home">HOME</button>
   <button data-view="teams">TEAMS</button>
   <button data-view="schedule">SCHEDULE</button>
-  <button data-view="rules">RULES</button>
+<button data-view="standings">STANDINGS</button>
+<button data-view="rules">RULES</button>
   <button id="musicToggle">▶ PLAY MUSIC</button>
 </nav>
 <main>
@@ -39,6 +40,13 @@
 </section>
 <section id="teams" hidden><div class="bar"><b>TEAM DIRECTORY</b><span>PLAYER CARDS</span></div><div id="teamGrid" class="teamgrid"></div></section>
 <section id="schedule" hidden><div class="bar"><b>MASTER SCHEDULE</b><span>WEEKS 1–13</span></div><div id="sched"></div></section>
+<section id="standings" hidden>
+  <div class="bar">
+    <b>LEAGUE STANDINGS</b>
+    <span>W-L • POINTS</span>
+  </div>
+  <div id="standingsTable"></div>
+</section>
 <section id="rules" hidden><div class="bar"><b>COMMISSIONER'S RULEBOOK</b><span>OFFICIAL</span></div>
 <div class="paper"><ol>
 <li>Each team drafts blindly and picks one player for each position.</li>
