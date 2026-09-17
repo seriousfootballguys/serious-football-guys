@@ -1,6 +1,6 @@
 let league = null;
 let scores = null;
-const themeMusic = new Audio("./theme.mp3");
+const themeMusic = new Audio("./NFL on FOX - Version 2.mp3");
 themeMusic.loop = true;
 themeMusic.volume = 0.5;
 
