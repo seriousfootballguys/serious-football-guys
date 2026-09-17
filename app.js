@@ -117,5 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
     updateButton.addEventListener("click", start);
   }
 
-  start();
+    start();
+
+  setInterval(start, 60 * 1000);
 });
