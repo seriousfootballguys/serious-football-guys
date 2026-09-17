@@ -191,13 +191,7 @@ function stopMusic() {
   themeMusic.pause();
   musicPlaying = false;
 }
-  musicPlaying = false;
-
-  if (musicTimer) {
-    clearInterval(musicTimer);
-    musicTimer = null;
-  }
-}
+  
 document.addEventListener("DOMContentLoaded", () => {
   const navButtons = document.querySelectorAll("nav button[data-view]");
   const sections = document.querySelectorAll("main > section");
