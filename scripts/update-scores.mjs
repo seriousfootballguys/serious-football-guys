@@ -304,7 +304,7 @@ for (const [position, name] of Object.entries(team.roster)) {
   qbInterceptions,
   players
 };
-  }
+  
 }
 
 if (week === 1) {
