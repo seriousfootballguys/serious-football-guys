@@ -1,9 +1,10 @@
 {
   "season": 2026,
-  "generatedOn": "2026-09-16",
+  "cacheVersion": 2,
+  "generatedOn": "2026-09-17",
   "players": {
     "Caleb Williams": "11560",
-    "Justin Jefferson": "13524",
+    "Justin Jefferson": "6794",
     "Colston Loveland": "12517",
     "Bijan Robinson": "9509",
     "Josh Allen": "4984",

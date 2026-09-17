@@ -13,7 +13,7 @@
   },
   "weeks": {
     "1": {
-      "1": 60.56,
+      "1": 81.76,
       "2": 48.06,
       "3": 71.56,
       "4": 83.66,
@@ -37,7 +37,7 @@
     "1": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 60.56,
+        "total": 81.76,
         "players": [
           {
             "position": "QB",
@@ -52,8 +52,8 @@
             "name": "Justin Jefferson",
             "replacement": null,
             "scoringName": "Justin Jefferson",
-            "playerId": "13524",
-            "points": 0
+            "playerId": "6794",
+            "points": 21.2
           },
           {
             "position": "TE",
@@ -358,7 +358,7 @@
             "name": "Justin Jefferson",
             "replacement": null,
             "scoringName": "Justin Jefferson",
-            "playerId": "13524",
+            "playerId": "6794",
             "points": 0
           },
           {
@@ -647,5 +647,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-16T05:41:12.917Z"
+  "updatedAt": "2026-09-17T01:11:37.256Z"
 }
