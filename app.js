@@ -123,6 +123,18 @@ function getBonus(week, teamId) {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
+  const navButtons = document.querySelectorAll("nav button[data-view]");
+  const sections = document.querySelectorAll("main > section");
+
+navButtons.forEach(button => {
+  button.addEventListener("click", () => {
+    const target = button.dataset.view;
+
+    sections.forEach(section => {
+      section.hidden = section.id !== target;
+    });
+  });
+});
   const weekSelect = document.querySelector("#week");
 
   if (weekSelect) {
