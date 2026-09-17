@@ -20,7 +20,7 @@
       "5": 71.26,
       "6": 55.46,
       "7": 69.66,
-      "8": 59.02
+      "8": 69.02
     },
     "2": {
       "1": 0,
@@ -38,6 +38,7 @@
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
         "total": 81.76,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -71,11 +72,13 @@
             "playerId": "9509",
             "points": 23.3
           }
-        ]
+        ],
+        "bonus": 0
       },
       "2": {
         "team": "The Sparklers",
         "total": 48.06,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -109,11 +112,13 @@
             "playerId": "4866",
             "points": 8
           }
-        ]
+        ],
+        "bonus": 0
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
         "total": 71.56,
+        "qbInterceptions": 1,
         "players": [
           {
             "position": "QB",
@@ -147,11 +152,13 @@
             "playerId": "3198",
             "points": 34.3
           }
-        ]
+        ],
+        "bonus": 0
       },
       "4": {
         "team": "The Roadrunners",
         "total": 83.66,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -185,11 +192,13 @@
             "playerId": "6790",
             "points": 31.4
           }
-        ]
+        ],
+        "bonus": 0
       },
       "5": {
         "team": "The Banana Crew",
         "total": 71.26,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -223,11 +232,13 @@
             "playerId": "9221",
             "points": 29.6
           }
-        ]
+        ],
+        "bonus": 0
       },
       "6": {
         "team": "The Wrecking Crew",
         "total": 55.46,
+        "qbInterceptions": 1,
         "players": [
           {
             "position": "QB",
@@ -261,11 +272,13 @@
             "playerId": "9226",
             "points": 6.6
           }
-        ]
+        ],
+        "bonus": 0
       },
       "7": {
         "team": "aMerrickan Football 1",
         "total": 69.66,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -299,11 +312,13 @@
             "playerId": "9221",
             "points": 29.6
           }
-        ]
+        ],
+        "bonus": 0
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 59.02,
+        "total": 69.02,
+        "qbInterceptions": 3,
         "players": [
           {
             "position": "QB",
@@ -337,13 +352,15 @@
             "playerId": "9509",
             "points": 23.3
           }
-        ]
+        ],
+        "bonus": 10
       }
     },
     "2": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
         "total": 0,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -382,6 +399,7 @@
       "2": {
         "team": "The Sparklers",
         "total": 0,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -420,6 +438,7 @@
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
         "total": 0,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -458,6 +477,7 @@
       "4": {
         "team": "The Roadrunners",
         "total": 0,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -496,6 +516,7 @@
       "5": {
         "team": "The Banana Crew",
         "total": 0,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -534,6 +555,7 @@
       "6": {
         "team": "The Wrecking Crew",
         "total": 0,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -572,6 +594,7 @@
       "7": {
         "team": "aMerrickan Football 1",
         "total": 0,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -610,6 +633,7 @@
       "8": {
         "team": "aMerrickan Football 2",
         "total": 0,
+        "qbInterceptions": 0,
         "players": [
           {
             "position": "QB",
@@ -647,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-17T01:11:37.256Z"
+  "updatedAt": "2026-09-17T01:37:57.924Z"
 }
