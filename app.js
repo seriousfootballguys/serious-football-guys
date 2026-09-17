@@ -1,7 +1,9 @@
 let league = null;
 let scores = null;
-let audioContext = null;
-let musicTimer = null;
+const themeMusic = new Audio("./theme.mp3");
+themeMusic.loop = true;
+themeMusic.volume = 0.5;
+
 let musicPlaying = false;
 async function loadJSON(file) {
   const response = await fetch(file + "?v=" + Date.now());
@@ -180,86 +182,15 @@ function renderSchedule() {
     })
     .join("");
 }
-function playMusicBar() {
-  if (!audioContext || !musicPlaying) {
-    return;
-  }
-
-  const now = audioContext.currentTime;
-
-  const notes = [
-    [0.00, 130.81, 0.25],
-    [0.35, 196.00, 0.25],
-    [0.70, 261.63, 0.30],
-    [1.10, 311.13, 0.25],
-    [1.45, 392.00, 0.35],
-    [1.95, 349.23, 0.25],
-    [2.30, 311.13, 0.25],
-    [2.65, 261.63, 0.50]
-  ];
-
-  notes.forEach(([offset, frequency, duration]) => {
-    const horn = audioContext.createOscillator();
-    const volume = audioContext.createGain();
-
-    horn.type = "sawtooth";
-    horn.frequency.value = frequency;
-
-    volume.gain.setValueAtTime(0.0001, now + offset);
-    volume.gain.exponentialRampToValueAtTime(
-      0.06,
-      now + offset + 0.02
-    );
-    volume.gain.exponentialRampToValueAtTime(
-      0.0001,
-      now + offset + duration
-    );
-
-    horn.connect(volume);
-    volume.connect(audioContext.destination);
-
-    horn.start(now + offset);
-    horn.stop(now + offset + duration + 0.05);
-  });
-    const drumTimes = [0, 0.7, 1.45, 2.3];
-
-  drumTimes.forEach(offset => {
-    const drum = audioContext.createOscillator();
-    const drumVolume = audioContext.createGain();
-
-    drum.type = "sine";
-    drum.frequency.setValueAtTime(110, now + offset);
-    drum.frequency.exponentialRampToValueAtTime(
-      45,
-      now + offset + 0.15
-    );
-
-    drumVolume.gain.setValueAtTime(0.15, now + offset);
-    drumVolume.gain.exponentialRampToValueAtTime(
-      0.0001,
-      now + offset + 0.2
-    );
-
-    drum.connect(drumVolume);
-    drumVolume.connect(audioContext.destination);
-
-    drum.start(now + offset);
-    drum.stop(now + offset + 0.22);
-  });
-}
 function startMusic() {
-  if (!audioContext) {
-    audioContext = new (window.AudioContext || window.webkitAudioContext)();
-  }
-
-  audioContext.resume();
+  themeMusic.play();
   musicPlaying = true;
-
-  playMusicBar();
-  musicTimer = setInterval(playMusicBar, 3200);
 }
 
 function stopMusic() {
+  themeMusic.pause();
+  musicPlaying = false;
+}
   musicPlaying = false;
 
   if (musicTimer) {
