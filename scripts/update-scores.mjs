@@ -64,22 +64,44 @@ async function readJSON(file, fallback = null) {
 
 async function getPlayerIds(league) {
   const cacheFile = "player-ids.json";
+  const cacheVersion = 2;
   const today = new Date().toISOString().slice(0, 10);
 
-  const rosterNames = [
-    ...new Set(
-      league.teams.flatMap(team => Object.values(team.roster))
-    )
-  ];
-const replacementNames = Object.values(injuryReplacements)
-  .flatMap(week => Object.values(week));
+  const positionByName = {};
 
-rosterNames.push(...replacementNames);
+  for (const team of league.teams) {
+    for (const [position, name] of Object.entries(team.roster)) {
+      positionByName[name] = position;
+    }
+  }
+
+  const replacementNames = [];
+
+  for (const replacements of Object.values(injuryReplacements)) {
+    for (const [injuredName, replacementName] of Object.entries(replacements)) {
+      const position = positionByName[injuredName];
+
+      if (position) {
+        positionByName[replacementName] = position;
+      }
+
+      replacementNames.push(replacementName);
+    }
+  }
+
+  const rosterNames = [
+    ...new Set([
+      ...league.teams.flatMap(team => Object.values(team.roster)),
+      ...replacementNames
+    ])
+  ];
+
   const cached = await readJSON(cacheFile);
 
   if (
     cached &&
     cached.season === SEASON &&
+    cached.cacheVersion === cacheVersion &&
     cached.generatedOn === today &&
     rosterNames.every(name => cached.players[name])
   ) {
@@ -92,15 +114,22 @@ rosterNames.push(...replacementNames);
     "https://api.sleeper.app/v1/players/nfl?active=true"
   );
 
-  const byName = {};
+  const byNameAndPosition = {};
 
   for (const [playerId, player] of Object.entries(players)) {
     const fullName = normalize(
       `${player.first_name || ""} ${player.last_name || ""}`
     );
 
-    if (fullName) {
-      byName[fullName] = playerId;
+    const positions = [
+      player.position,
+      ...(Array.isArray(player.fantasy_positions)
+        ? player.fantasy_positions
+        : [])
+    ].filter(Boolean);
+
+    for (const position of new Set(positions)) {
+      byNameAndPosition[`${fullName}|${position}`] = playerId;
     }
   }
 
@@ -108,13 +137,20 @@ rosterNames.push(...replacementNames);
   const missing = [];
 
   for (const name of rosterNames) {
-    const lookupName = name === "Luther Burden III" ? "Luther Burden" : name;
-const id = byName[normalize(lookupName)];
+    const lookupName =
+      name === "Luther Burden III" ? "Luther Burden" : name;
+
+    const expectedPosition = positionByName[name];
+
+    const id =
+      byNameAndPosition[
+        `${normalize(lookupName)}|${expectedPosition}`
+      ];
 
     if (id) {
       ids[name] = id;
     } else {
-      missing.push(name);
+      missing.push(`${name} (${expectedPosition})`);
     }
   }
 
@@ -129,6 +165,7 @@ const id = byName[normalize(lookupName)];
     JSON.stringify(
       {
         season: SEASON,
+        cacheVersion,
         generatedOn: today,
         players: ids
       },
@@ -139,7 +176,6 @@ const id = byName[normalize(lookupName)];
 
   return ids;
 }
-
 async function getWeeklyStats(week) {
   const urls = [
     `https://api.sleeper.com/stats/nfl/${SEASON}/${week}?season_type=regular`,
