@@ -24,12 +24,12 @@
     },
     "2": {
       "1": 0,
-      "2": 28.56,
-      "3": 2.6,
+      "2": 30.54,
+      "3": 4.4,
       "4": 0,
-      "5": 43.46,
+      "5": 46.54,
       "6": 0,
-      "7": 43.46,
+      "7": 46.54,
       "8": 0
     }
   },
@@ -398,7 +398,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 28.56,
+        "total": 30.54,
         "qbInterceptions": 0,
         "players": [
           {
@@ -407,7 +407,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 28.56
+            "points": 30.54
           },
           {
             "position": "WR",
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 2.6,
+        "total": 4.4,
         "qbInterceptions": 0,
         "players": [
           {
@@ -462,7 +462,7 @@
             "replacement": null,
             "scoringName": "Sam LaPorta",
             "playerId": "10859",
-            "points": 2.6
+            "points": 4.4
           },
           {
             "position": "RB",
@@ -515,7 +515,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 43.46,
+        "total": 46.54,
         "qbInterceptions": 0,
         "players": [
           {
@@ -524,7 +524,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 28.56
+            "points": 30.54
           },
           {
             "position": "WR",
@@ -548,7 +548,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 14.9
+            "points": 16
           }
         ]
       },
@@ -593,7 +593,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 43.46,
+        "total": 46.54,
         "qbInterceptions": 0,
         "players": [
           {
@@ -602,7 +602,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 28.56
+            "points": 30.54
           },
           {
             "position": "WR",
@@ -626,7 +626,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 14.9
+            "points": 16
           }
         ]
       },
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-18T02:09:18.038Z"
+  "updatedAt": "2026-09-18T02:27:38.524Z"
 }
