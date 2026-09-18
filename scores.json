@@ -24,12 +24,12 @@
     },
     "2": {
       "1": 0,
-      "2": 41.12,
+      "2": 40.82,
       "3": 11.2,
       "4": 0,
-      "5": 58.42,
+      "5": 58.12,
       "6": 0,
-      "7": 58.42,
+      "7": 58.12,
       "8": 0
     }
   },
@@ -398,7 +398,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 41.12,
+        "total": 40.82,
         "qbInterceptions": 0,
         "players": [
           {
@@ -407,7 +407,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 41.12
+            "points": 40.82
           },
           {
             "position": "WR",
@@ -515,7 +515,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 58.42,
+        "total": 58.12,
         "qbInterceptions": 0,
         "players": [
           {
@@ -524,7 +524,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 41.12
+            "points": 40.82
           },
           {
             "position": "WR",
@@ -593,7 +593,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 58.42,
+        "total": 58.12,
         "qbInterceptions": 0,
         "players": [
           {
@@ -602,7 +602,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 41.12
+            "points": 40.82
           },
           {
             "position": "WR",
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-18T03:26:46.877Z"
+  "updatedAt": "2026-09-18T03:42:12.534Z"
 }
