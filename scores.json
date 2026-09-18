@@ -25,11 +25,11 @@
     "2": {
       "1": 0,
       "2": 28.56,
-      "3": 1.4,
+      "3": 2.6,
       "4": 0,
-      "5": 42.56,
+      "5": 43.26,
       "6": 0,
-      "7": 42.56,
+      "7": 43.26,
       "8": 0
     }
   },
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 1.4,
+        "total": 2.6,
         "qbInterceptions": 0,
         "players": [
           {
@@ -462,7 +462,7 @@
             "replacement": null,
             "scoringName": "Sam LaPorta",
             "playerId": "10859",
-            "points": 1.4
+            "points": 2.6
           },
           {
             "position": "RB",
@@ -515,7 +515,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 42.56,
+        "total": 43.26,
         "qbInterceptions": 0,
         "players": [
           {
@@ -548,7 +548,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 14
+            "points": 14.7
           }
         ]
       },
@@ -593,7 +593,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 42.56,
+        "total": 43.26,
         "qbInterceptions": 0,
         "players": [
           {
@@ -626,7 +626,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 14
+            "points": 14.7
           }
         ]
       },
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-18T01:42:21.404Z"
+  "updatedAt": "2026-09-18T01:54:04.640Z"
 }
