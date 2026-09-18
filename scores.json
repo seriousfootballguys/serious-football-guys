@@ -24,12 +24,12 @@
     },
     "2": {
       "1": 0,
-      "2": 3.38,
-      "3": 0,
+      "2": 17.88,
+      "3": 0.2,
       "4": 0,
-      "5": 3.38,
+      "5": 17.88,
       "6": 0,
-      "7": 3.38,
+      "7": 17.88,
       "8": 0
     }
   },
@@ -398,7 +398,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 3.38,
+        "total": 17.88,
         "qbInterceptions": 0,
         "players": [
           {
@@ -407,7 +407,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 3.38
+            "points": 17.88
           },
           {
             "position": "WR",
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 0,
+        "total": 0.2,
         "qbInterceptions": 0,
         "players": [
           {
@@ -462,7 +462,7 @@
             "replacement": null,
             "scoringName": "Sam LaPorta",
             "playerId": "10859",
-            "points": 0
+            "points": 0.2
           },
           {
             "position": "RB",
@@ -515,7 +515,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 3.38,
+        "total": 17.88,
         "qbInterceptions": 0,
         "players": [
           {
@@ -524,7 +524,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 3.38
+            "points": 17.88
           },
           {
             "position": "WR",
@@ -593,7 +593,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 3.38,
+        "total": 17.88,
         "qbInterceptions": 0,
         "players": [
           {
@@ -602,7 +602,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 3.38
+            "points": 17.88
           },
           {
             "position": "WR",
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-18T00:24:43.418Z"
+  "updatedAt": "2026-09-18T00:43:07.154Z"
 }
