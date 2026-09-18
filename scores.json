@@ -24,12 +24,12 @@
     },
     "2": {
       "1": 0,
-      "2": 38.76,
-      "3": 5.1,
+      "2": 39.64,
+      "3": 11.2,
       "4": 0,
-      "5": 54.96,
+      "5": 55.84,
       "6": 0,
-      "7": 54.96,
+      "7": 55.84,
       "8": 0
     }
   },
@@ -398,7 +398,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 38.76,
+        "total": 39.64,
         "qbInterceptions": 0,
         "players": [
           {
@@ -407,7 +407,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 38.76
+            "points": 39.64
           },
           {
             "position": "WR",
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 5.1,
+        "total": 11.2,
         "qbInterceptions": 0,
         "players": [
           {
@@ -462,7 +462,7 @@
             "replacement": null,
             "scoringName": "Sam LaPorta",
             "playerId": "10859",
-            "points": 5.1
+            "points": 11.2
           },
           {
             "position": "RB",
@@ -515,7 +515,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 54.96,
+        "total": 55.84,
         "qbInterceptions": 0,
         "players": [
           {
@@ -524,7 +524,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 38.76
+            "points": 39.64
           },
           {
             "position": "WR",
@@ -593,7 +593,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 54.96,
+        "total": 55.84,
         "qbInterceptions": 0,
         "players": [
           {
@@ -602,7 +602,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 38.76
+            "points": 39.64
           },
           {
             "position": "WR",
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-18T02:43:05.076Z"
+  "updatedAt": "2026-09-18T02:54:34.939Z"
 }
