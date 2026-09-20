@@ -25,10 +25,10 @@
     "2": {
       "1": 22.62,
       "2": 62.32,
-      "3": 51.7,
+      "3": 59.62,
       "4": 20.82,
-      "5": 60.62,
-      "6": 50.88,
+      "5": 62.12,
+      "6": 58.98,
       "7": 77.62,
       "8": 26.42
     }
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 51.7,
+        "total": 59.62,
         "qbInterceptions": 1,
         "players": [
           {
@@ -446,7 +446,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 9
+            "points": 9.32
           },
           {
             "position": "WR",
@@ -454,7 +454,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 16.8
+            "points": 24.4
           },
           {
             "position": "TE",
@@ -515,7 +515,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 60.62,
+        "total": 62.12,
         "qbInterceptions": 0,
         "players": [
           {
@@ -532,7 +532,7 @@
             "replacement": null,
             "scoringName": "George Pickens",
             "playerId": "8137",
-            "points": 2.5
+            "points": 4
           },
           {
             "position": "TE",
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 50.88,
+        "total": 58.98,
         "qbInterceptions": 0,
         "players": [
           {
@@ -571,7 +571,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 16.8
+            "points": 24.4
           },
           {
             "position": "TE",
@@ -587,7 +587,7 @@
             "replacement": null,
             "scoringName": "De'Von Achane",
             "playerId": "9226",
-            "points": 8.6
+            "points": 9.1
           }
         ]
       },
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-20T22:10:25.424Z"
+  "updatedAt": "2026-09-20T22:25:20.173Z"
 }
