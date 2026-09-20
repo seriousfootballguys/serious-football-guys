@@ -23,14 +23,14 @@
       "8": 69.02
     },
     "2": {
-      "1": 7.3,
+      "1": 6.16,
       "2": 42.42,
-      "3": 22.1,
-      "4": 4.6,
+      "3": 22.6,
+      "4": 3.56,
       "5": 58.12,
       "6": 1.16,
       "7": 59.72,
-      "8": 2.84
+      "8": 4.2
     }
   },
   "details": {
@@ -359,8 +359,8 @@
     "2": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 7.3,
-        "qbInterceptions": 0,
+        "total": 6.16,
+        "qbInterceptions": 1,
         "players": [
           {
             "position": "QB",
@@ -368,7 +368,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 2.9
+            "points": 1.86
           },
           {
             "position": "WR",
@@ -384,7 +384,7 @@
             "replacement": null,
             "scoringName": "Colston Loveland",
             "playerId": "12517",
-            "points": 0.4
+            "points": 0.3
           },
           {
             "position": "RB",
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 22.1,
+        "total": 22.6,
         "qbInterceptions": 0,
         "players": [
           {
@@ -470,14 +470,14 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 10.9
+            "points": 11.4
           }
         ]
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 4.6,
-        "qbInterceptions": 0,
+        "total": 3.56,
+        "qbInterceptions": 1,
         "players": [
           {
             "position": "QB",
@@ -485,7 +485,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 2.9
+            "points": 1.86
           },
           {
             "position": "WR",
@@ -632,7 +632,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 2.84,
+        "total": 4.2,
         "qbInterceptions": 0,
         "players": [
           {
@@ -641,7 +641,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 1.84
+            "points": 3.2
           },
           {
             "position": "WR",
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-20T17:33:51.347Z"
+  "updatedAt": "2026-09-20T17:44:52.770Z"
 }
