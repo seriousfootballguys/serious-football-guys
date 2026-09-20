@@ -23,14 +23,14 @@
       "8": 69.02
     },
     "2": {
-      "1": 17.6,
-      "2": 53.62,
+      "1": 20.06,
+      "2": 61.82,
       "3": 25.7,
-      "4": 11.1,
+      "4": 11.86,
       "5": 58.12,
-      "6": 9.8,
-      "7": 69.32,
-      "8": 11.06
+      "6": 15.16,
+      "7": 77.12,
+      "8": 15.72
     }
   },
   "details": {
@@ -359,7 +359,7 @@
     "2": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 17.6,
+        "total": 20.06,
         "qbInterceptions": 1,
         "players": [
           {
@@ -368,7 +368,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 6.2
+            "points": 6.56
           },
           {
             "position": "WR",
@@ -392,13 +392,13 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 5.6
+            "points": 7.7
           }
         ]
       },
       "2": {
         "team": "The Sparklers",
-        "total": 53.62,
+        "total": 61.82,
         "qbInterceptions": 0,
         "players": [
           {
@@ -415,7 +415,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 11.2
+            "points": 19
           },
           {
             "position": "TE",
@@ -431,7 +431,7 @@
             "replacement": null,
             "scoringName": "Saquon Barkley",
             "playerId": "4866",
-            "points": 1.6
+            "points": 2
           }
         ]
       },
@@ -476,7 +476,7 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 11.1,
+        "total": 11.86,
         "qbInterceptions": 1,
         "players": [
           {
@@ -485,7 +485,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 6.2
+            "points": 6.56
           },
           {
             "position": "WR",
@@ -509,7 +509,7 @@
             "replacement": null,
             "scoringName": "D'Andre Swift",
             "playerId": "6790",
-            "points": 4.9
+            "points": 5.3
           }
         ]
       },
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 9.8,
+        "total": 15.16,
         "qbInterceptions": 0,
         "players": [
           {
@@ -563,7 +563,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 9.8
+            "points": 15.16
           },
           {
             "position": "WR",
@@ -593,7 +593,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 69.32,
+        "total": 77.12,
         "qbInterceptions": 0,
         "players": [
           {
@@ -610,7 +610,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 11.2
+            "points": 19
           },
           {
             "position": "TE",
@@ -632,7 +632,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 11.06,
+        "total": 15.72,
         "qbInterceptions": 1,
         "players": [
           {
@@ -641,7 +641,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 5.46
+            "points": 8.02
           },
           {
             "position": "WR",
@@ -665,11 +665,11 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 5.6
+            "points": 7.7
           }
         ]
       }
     }
   },
-  "updatedAt": "2026-09-20T19:09:26.715Z"
+  "updatedAt": "2026-09-20T19:22:33.269Z"
 }
