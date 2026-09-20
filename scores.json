@@ -23,14 +23,14 @@
       "8": 69.02
     },
     "2": {
-      "1": 6.16,
+      "1": 8.36,
       "2": 42.42,
-      "3": 22.6,
+      "3": 22.8,
       "4": 3.56,
       "5": 58.12,
-      "6": 1.16,
+      "6": 1.96,
       "7": 59.72,
-      "8": 4.2
+      "8": 4.76
     }
   },
   "details": {
@@ -359,7 +359,7 @@
     "2": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 6.16,
+        "total": 8.36,
         "qbInterceptions": 1,
         "players": [
           {
@@ -376,7 +376,7 @@
             "replacement": null,
             "scoringName": "Justin Jefferson",
             "playerId": "6794",
-            "points": 3
+            "points": 4.6
           },
           {
             "position": "TE",
@@ -392,7 +392,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 1
+            "points": 1.6
           }
         ]
       },
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 22.6,
+        "total": 22.8,
         "qbInterceptions": 0,
         "players": [
           {
@@ -470,7 +470,7 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 11.4
+            "points": 11.6
           }
         ]
       },
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 1.16,
+        "total": 1.96,
         "qbInterceptions": 0,
         "players": [
           {
@@ -563,7 +563,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 1.16
+            "points": 1.96
           },
           {
             "position": "WR",
@@ -632,7 +632,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 4.2,
+        "total": 4.76,
         "qbInterceptions": 0,
         "players": [
           {
@@ -641,7 +641,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 3.2
+            "points": 3.16
           },
           {
             "position": "WR",
@@ -665,11 +665,11 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 1
+            "points": 1.6
           }
         ]
       }
     }
   },
-  "updatedAt": "2026-09-20T17:44:52.770Z"
+  "updatedAt": "2026-09-20T17:55:31.320Z"
 }
