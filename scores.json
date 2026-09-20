@@ -23,14 +23,14 @@
       "8": 69.02
     },
     "2": {
-      "1": 20.06,
+      "1": 22.72,
       "2": 61.82,
-      "3": 25.7,
-      "4": 11.86,
+      "3": 25.9,
+      "4": 17.62,
       "5": 58.12,
-      "6": 15.16,
+      "6": 16.08,
       "7": 77.12,
-      "8": 15.72
+      "8": 17.42
     }
   },
   "details": {
@@ -359,7 +359,7 @@
     "2": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 20.06,
+        "total": 22.72,
         "qbInterceptions": 1,
         "players": [
           {
@@ -368,7 +368,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 6.56
+            "points": 8.82
           },
           {
             "position": "WR",
@@ -392,7 +392,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 7.7
+            "points": 8.1
           }
         ]
       },
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 25.7,
+        "total": 25.9,
         "qbInterceptions": 0,
         "players": [
           {
@@ -470,13 +470,13 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 14.5
+            "points": 14.7
           }
         ]
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 11.86,
+        "total": 17.62,
         "qbInterceptions": 1,
         "players": [
           {
@@ -485,7 +485,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 6.56
+            "points": 8.82
           },
           {
             "position": "WR",
@@ -509,7 +509,7 @@
             "replacement": null,
             "scoringName": "D'Andre Swift",
             "playerId": "6790",
-            "points": 5.3
+            "points": 8.8
           }
         ]
       },
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 15.16,
+        "total": 16.08,
         "qbInterceptions": 0,
         "players": [
           {
@@ -563,7 +563,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 15.16
+            "points": 16.08
           },
           {
             "position": "WR",
@@ -632,7 +632,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 15.72,
+        "total": 17.42,
         "qbInterceptions": 1,
         "players": [
           {
@@ -641,7 +641,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 8.02
+            "points": 9.32
           },
           {
             "position": "WR",
@@ -665,11 +665,11 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 7.7
+            "points": 8.1
           }
         ]
       }
     }
   },
-  "updatedAt": "2026-09-20T19:22:33.269Z"
+  "updatedAt": "2026-09-20T19:33:51.969Z"
 }
