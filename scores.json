@@ -25,12 +25,12 @@
     "2": {
       "1": 22.62,
       "2": 62.32,
-      "3": 40.46,
+      "3": 41.22,
       "4": 20.82,
       "5": 58.52,
-      "6": 37.78,
+      "6": 45.28,
       "7": 77.62,
-      "8": 19.82
+      "8": 26.02
     }
   },
   "details": {
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 40.46,
+        "total": 41.22,
         "qbInterceptions": 1,
         "players": [
           {
@@ -446,7 +446,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 0.36
+            "points": 1.12
           },
           {
             "position": "WR",
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 37.78,
+        "total": 45.28,
         "qbInterceptions": 0,
         "players": [
           {
@@ -579,7 +579,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 2.7
+            "points": 8.9
           },
           {
             "position": "RB",
@@ -587,7 +587,7 @@
             "replacement": null,
             "scoringName": "De'Von Achane",
             "playerId": "9226",
-            "points": 4.7
+            "points": 6
           }
         ]
       },
@@ -632,7 +632,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 19.82,
+        "total": 26.02,
         "qbInterceptions": 1,
         "players": [
           {
@@ -657,7 +657,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 2.7
+            "points": 8.9
           },
           {
             "position": "RB",
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-20T20:50:25.127Z"
+  "updatedAt": "2026-09-20T21:01:25.060Z"
 }
