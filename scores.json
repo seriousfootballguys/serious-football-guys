@@ -25,10 +25,10 @@
     "2": {
       "1": 22.62,
       "2": 62.32,
-      "3": 60.7,
+      "3": 69.72,
       "4": 20.82,
       "5": 62.12,
-      "6": 59.68,
+      "6": 68.68,
       "7": 77.62,
       "8": 27.22
     }
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 60.7,
+        "total": 69.72,
         "qbInterceptions": 1,
         "players": [
           {
@@ -446,7 +446,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 10.4
+            "points": 10.72
           },
           {
             "position": "WR",
@@ -454,7 +454,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 24.4
+            "points": 33.1
           },
           {
             "position": "TE",
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 59.68,
+        "total": 68.68,
         "qbInterceptions": 0,
         "players": [
           {
@@ -571,7 +571,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 24.4
+            "points": 33.1
           },
           {
             "position": "TE",
@@ -587,7 +587,7 @@
             "replacement": null,
             "scoringName": "De'Von Achane",
             "playerId": "9226",
-            "points": 9
+            "points": 9.3
           }
         ]
       },
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-20T22:39:06.712Z"
+  "updatedAt": "2026-09-20T22:51:00.459Z"
 }
