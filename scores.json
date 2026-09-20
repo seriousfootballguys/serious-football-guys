@@ -25,10 +25,10 @@
     "2": {
       "1": 22.62,
       "2": 62.32,
-      "3": 26.54,
+      "3": 27.26,
       "4": 20.82,
       "5": 58.12,
-      "6": 16.28,
+      "6": 16.18,
       "7": 77.62,
       "8": 17.12
     }
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 26.54,
+        "total": 27.26,
         "qbInterceptions": 0,
         "players": [
           {
@@ -446,7 +446,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 0.64
+            "points": 1.36
           },
           {
             "position": "WR",
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 16.28,
+        "total": 16.18,
         "qbInterceptions": 0,
         "players": [
           {
@@ -563,7 +563,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 16.28
+            "points": 16.18
           },
           {
             "position": "WR",
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-20T20:10:32.032Z"
+  "updatedAt": "2026-09-20T20:25:29.620Z"
 }
