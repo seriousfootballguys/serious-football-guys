@@ -23,14 +23,14 @@
       "8": 69.02
     },
     "2": {
-      "1": 16.32,
-      "2": 53.22,
-      "3": 26,
-      "4": 9.82,
+      "1": 17.6,
+      "2": 53.62,
+      "3": 25.7,
+      "4": 11.1,
       "5": 58.12,
-      "6": 9.36,
-      "7": 68.92,
-      "8": 10.3
+      "6": 9.8,
+      "7": 69.32,
+      "8": 11.06
     }
   },
   "details": {
@@ -359,7 +359,7 @@
     "2": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 16.32,
+        "total": 17.6,
         "qbInterceptions": 1,
         "players": [
           {
@@ -368,7 +368,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 4.92
+            "points": 6.2
           },
           {
             "position": "WR",
@@ -398,7 +398,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 53.22,
+        "total": 53.62,
         "qbInterceptions": 0,
         "players": [
           {
@@ -415,7 +415,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 10.8
+            "points": 11.2
           },
           {
             "position": "TE",
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 26,
+        "total": 25.7,
         "qbInterceptions": 0,
         "players": [
           {
@@ -470,13 +470,13 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 14.8
+            "points": 14.5
           }
         ]
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 9.82,
+        "total": 11.1,
         "qbInterceptions": 1,
         "players": [
           {
@@ -485,7 +485,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 4.92
+            "points": 6.2
           },
           {
             "position": "WR",
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 9.36,
+        "total": 9.8,
         "qbInterceptions": 0,
         "players": [
           {
@@ -563,7 +563,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 9.36
+            "points": 9.8
           },
           {
             "position": "WR",
@@ -593,7 +593,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 68.92,
+        "total": 69.32,
         "qbInterceptions": 0,
         "players": [
           {
@@ -610,7 +610,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 10.8
+            "points": 11.2
           },
           {
             "position": "TE",
@@ -632,7 +632,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 10.3,
+        "total": 11.06,
         "qbInterceptions": 1,
         "players": [
           {
@@ -641,7 +641,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 4.7
+            "points": 5.46
           },
           {
             "position": "WR",
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-20T18:55:03.890Z"
+  "updatedAt": "2026-09-20T19:09:26.715Z"
 }
