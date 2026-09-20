@@ -23,14 +23,14 @@
       "8": 69.02
     },
     "2": {
-      "1": 5.54,
-      "2": 42.22,
-      "3": 15.2,
-      "4": 4.24,
+      "1": 7.3,
+      "2": 42.42,
+      "3": 22.1,
+      "4": 4.6,
       "5": 58.12,
-      "6": 0.56,
-      "7": 59.52,
-      "8": 1.64
+      "6": 1.16,
+      "7": 59.72,
+      "8": 2.84
     }
   },
   "details": {
@@ -359,7 +359,7 @@
     "2": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 5.54,
+        "total": 7.3,
         "qbInterceptions": 0,
         "players": [
           {
@@ -368,7 +368,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 2.54
+            "points": 2.9
           },
           {
             "position": "WR",
@@ -384,7 +384,7 @@
             "replacement": null,
             "scoringName": "Colston Loveland",
             "playerId": "12517",
-            "points": 0
+            "points": 0.4
           },
           {
             "position": "RB",
@@ -392,13 +392,13 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 0
+            "points": 1
           }
         ]
       },
       "2": {
         "team": "The Sparklers",
-        "total": 42.22,
+        "total": 42.42,
         "qbInterceptions": 0,
         "players": [
           {
@@ -415,7 +415,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 1.4
+            "points": 1.6
           },
           {
             "position": "TE",
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 15.2,
+        "total": 22.1,
         "qbInterceptions": 0,
         "players": [
           {
@@ -470,13 +470,13 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 4
+            "points": 10.9
           }
         ]
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 4.24,
+        "total": 4.6,
         "qbInterceptions": 0,
         "players": [
           {
@@ -485,7 +485,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 2.54
+            "points": 2.9
           },
           {
             "position": "WR",
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 0.56,
+        "total": 1.16,
         "qbInterceptions": 0,
         "players": [
           {
@@ -563,7 +563,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 0.56
+            "points": 1.16
           },
           {
             "position": "WR",
@@ -593,7 +593,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 59.52,
+        "total": 59.72,
         "qbInterceptions": 0,
         "players": [
           {
@@ -610,7 +610,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 1.4
+            "points": 1.6
           },
           {
             "position": "TE",
@@ -632,7 +632,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 1.64,
+        "total": 2.84,
         "qbInterceptions": 0,
         "players": [
           {
@@ -641,7 +641,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 1.64
+            "points": 1.84
           },
           {
             "position": "WR",
@@ -665,11 +665,11 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 0
+            "points": 1
           }
         ]
       }
     }
   },
-  "updatedAt": "2026-09-20T17:21:20.381Z"
+  "updatedAt": "2026-09-20T17:33:51.347Z"
 }
