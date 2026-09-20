@@ -28,7 +28,7 @@
       "3": 51.7,
       "4": 20.82,
       "5": 60.62,
-      "6": 50.38,
+      "6": 50.88,
       "7": 77.62,
       "8": 26.42
     }
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 50.38,
+        "total": 50.88,
         "qbInterceptions": 0,
         "players": [
           {
@@ -587,7 +587,7 @@
             "replacement": null,
             "scoringName": "De'Von Achane",
             "playerId": "9226",
-            "points": 8.1
+            "points": 8.6
           }
         ]
       },
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-20T21:55:02.531Z"
+  "updatedAt": "2026-09-20T22:10:25.424Z"
 }
