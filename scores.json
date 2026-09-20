@@ -25,12 +25,12 @@
     "2": {
       "1": 22.62,
       "2": 62.32,
-      "3": 41.22,
+      "3": 41.94,
       "4": 20.82,
-      "5": 58.52,
-      "6": 45.28,
+      "5": 60.62,
+      "6": 45.08,
       "7": 77.62,
-      "8": 26.02
+      "8": 25.92
     }
   },
   "details": {
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 41.22,
+        "total": 41.94,
         "qbInterceptions": 1,
         "players": [
           {
@@ -446,7 +446,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 1.12
+            "points": 1.84
           },
           {
             "position": "WR",
@@ -515,7 +515,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 58.52,
+        "total": 60.62,
         "qbInterceptions": 0,
         "players": [
           {
@@ -532,7 +532,7 @@
             "replacement": null,
             "scoringName": "George Pickens",
             "playerId": "8137",
-            "points": 0.4
+            "points": 2.5
           },
           {
             "position": "TE",
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 45.28,
+        "total": 45.08,
         "qbInterceptions": 0,
         "players": [
           {
@@ -579,7 +579,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 8.9
+            "points": 8.8
           },
           {
             "position": "RB",
@@ -587,7 +587,7 @@
             "replacement": null,
             "scoringName": "De'Von Achane",
             "playerId": "9226",
-            "points": 6
+            "points": 5.9
           }
         ]
       },
@@ -632,7 +632,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 26.02,
+        "total": 25.92,
         "qbInterceptions": 1,
         "players": [
           {
@@ -657,7 +657,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 8.9
+            "points": 8.8
           },
           {
             "position": "RB",
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-20T21:01:25.060Z"
+  "updatedAt": "2026-09-20T21:18:23.103Z"
 }
