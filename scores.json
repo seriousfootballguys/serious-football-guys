@@ -23,7 +23,7 @@
       "8": 69.02
     },
     "2": {
-      "1": 22.72,
+      "1": 22.62,
       "2": 61.82,
       "3": 25.9,
       "4": 17.62,
@@ -359,7 +359,7 @@
     "2": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 22.72,
+        "total": 22.62,
         "qbInterceptions": 1,
         "players": [
           {
@@ -368,7 +368,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 8.82
+            "points": 8.72
           },
           {
             "position": "WR",
@@ -485,7 +485,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 8.82
+            "points": 8.72
           },
           {
             "position": "WR",
@@ -509,7 +509,7 @@
             "replacement": null,
             "scoringName": "D'Andre Swift",
             "playerId": "6790",
-            "points": 8.8
+            "points": 8.9
           }
         ]
       },
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-20T19:33:51.969Z"
+  "updatedAt": "2026-09-20T19:44:22.883Z"
 }
