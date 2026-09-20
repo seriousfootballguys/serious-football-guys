@@ -25,12 +25,12 @@
     "2": {
       "1": 22.62,
       "2": 62.32,
-      "3": 25.9,
-      "4": 18.22,
+      "3": 26.54,
+      "4": 20.82,
       "5": 58.12,
       "6": 16.28,
       "7": 77.62,
-      "8": 17.42
+      "8": 17.12
     }
   },
   "details": {
@@ -437,7 +437,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 25.9,
+        "total": 26.54,
         "qbInterceptions": 0,
         "players": [
           {
@@ -446,7 +446,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 0
+            "points": 0.64
           },
           {
             "position": "WR",
@@ -476,7 +476,7 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 18.22,
+        "total": 20.82,
         "qbInterceptions": 1,
         "players": [
           {
@@ -493,7 +493,7 @@
             "replacement": null,
             "scoringName": "Luther Burden III",
             "playerId": "12519",
-            "points": 0.6
+            "points": 3.2
           },
           {
             "position": "TE",
@@ -632,7 +632,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 17.42,
+        "total": 17.12,
         "qbInterceptions": 1,
         "players": [
           {
@@ -641,7 +641,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 9.32
+            "points": 9.02
           },
           {
             "position": "WR",
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-20T19:55:05.034Z"
+  "updatedAt": "2026-09-20T20:10:32.032Z"
 }
