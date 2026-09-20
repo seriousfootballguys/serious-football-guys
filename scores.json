@@ -24,12 +24,12 @@
     },
     "2": {
       "1": 22.62,
-      "2": 61.82,
+      "2": 62.32,
       "3": 25.9,
-      "4": 17.62,
+      "4": 18.22,
       "5": 58.12,
-      "6": 16.08,
-      "7": 77.12,
+      "6": 16.28,
+      "7": 77.62,
       "8": 17.42
     }
   },
@@ -398,7 +398,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 61.82,
+        "total": 62.32,
         "qbInterceptions": 0,
         "players": [
           {
@@ -415,7 +415,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 19
+            "points": 19.5
           },
           {
             "position": "TE",
@@ -476,7 +476,7 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 17.62,
+        "total": 18.22,
         "qbInterceptions": 1,
         "players": [
           {
@@ -493,7 +493,7 @@
             "replacement": null,
             "scoringName": "Luther Burden III",
             "playerId": "12519",
-            "points": 0
+            "points": 0.6
           },
           {
             "position": "TE",
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 16.08,
+        "total": 16.28,
         "qbInterceptions": 0,
         "players": [
           {
@@ -563,7 +563,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 16.08
+            "points": 16.28
           },
           {
             "position": "WR",
@@ -593,7 +593,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 77.12,
+        "total": 77.62,
         "qbInterceptions": 0,
         "players": [
           {
@@ -610,7 +610,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 19
+            "points": 19.5
           },
           {
             "position": "TE",
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-20T19:44:22.883Z"
+  "updatedAt": "2026-09-20T19:55:05.034Z"
 }
