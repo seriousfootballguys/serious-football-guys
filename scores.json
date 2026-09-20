@@ -25,12 +25,12 @@
     "2": {
       "1": 22.62,
       "2": 62.32,
-      "3": 27.26,
+      "3": 40.46,
       "4": 20.82,
-      "5": 58.12,
-      "6": 16.18,
+      "5": 58.52,
+      "6": 34.68,
       "7": 77.62,
-      "8": 17.12
+      "8": 19.32
     }
   },
   "details": {
@@ -437,8 +437,8 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 27.26,
-        "qbInterceptions": 0,
+        "total": 40.46,
+        "qbInterceptions": 1,
         "players": [
           {
             "position": "QB",
@@ -446,7 +446,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 1.36
+            "points": 0.36
           },
           {
             "position": "WR",
@@ -454,7 +454,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 0
+            "points": 14.2
           },
           {
             "position": "TE",
@@ -515,7 +515,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 58.12,
+        "total": 58.52,
         "qbInterceptions": 0,
         "players": [
           {
@@ -532,7 +532,7 @@
             "replacement": null,
             "scoringName": "George Pickens",
             "playerId": "8137",
-            "points": 0
+            "points": 0.4
           },
           {
             "position": "TE",
@@ -554,7 +554,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 16.18,
+        "total": 34.68,
         "qbInterceptions": 0,
         "players": [
           {
@@ -571,7 +571,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 0
+            "points": 14.2
           },
           {
             "position": "TE",
@@ -579,7 +579,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 0
+            "points": 2.2
           },
           {
             "position": "RB",
@@ -587,7 +587,7 @@
             "replacement": null,
             "scoringName": "De'Von Achane",
             "playerId": "9226",
-            "points": 0
+            "points": 2.1
           }
         ]
       },
@@ -632,7 +632,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 17.12,
+        "total": 19.32,
         "qbInterceptions": 1,
         "players": [
           {
@@ -657,7 +657,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 0
+            "points": 2.2
           },
           {
             "position": "RB",
@@ -671,5 +671,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-20T20:25:29.620Z"
+  "updatedAt": "2026-09-20T20:39:27.196Z"
 }
