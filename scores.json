@@ -26,7 +26,7 @@
       "1": 24.78,
       "2": 64.62,
       "3": 69.28,
-      "4": 23.28,
+      "4": 33.28,
       "5": 64.42,
       "6": 69.08,
       "7": 79.92,
@@ -39,6 +39,14 @@
         "team": "Jordan Love Eats at McDonald's a Lot",
         "total": 81.76,
         "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 2,
+        "tightEndTDs": 0,
+        "runningBackTDs": 1,
+        "qbRushingTDs": 2,
+        "qbRushingYards": 65,
+        "longestTD": 39,
+        "totalYards": 599,
         "players": [
           {
             "position": "QB",
@@ -87,6 +95,14 @@
         "team": "The Sparklers",
         "total": 48.06,
         "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 2,
+        "tightEndTDs": 0,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 2,
+        "qbRushingYards": 23,
+        "longestTD": 21,
+        "totalYards": 481,
         "players": [
           {
             "position": "QB",
@@ -135,6 +151,14 @@
         "team": "Man, You Gotta be Fast to Play Defense",
         "total": 71.56,
         "qbInterceptions": 1,
+        "fumblesLost": 0,
+        "passingTDs": 1,
+        "tightEndTDs": 0,
+        "runningBackTDs": 3,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 29,
+        "longestTD": 45,
+        "totalYards": 571,
         "players": [
           {
             "position": "QB",
@@ -183,6 +207,14 @@
         "team": "The Roadrunners",
         "total": 83.66,
         "qbInterceptions": 0,
+        "fumblesLost": 1,
+        "passingTDs": 2,
+        "tightEndTDs": 1,
+        "runningBackTDs": 3,
+        "qbRushingTDs": 2,
+        "qbRushingYards": 65,
+        "longestTD": 29,
+        "totalYards": 568,
         "players": [
           {
             "position": "QB",
@@ -231,6 +263,14 @@
         "team": "The Banana Crew",
         "total": 71.26,
         "qbInterceptions": 0,
+        "fumblesLost": 1,
+        "passingTDs": 2,
+        "tightEndTDs": 0,
+        "runningBackTDs": 2,
+        "qbRushingTDs": 2,
+        "qbRushingYards": 23,
+        "longestTD": 21,
+        "totalYards": 603,
         "players": [
           {
             "position": "QB",
@@ -279,6 +319,14 @@
         "team": "The Wrecking Crew",
         "total": 55.46,
         "qbInterceptions": 1,
+        "fumblesLost": 0,
+        "passingTDs": 1,
+        "tightEndTDs": 1,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 20,
+        "longestTD": 45,
+        "totalYards": 557,
         "players": [
           {
             "position": "QB",
@@ -327,6 +375,14 @@
         "team": "aMerrickan Football 1",
         "total": 69.66,
         "qbInterceptions": 0,
+        "fumblesLost": 1,
+        "passingTDs": 2,
+        "tightEndTDs": 0,
+        "runningBackTDs": 2,
+        "qbRushingTDs": 2,
+        "qbRushingYards": 23,
+        "longestTD": 21,
+        "totalYards": 587,
         "players": [
           {
             "position": "QB",
@@ -375,6 +431,14 @@
         "team": "aMerrickan Football 2",
         "total": 69.02,
         "qbInterceptions": 3,
+        "fumblesLost": 0,
+        "passingTDs": 1,
+        "tightEndTDs": 1,
+        "runningBackTDs": 1,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 47,
+        "longestTD": 23,
+        "totalYards": 567,
         "players": [
           {
             "position": "QB",
@@ -425,6 +489,14 @@
         "team": "Jordan Love Eats at McDonald's a Lot",
         "total": 24.78,
         "qbInterceptions": 1,
+        "fumblesLost": 0,
+        "passingTDs": 0,
+        "tightEndTDs": 0,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 42,
+        "longestTD": 0,
+        "totalYards": 373,
         "players": [
           {
             "position": "QB",
@@ -466,12 +538,21 @@
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
-        ]
+        ],
+        "bonus": 0
       },
       "2": {
         "team": "The Sparklers",
         "total": 64.62,
         "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 3,
+        "tightEndTDs": 0,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 2,
+        "qbRushingYards": 69,
+        "longestTD": 32,
+        "totalYards": 435,
         "players": [
           {
             "position": "QB",
@@ -513,12 +594,21 @@
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
-        ]
+        ],
+        "bonus": 0
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
         "total": 69.28,
         "qbInterceptions": 2,
+        "fumblesLost": 0,
+        "passingTDs": 1,
+        "tightEndTDs": 1,
+        "runningBackTDs": 1,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 2,
+        "longestTD": 82,
+        "totalYards": 488,
         "players": [
           {
             "position": "QB",
@@ -560,12 +650,21 @@
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
-        ]
+        ],
+        "bonus": 0
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 23.28,
+        "total": 33.28,
         "qbInterceptions": 1,
+        "fumblesLost": 1,
+        "passingTDs": 0,
+        "tightEndTDs": 0,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 42,
+        "longestTD": 0,
+        "totalYards": 368,
         "players": [
           {
             "position": "QB",
@@ -607,12 +706,21 @@
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
-        ]
+        ],
+        "bonus": 10
       },
       "5": {
         "team": "The Banana Crew",
         "total": 64.42,
         "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 3,
+        "tightEndTDs": 0,
+        "runningBackTDs": 1,
+        "qbRushingTDs": 2,
+        "qbRushingYards": 69,
+        "longestTD": 11,
+        "totalYards": 493,
         "players": [
           {
             "position": "QB",
@@ -654,12 +762,21 @@
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
-        ]
+        ],
+        "bonus": 0
       },
       "6": {
         "team": "The Wrecking Crew",
         "total": 69.08,
         "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 2,
+        "tightEndTDs": 1,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": -1,
+        "longestTD": 82,
+        "totalYards": 495,
         "players": [
           {
             "position": "QB",
@@ -701,12 +818,21 @@
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
-        ]
+        ],
+        "bonus": 0
       },
       "7": {
         "team": "aMerrickan Football 1",
         "total": 79.92,
         "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 3,
+        "tightEndTDs": 0,
+        "runningBackTDs": 1,
+        "qbRushingTDs": 2,
+        "qbRushingYards": 69,
+        "longestTD": 32,
+        "totalYards": 528,
         "players": [
           {
             "position": "QB",
@@ -748,12 +874,21 @@
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
-        ]
+        ],
+        "bonus": 0
       },
       "8": {
         "team": "aMerrickan Football 2",
         "total": 27.22,
         "qbInterceptions": 1,
+        "fumblesLost": 0,
+        "passingTDs": 0,
+        "tightEndTDs": 1,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 17,
+        "longestTD": 2,
+        "totalYards": 347,
         "players": [
           {
             "position": "QB",
@@ -795,9 +930,10 @@
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
-        ]
+        ],
+        "bonus": 0
       }
     }
   },
-  "updatedAt": "2026-09-21T00:12:00.707Z"
+  "updatedAt": "2026-09-21T00:19:00.172Z"
 }
