@@ -18,6 +18,16 @@ const scoring = {
 const injuryReplacements = {
   "1": {
     "Brock Bowers": "Michael Mayer"
+  },
+  "2": {
+    "Brock Bowers": "Michael Mayer"
+  }
+};
+
+const inGameInjuryAdditions = {
+  "2": {
+    "Caleb Williams": "Tyson Bagent",
+    "Cole Kmet": "Colston Loveland"
   }
 };
 
@@ -88,6 +98,18 @@ async function getPlayerIds(league) {
       replacementNames.push(replacementName);
     }
   }
+
+  for (const additions of Object.values(inGameInjuryAdditions)) {
+  for (const [injuredName, backupName] of Object.entries(additions)) {
+    const position = positionByName[injuredName];
+
+    if (position) {
+      positionByName[backupName] = position;
+    }
+
+    replacementNames.push(backupName);
+  }
+}
 
   const rosterNames = [
     ...new Set([
@@ -278,20 +300,34 @@ for (const [position, name] of Object.entries(team.roster)) {
   const playerStats = stats[playerId] || {};
   const points = fantasyPoints(playerStats);
 
+  const injuryAddition =
+  inGameInjuryAdditions[String(week)]?.[name] || null;
+
+let injuryAdditionPoints = 0;
+
+if (injuryAddition) {
+  const backupId = playerIds[injuryAddition];
+  const backupStats = stats[backupId] || {};
+
+  injuryAdditionPoints = fantasyPoints(backupStats);
+}
+
   if (position === "QB") {
   qbInterceptions = Number(playerStats.pass_int || 0);
 }
   
-  total += points;
+  total += points + injuryAdditionPoints;
 
-  players.push({
-    position,
-    name,
-    replacement,
-    scoringName,
-    playerId,
-    points
-  });
+ players.push({
+  position,
+  name,
+  replacement,
+  scoringName,
+  playerId,
+  points,
+  injuryAddition,
+  injuryAdditionPoints
+});
 }
 
     total = Number(total.toFixed(2));
