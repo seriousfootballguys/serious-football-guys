@@ -289,7 +289,15 @@ for (let week = 1; week <= currentWeek; week++) {
   for (const team of league.teams) {
     let total = 0;
     const players = [];
-    let qbInterceptions = 0;
+   let qbInterceptions = 0;
+let fumblesLost = 0;
+let passingTDs = 0;
+let tightEndTDs = 0;
+let runningBackTDs = 0;
+let qbRushingTDs = 0;
+let qbRushingYards = 0;
+let longestTD = 0;
+let totalYards = 0;;
 
 for (const [position, name] of Object.entries(team.roster)) {
   const replacement =
@@ -304,16 +312,46 @@ for (const [position, name] of Object.entries(team.roster)) {
   inGameInjuryAdditions[String(week)]?.[name] || null;
 
 let injuryAdditionPoints = 0;
+let injuryAdditionStats = {};
 
 if (injuryAddition) {
   const backupId = playerIds[injuryAddition];
-  const backupStats = stats[backupId] || {};
+  injuryAdditionStats = stats[backupId] || {};
 
-  injuryAdditionPoints = fantasyPoints(backupStats);
+  injuryAdditionPoints = fantasyPoints(injuryAdditionStats);
 }
+ for (const bonusStats of [playerStats, injuryAdditionStats]) {
+  fumblesLost += Number(bonusStats.fum_lost || 0);
+  passingTDs += Number(bonusStats.pass_td || 0);
+
+  totalYards +=
+    Number(bonusStats.pass_yd || 0) +
+    Number(bonusStats.rush_yd || 0) +
+    Number(bonusStats.rec_yd || 0);
+
+  longestTD = Math.max(
+    longestTD,
+    Number(bonusStats.rush_td_lng || 0),
+    Number(bonusStats.rec_td_lng || 0)
+  );
 
   if (position === "QB") {
-  qbInterceptions = Number(playerStats.pass_int || 0);
+    qbInterceptions += Number(bonusStats.pass_int || 0);
+    qbRushingTDs += Number(bonusStats.rush_td || 0);
+    qbRushingYards += Number(bonusStats.rush_yd || 0);
+  }
+
+  if (position === "TE") {
+    tightEndTDs +=
+      Number(bonusStats.rush_td || 0) +
+      Number(bonusStats.rec_td || 0);
+  }
+
+  if (position === "RB") {
+    runningBackTDs +=
+      Number(bonusStats.rush_td || 0) +
+      Number(bonusStats.rec_td || 0);
+  }
 }
   
   total += points + injuryAdditionPoints;
@@ -338,28 +376,80 @@ if (injuryAddition) {
   team: team.name,
   total,
   qbInterceptions,
+  fumblesLost,
+  passingTDs,
+  tightEndTDs,
+  runningBackTDs,
+  qbRushingTDs,
+  qbRushingYards,
+  longestTD,
+  totalYards,
   players
 };
   
 }
 
-if (week === 1) {
+const automaticBonusRules = {
+  "1": { field: "qbInterceptions", direction: "max" },
+  "2": { field: "fumblesLost", direction: "max" },
+  "4": { field: "passingTDs", direction: "max" },
+  "5": { field: "tightEndTDs", direction: "max" },
+  "6": { field: "runningBackTDs", direction: "max" },
+  "7": { field: "qbRushingTDs", direction: "max" },
+  "8": { field: "qbRushingYards", direction: "max" },
+  "9": { field: "longestTD", direction: "max" },
+  "11": { field: "total", direction: "min" },
+  "13": { field: "totalYards", direction: "max" }
+};
+
+const bonusRule = automaticBonusRules[String(week)];
+
+if (bonusRule) {
   const weekDetails = output.details[String(week)];
 
-  const maxInterceptions = Math.max(
-    ...Object.values(weekDetails).map(
-      team => Number(team.qbInterceptions || 0)
-    )
+  const values = Object.values(weekDetails).map(
+    team => Number(team[bonusRule.field] || 0)
   );
 
+  const winningValue =
+    bonusRule.direction === "min"
+      ? Math.min(...values)
+      : Math.max(...values);
+
   for (const [teamId, teamDetail] of Object.entries(weekDetails)) {
-    if (Number(teamDetail.qbInterceptions || 0) === maxInterceptions) {
+    const teamValue = Number(teamDetail[bonusRule.field] || 0);
+
+    if (teamValue === winningValue) {
       teamDetail.bonus = 10;
       teamDetail.total = Number(
         (teamDetail.total + 10).toFixed(2)
       );
 
       output.weeks[String(week)][teamId] = teamDetail.total;
+    } else {
+      teamDetail.bonus = 0;
+    }
+  }
+}
+  const pickBonusWeeks = ["3", "10", "12"];
+
+if (pickBonusWeeks.includes(String(week))) {
+  const weekKey = String(week);
+  const winningPick = league.bonusWinners?.[weekKey];
+  const picks = league.bonusPicks?.[weekKey] || {};
+
+  for (const [teamId, teamDetail] of Object.entries(
+    output.details[weekKey]
+  )) {
+    const teamPick = picks[teamId];
+
+    if (winningPick && teamPick === winningPick) {
+      teamDetail.bonus = 10;
+      teamDetail.total = Number(
+        (teamDetail.total + 10).toFixed(2)
+      );
+
+      output.weeks[weekKey][teamId] = teamDetail.total;
     } else {
       teamDetail.bonus = 0;
     }
