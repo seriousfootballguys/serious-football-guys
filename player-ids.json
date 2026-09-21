@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "cacheVersion": 2,
-  "generatedOn": "2026-09-20",
+  "generatedOn": "2026-09-21",
   "players": {
     "Caleb Williams": "11560",
     "Justin Jefferson": "6794",
@@ -25,6 +25,7 @@
     "De'Von Achane": "9226",
     "Drake Maye": "11564",
     "Puka Nacua": "9493",
-    "Michael Mayer": "9482"
+    "Michael Mayer": "9482",
+    "Tyson Bagent": "11256"
   }
 }
