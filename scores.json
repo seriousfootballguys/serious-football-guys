@@ -31,6 +31,16 @@
       "6": 69.08,
       "7": 79.92,
       "8": 27.22
+    },
+    "3": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0
     }
   },
   "details": {
@@ -933,7 +943,457 @@
         ],
         "bonus": 0
       }
+    },
+    "3": {
+      "1": {
+        "team": "Jordan Love Eats at McDonald's a Lot",
+        "total": 0,
+        "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 0,
+        "tightEndTDs": 0,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 0,
+        "longestTD": 0,
+        "totalYards": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Caleb Williams",
+            "replacement": null,
+            "scoringName": "Caleb Williams",
+            "playerId": "11560",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "WR",
+            "name": "Justin Jefferson",
+            "replacement": null,
+            "scoringName": "Justin Jefferson",
+            "playerId": "6794",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "TE",
+            "name": "Colston Loveland",
+            "replacement": null,
+            "scoringName": "Colston Loveland",
+            "playerId": "12517",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "RB",
+            "name": "Bijan Robinson",
+            "replacement": null,
+            "scoringName": "Bijan Robinson",
+            "playerId": "9509",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          }
+        ],
+        "bonus": 0
+      },
+      "2": {
+        "team": "The Sparklers",
+        "total": 0,
+        "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 0,
+        "tightEndTDs": 0,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 0,
+        "longestTD": 0,
+        "totalYards": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Josh Allen",
+            "replacement": null,
+            "scoringName": "Josh Allen",
+            "playerId": "4984",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "WR",
+            "name": "Ja'Marr Chase",
+            "replacement": null,
+            "scoringName": "Ja'Marr Chase",
+            "playerId": "7564",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "TE",
+            "name": "Brock Bowers",
+            "replacement": null,
+            "scoringName": "Brock Bowers",
+            "playerId": "11604",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "RB",
+            "name": "Saquon Barkley",
+            "replacement": null,
+            "scoringName": "Saquon Barkley",
+            "playerId": "4866",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          }
+        ],
+        "bonus": 0
+      },
+      "3": {
+        "team": "Man, You Gotta be Fast to Play Defense",
+        "total": 0,
+        "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 0,
+        "tightEndTDs": 0,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 0,
+        "longestTD": 0,
+        "totalYards": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Justin Herbert",
+            "replacement": null,
+            "scoringName": "Justin Herbert",
+            "playerId": "6797",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "WR",
+            "name": "Jaxon Smith-Njigba",
+            "replacement": null,
+            "scoringName": "Jaxon Smith-Njigba",
+            "playerId": "9488",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "TE",
+            "name": "Sam LaPorta",
+            "replacement": null,
+            "scoringName": "Sam LaPorta",
+            "playerId": "10859",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "RB",
+            "name": "Derrick Henry",
+            "replacement": null,
+            "scoringName": "Derrick Henry",
+            "playerId": "3198",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          }
+        ],
+        "bonus": 0
+      },
+      "4": {
+        "team": "The Roadrunners",
+        "total": 0,
+        "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 0,
+        "tightEndTDs": 0,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 0,
+        "longestTD": 0,
+        "totalYards": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Caleb Williams",
+            "replacement": null,
+            "scoringName": "Caleb Williams",
+            "playerId": "11560",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "WR",
+            "name": "Luther Burden III",
+            "replacement": null,
+            "scoringName": "Luther Burden III",
+            "playerId": "12519",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "TE",
+            "name": "Cole Kmet",
+            "replacement": null,
+            "scoringName": "Cole Kmet",
+            "playerId": "6826",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "RB",
+            "name": "D'Andre Swift",
+            "replacement": null,
+            "scoringName": "D'Andre Swift",
+            "playerId": "6790",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          }
+        ],
+        "bonus": 0
+      },
+      "5": {
+        "team": "The Banana Crew",
+        "total": 0,
+        "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 0,
+        "tightEndTDs": 0,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 0,
+        "longestTD": 0,
+        "totalYards": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Josh Allen",
+            "replacement": null,
+            "scoringName": "Josh Allen",
+            "playerId": "4984",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "WR",
+            "name": "George Pickens",
+            "replacement": null,
+            "scoringName": "George Pickens",
+            "playerId": "8137",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "TE",
+            "name": "Brock Bowers",
+            "replacement": null,
+            "scoringName": "Brock Bowers",
+            "playerId": "11604",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "RB",
+            "name": "Jahmyr Gibbs",
+            "replacement": null,
+            "scoringName": "Jahmyr Gibbs",
+            "playerId": "9221",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          }
+        ],
+        "bonus": 0
+      },
+      "6": {
+        "team": "The Wrecking Crew",
+        "total": 0,
+        "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 0,
+        "tightEndTDs": 0,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 0,
+        "longestTD": 0,
+        "totalYards": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Joe Burrow",
+            "replacement": null,
+            "scoringName": "Joe Burrow",
+            "playerId": "6770",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "WR",
+            "name": "Jaxon Smith-Njigba",
+            "replacement": null,
+            "scoringName": "Jaxon Smith-Njigba",
+            "playerId": "9488",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "TE",
+            "name": "Trey McBride",
+            "replacement": null,
+            "scoringName": "Trey McBride",
+            "playerId": "8130",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "RB",
+            "name": "De'Von Achane",
+            "replacement": null,
+            "scoringName": "De'Von Achane",
+            "playerId": "9226",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          }
+        ],
+        "bonus": 0
+      },
+      "7": {
+        "team": "aMerrickan Football 1",
+        "total": 0,
+        "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 0,
+        "tightEndTDs": 0,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 0,
+        "longestTD": 0,
+        "totalYards": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Josh Allen",
+            "replacement": null,
+            "scoringName": "Josh Allen",
+            "playerId": "4984",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "WR",
+            "name": "Ja'Marr Chase",
+            "replacement": null,
+            "scoringName": "Ja'Marr Chase",
+            "playerId": "7564",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "TE",
+            "name": "Brock Bowers",
+            "replacement": null,
+            "scoringName": "Brock Bowers",
+            "playerId": "11604",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "RB",
+            "name": "Jahmyr Gibbs",
+            "replacement": null,
+            "scoringName": "Jahmyr Gibbs",
+            "playerId": "9221",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          }
+        ],
+        "bonus": 0
+      },
+      "8": {
+        "team": "aMerrickan Football 2",
+        "total": 0,
+        "qbInterceptions": 0,
+        "fumblesLost": 0,
+        "passingTDs": 0,
+        "tightEndTDs": 0,
+        "runningBackTDs": 0,
+        "qbRushingTDs": 0,
+        "qbRushingYards": 0,
+        "longestTD": 0,
+        "totalYards": 0,
+        "players": [
+          {
+            "position": "QB",
+            "name": "Drake Maye",
+            "replacement": null,
+            "scoringName": "Drake Maye",
+            "playerId": "11564",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "WR",
+            "name": "Puka Nacua",
+            "replacement": null,
+            "scoringName": "Puka Nacua",
+            "playerId": "9493",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "TE",
+            "name": "Trey McBride",
+            "replacement": null,
+            "scoringName": "Trey McBride",
+            "playerId": "8130",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          },
+          {
+            "position": "RB",
+            "name": "Bijan Robinson",
+            "replacement": null,
+            "scoringName": "Bijan Robinson",
+            "playerId": "9509",
+            "points": 0,
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
+          }
+        ],
+        "bonus": 0
+      }
     }
   },
-  "updatedAt": "2026-09-22T03:56:57.085Z"
+  "updatedAt": "2026-09-22T04:14:56.914Z"
 }
