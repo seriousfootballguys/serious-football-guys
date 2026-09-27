@@ -34,12 +34,12 @@
     },
     "3": {
       "1": 36.5,
-      "2": 44.46,
-      "3": 59.8,
+      "2": 46.46,
+      "3": 62.7,
       "4": 0,
-      "5": 67.86,
+      "5": 71.66,
       "6": 55.24,
-      "7": 78.86,
+      "7": 80.86,
       "8": 44.66
     }
   },
@@ -1003,7 +1003,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 44.46,
+        "total": 46.46,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1012,7 +1012,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 3,
-        "totalYards": 417,
+        "totalYards": 437,
         "players": [
           {
             "position": "QB",
@@ -1040,7 +1040,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 9.2,
+            "points": 11.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1059,7 +1059,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 59.8,
+        "total": 62.7,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1068,7 +1068,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 17,
         "longestTD": 11,
-        "totalYards": 472,
+        "totalYards": 501,
         "players": [
           {
             "position": "QB",
@@ -1106,7 +1106,7 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 16.3,
+            "points": 19.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1171,7 +1171,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 67.86,
+        "total": 71.66,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1180,7 +1180,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 17,
-        "totalYards": 531,
+        "totalYards": 569,
         "players": [
           {
             "position": "QB",
@@ -1198,7 +1198,7 @@
             "replacement": null,
             "scoringName": "George Pickens",
             "playerId": "8137",
-            "points": 4.8,
+            "points": 6.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1208,7 +1208,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 9.2,
+            "points": 11.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1283,7 +1283,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 78.86,
+        "total": 80.86,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1292,7 +1292,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 17,
-        "totalYards": 581,
+        "totalYards": 601,
         "players": [
           {
             "position": "QB",
@@ -1320,7 +1320,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 9.2,
+            "points": 11.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-27T22:27:35.083Z"
+  "updatedAt": "2026-09-27T22:43:18.038Z"
 }
