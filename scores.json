@@ -34,13 +34,13 @@
     },
     "3": {
       "1": 33.3,
-      "2": 8.36,
-      "3": 5.78,
+      "2": 7.46,
+      "3": 6.02,
       "4": 0,
-      "5": 1.46,
-      "6": 8.2,
-      "7": 9.36,
-      "8": 34.22
+      "5": 1.66,
+      "6": 8.1,
+      "7": 9.56,
+      "8": 34.54
     }
   },
   "details": {
@@ -1003,16 +1003,16 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 8.36,
-        "qbInterceptions": 0,
+        "total": 7.46,
+        "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingYards": 1,
         "longestTD": 3,
-        "totalYards": 29,
+        "totalYards": 30,
         "players": [
           {
             "position": "QB",
@@ -1020,7 +1020,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 0.46,
+            "points": -0.44,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1059,7 +1059,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 5.78,
+        "total": 6.02,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1068,7 +1068,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 7,
         "longestTD": 0,
-        "totalYards": 22,
+        "totalYards": 28,
         "players": [
           {
             "position": "QB",
@@ -1076,7 +1076,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 4.98,
+            "points": 5.22,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1171,16 +1171,16 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 1.46,
-        "qbInterceptions": 0,
+        "total": 1.66,
+        "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingYards": 1,
         "longestTD": 0,
-        "totalYards": 20,
+        "totalYards": 32,
         "players": [
           {
             "position": "QB",
@@ -1188,7 +1188,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 0.46,
+            "points": -0.44,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1218,7 +1218,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 1,
+            "points": 2.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1227,7 +1227,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 8.2,
+        "total": 8.1,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1236,7 +1236,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 78,
+        "totalYards": 77,
         "players": [
           {
             "position": "QB",
@@ -1274,7 +1274,7 @@
             "replacement": null,
             "scoringName": "De'Von Achane",
             "playerId": "9226",
-            "points": 1.8,
+            "points": 1.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1283,16 +1283,16 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 9.36,
-        "qbInterceptions": 0,
+        "total": 9.56,
+        "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingYards": 1,
         "longestTD": 3,
-        "totalYards": 39,
+        "totalYards": 51,
         "players": [
           {
             "position": "QB",
@@ -1300,7 +1300,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 0.46,
+            "points": -0.44,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1330,7 +1330,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 1,
+            "points": 2.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1339,16 +1339,16 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 34.22,
+        "total": 34.54,
         "qbInterceptions": 0,
-        "fumblesLost": 0,
+        "fumblesLost": 1,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 2,
         "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingYards": 8,
         "longestTD": 3,
-        "totalYards": 236,
+        "totalYards": 257,
         "players": [
           {
             "position": "QB",
@@ -1356,7 +1356,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 0.92,
+            "points": 1.24,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-27T17:23:31.537Z"
+  "updatedAt": "2026-09-27T17:37:50.064Z"
 }
