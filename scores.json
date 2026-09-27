@@ -34,13 +34,13 @@
     },
     "3": {
       "1": 36.5,
-      "2": 46.46,
-      "3": 63.2,
+      "2": 52.86,
+      "3": 64.4,
       "4": 0,
-      "5": 73.26,
-      "6": 57.24,
-      "7": 80.86,
-      "8": 46.66
+      "5": 79.66,
+      "6": 58.14,
+      "7": 87.26,
+      "8": 47.56
     }
   },
   "details": {
@@ -1003,16 +1003,16 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 46.46,
+        "total": 52.86,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
-        "tightEndTDs": 0,
+        "tightEndTDs": 1,
         "runningBackTDs": 0,
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
-        "longestTD": 3,
-        "totalYards": 437,
+        "longestTD": 4,
+        "totalYards": 441,
         "players": [
           {
             "position": "QB",
@@ -1040,7 +1040,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 11.2,
+            "points": 17.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1059,7 +1059,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 63.2,
+        "total": 64.4,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1068,7 +1068,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 17,
         "longestTD": 11,
-        "totalYards": 506,
+        "totalYards": 518,
         "players": [
           {
             "position": "QB",
@@ -1106,7 +1106,7 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 19.7,
+            "points": 20.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1171,16 +1171,16 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 73.26,
+        "total": 79.66,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
-        "tightEndTDs": 0,
+        "tightEndTDs": 1,
         "runningBackTDs": 3,
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 17,
-        "totalYards": 585,
+        "totalYards": 589,
         "players": [
           {
             "position": "QB",
@@ -1208,7 +1208,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 11.2,
+            "points": 17.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1227,7 +1227,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 57.24,
+        "total": 58.14,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 3,
@@ -1236,7 +1236,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 13,
         "longestTD": 11,
-        "totalYards": 520,
+        "totalYards": 529,
         "players": [
           {
             "position": "QB",
@@ -1264,7 +1264,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 6.6,
+            "points": 7.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1283,16 +1283,16 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 80.86,
+        "total": 87.26,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
-        "tightEndTDs": 0,
+        "tightEndTDs": 1,
         "runningBackTDs": 3,
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 17,
-        "totalYards": 601,
+        "totalYards": 605,
         "players": [
           {
             "position": "QB",
@@ -1320,7 +1320,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 11.2,
+            "points": 17.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1339,7 +1339,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 46.66,
+        "total": 47.56,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1348,7 +1348,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 18,
         "longestTD": 3,
-        "totalYards": 496,
+        "totalYards": 505,
         "players": [
           {
             "position": "QB",
@@ -1376,7 +1376,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 6.6,
+            "points": 7.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-27T23:10:24.885Z"
+  "updatedAt": "2026-09-27T23:25:29.284Z"
 }
