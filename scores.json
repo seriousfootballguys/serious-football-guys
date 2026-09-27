@@ -35,12 +35,12 @@
     "3": {
       "1": 36.5,
       "2": 46.46,
-      "3": 62.7,
+      "3": 63.4,
       "4": 0,
       "5": 71.66,
-      "6": 55.24,
+      "6": 56.54,
       "7": 80.86,
-      "8": 44.66
+      "8": 45.96
     }
   },
   "details": {
@@ -1059,7 +1059,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 62.7,
+        "total": 63.4,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1068,7 +1068,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 17,
         "longestTD": 11,
-        "totalYards": 501,
+        "totalYards": 508,
         "players": [
           {
             "position": "QB",
@@ -1106,7 +1106,7 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 19.2,
+            "points": 19.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1227,7 +1227,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 55.24,
+        "total": 56.54,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 3,
@@ -1236,7 +1236,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 13,
         "longestTD": 11,
-        "totalYards": 500,
+        "totalYards": 513,
         "players": [
           {
             "position": "QB",
@@ -1264,7 +1264,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 4.6,
+            "points": 5.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1339,7 +1339,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 44.66,
+        "total": 45.96,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1348,7 +1348,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 18,
         "longestTD": 3,
-        "totalYards": 476,
+        "totalYards": 489,
         "players": [
           {
             "position": "QB",
@@ -1376,7 +1376,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 4.6,
+            "points": 5.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-27T22:43:18.038Z"
+  "updatedAt": "2026-09-27T22:54:58.993Z"
 }
