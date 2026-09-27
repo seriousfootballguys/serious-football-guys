@@ -33,13 +33,13 @@
       "8": 27.22
     },
     "3": {
-      "1": 33.3,
-      "2": 32.36,
-      "3": 36.34,
+      "1": 36.5,
+      "2": 35.26,
+      "3": 43.5,
       "4": 0,
-      "5": 53.96,
-      "6": 43.32,
-      "7": 66.76,
+      "5": 53.86,
+      "6": 50.6,
+      "7": 69.66,
       "8": 40.06
     }
   },
@@ -947,7 +947,7 @@
     "3": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 33.3,
+        "total": 36.5,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -956,7 +956,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 3,
-        "totalYards": 213,
+        "totalYards": 245,
         "players": [
           {
             "position": "QB",
@@ -974,7 +974,7 @@
             "replacement": null,
             "scoringName": "Justin Jefferson",
             "playerId": "6794",
-            "points": 0,
+            "points": 3.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1003,16 +1003,16 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 32.36,
+        "total": 35.26,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 2,
-        "qbRushingYards": 23,
+        "qbRushingYards": 22,
         "longestTD": 3,
-        "totalYards": 296,
+        "totalYards": 325,
         "players": [
           {
             "position": "QB",
@@ -1020,7 +1020,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 19.56,
+            "points": 19.46,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1030,7 +1030,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 12.8,
+            "points": 15.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1059,7 +1059,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 36.34,
+        "total": 43.5,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1068,7 +1068,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 17,
         "longestTD": 11,
-        "totalYards": 355,
+        "totalYards": 429,
         "players": [
           {
             "position": "QB",
@@ -1076,7 +1076,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 13.58,
+            "points": 13.74,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1086,7 +1086,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 18.36,
+            "points": 25.36,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1171,16 +1171,16 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 53.96,
+        "total": 53.86,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 3,
         "qbRushingTDs": 2,
-        "qbRushingYards": 23,
+        "qbRushingYards": 22,
         "longestTD": 17,
-        "totalYards": 392,
+        "totalYards": 391,
         "players": [
           {
             "position": "QB",
@@ -1188,7 +1188,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 19.56,
+            "points": 19.46,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1227,16 +1227,16 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 43.32,
+        "total": 50.6,
         "qbInterceptions": 0,
-        "fumblesLost": 0,
+        "fumblesLost": 1,
         "passingTDs": 3,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 13,
         "longestTD": 11,
-        "totalYards": 351,
+        "totalYards": 453,
         "players": [
           {
             "position": "QB",
@@ -1244,7 +1244,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 23.26,
+            "points": 23.54,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1254,7 +1254,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 18.36,
+            "points": 25.36,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1283,16 +1283,16 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 66.76,
+        "total": 69.66,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 3,
         "qbRushingTDs": 2,
-        "qbRushingYards": 23,
+        "qbRushingYards": 22,
         "longestTD": 17,
-        "totalYards": 460,
+        "totalYards": 489,
         "players": [
           {
             "position": "QB",
@@ -1300,7 +1300,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 19.56,
+            "points": 19.46,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1310,7 +1310,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 12.8,
+            "points": 15.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-27T19:59:13.050Z"
+  "updatedAt": "2026-09-27T20:17:37.949Z"
 }
