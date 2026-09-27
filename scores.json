@@ -34,12 +34,12 @@
     },
     "3": {
       "1": 33.3,
-      "2": 19.58,
+      "2": 22.88,
       "3": 25.48,
       "4": 0,
-      "5": 27.08,
-      "6": 26.6,
-      "7": 37.78,
+      "5": 36.88,
+      "6": 27.94,
+      "7": 49.68,
       "8": 37.38
     }
   },
@@ -1003,7 +1003,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 19.58,
+        "total": 22.88,
         "qbInterceptions": 2,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1012,7 +1012,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 3,
         "longestTD": 3,
-        "totalYards": 163,
+        "totalYards": 214,
         "players": [
           {
             "position": "QB",
@@ -1020,7 +1020,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 8.88,
+            "points": 10.08,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1030,7 +1030,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 10.7,
+            "points": 12.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1171,16 +1171,16 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 27.08,
+        "total": 36.88,
         "qbInterceptions": 2,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 1,
+        "runningBackTDs": 2,
         "qbRushingTDs": 1,
         "qbRushingYards": 3,
         "longestTD": 17,
-        "totalYards": 238,
+        "totalYards": 294,
         "players": [
           {
             "position": "QB",
@@ -1188,7 +1188,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 8.88,
+            "points": 10.08,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1218,7 +1218,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 18.2,
+            "points": 26.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1227,16 +1227,16 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 26.6,
+        "total": 27.94,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 2,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 8,
+        "qbRushingYards": 13,
         "longestTD": 1,
-        "totalYards": 225,
+        "totalYards": 251,
         "players": [
           {
             "position": "QB",
@@ -1244,7 +1244,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 15.4,
+            "points": 16.74,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1283,16 +1283,16 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 37.78,
+        "total": 49.68,
         "qbInterceptions": 2,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 1,
+        "runningBackTDs": 2,
         "qbRushingTDs": 1,
         "qbRushingYards": 3,
         "longestTD": 17,
-        "totalYards": 285,
+        "totalYards": 362,
         "players": [
           {
             "position": "QB",
@@ -1300,7 +1300,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 8.88,
+            "points": 10.08,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1310,7 +1310,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 10.7,
+            "points": 12.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1330,7 +1330,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 18.2,
+            "points": 26.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-27T18:55:01.460Z"
+  "updatedAt": "2026-09-27T19:09:35.159Z"
 }
