@@ -35,12 +35,12 @@
     "3": {
       "1": 33.3,
       "2": 0,
-      "3": 0,
+      "3": 1.7,
       "4": 0,
       "5": 0,
       "6": 0,
       "7": 0,
-      "8": 33.3
+      "8": 33.38
     }
   },
   "details": {
@@ -1059,16 +1059,16 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 0,
+        "total": 1.7,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingYards": 7,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 20,
         "players": [
           {
             "position": "QB",
@@ -1076,7 +1076,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 0,
+            "points": 0.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1096,7 +1096,7 @@
             "replacement": null,
             "scoringName": "Sam LaPorta",
             "playerId": "10859",
-            "points": 0,
+            "points": 0.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1339,7 +1339,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 33.3,
+        "total": 33.38,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1348,7 +1348,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 3,
-        "totalYards": 213,
+        "totalYards": 215,
         "players": [
           {
             "position": "QB",
@@ -1356,7 +1356,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 0,
+            "points": 0.08,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-27T16:54:02.660Z"
+  "updatedAt": "2026-09-27T17:08:19.925Z"
 }
