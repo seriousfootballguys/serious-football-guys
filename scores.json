@@ -35,9 +35,9 @@
     "3": {
       "1": 36.5,
       "2": 44.46,
-      "3": 60.2,
+      "3": 59.8,
       "4": 0,
-      "5": 66.36,
+      "5": 67.86,
       "6": 55.24,
       "7": 78.86,
       "8": 44.66
@@ -1059,7 +1059,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 60.2,
+        "total": 59.8,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1068,7 +1068,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 17,
         "longestTD": 11,
-        "totalYards": 476,
+        "totalYards": 472,
         "players": [
           {
             "position": "QB",
@@ -1106,7 +1106,7 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 16.7,
+            "points": 16.3,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1171,7 +1171,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 66.36,
+        "total": 67.86,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1180,7 +1180,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 17,
-        "totalYards": 516,
+        "totalYards": 531,
         "players": [
           {
             "position": "QB",
@@ -1198,7 +1198,7 @@
             "replacement": null,
             "scoringName": "George Pickens",
             "playerId": "8137",
-            "points": 3.3,
+            "points": 4.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-27T22:10:46.814Z"
+  "updatedAt": "2026-09-27T22:27:35.083Z"
 }
