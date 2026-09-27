@@ -34,12 +34,12 @@
     },
     "3": {
       "1": 36.5,
-      "2": 37.86,
+      "2": 38.96,
       "3": 44.1,
       "4": 0,
-      "5": 57.76,
+      "5": 58.86,
       "6": 50.6,
-      "7": 72.26,
+      "7": 73.36,
       "8": 40.06
     }
   },
@@ -1003,7 +1003,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 37.86,
+        "total": 38.96,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1012,7 +1012,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 3,
-        "totalYards": 351,
+        "totalYards": 362,
         "players": [
           {
             "position": "QB",
@@ -1040,7 +1040,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 2.6,
+            "points": 3.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1171,7 +1171,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 57.76,
+        "total": 58.86,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1180,7 +1180,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 17,
-        "totalYards": 430,
+        "totalYards": 441,
         "players": [
           {
             "position": "QB",
@@ -1208,7 +1208,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 2.6,
+            "points": 3.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1283,7 +1283,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 72.26,
+        "total": 73.36,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1292,7 +1292,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 17,
-        "totalYards": 515,
+        "totalYards": 526,
         "players": [
           {
             "position": "QB",
@@ -1320,7 +1320,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 2.6,
+            "points": 3.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-27T20:32:35.329Z"
+  "updatedAt": "2026-09-27T20:46:18.240Z"
 }
