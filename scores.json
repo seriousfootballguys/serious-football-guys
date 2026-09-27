@@ -34,13 +34,13 @@
     },
     "3": {
       "1": 36.5,
-      "2": 43.96,
+      "2": 44.46,
       "3": 60.2,
       "4": 0,
-      "5": 64.76,
-      "6": 53.94,
-      "7": 78.36,
-      "8": 43.36
+      "5": 66.36,
+      "6": 55.24,
+      "7": 78.86,
+      "8": 44.66
     }
   },
   "details": {
@@ -1003,7 +1003,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 43.96,
+        "total": 44.46,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1012,7 +1012,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 3,
-        "totalYards": 412,
+        "totalYards": 417,
         "players": [
           {
             "position": "QB",
@@ -1040,7 +1040,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 8.7,
+            "points": 9.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1171,7 +1171,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 64.76,
+        "total": 66.36,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1180,7 +1180,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 17,
-        "totalYards": 500,
+        "totalYards": 516,
         "players": [
           {
             "position": "QB",
@@ -1198,7 +1198,7 @@
             "replacement": null,
             "scoringName": "George Pickens",
             "playerId": "8137",
-            "points": 2.2,
+            "points": 3.3,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1208,7 +1208,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 8.7,
+            "points": 9.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1227,7 +1227,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 53.94,
+        "total": 55.24,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 3,
@@ -1236,7 +1236,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 13,
         "longestTD": 11,
-        "totalYards": 487,
+        "totalYards": 500,
         "players": [
           {
             "position": "QB",
@@ -1264,7 +1264,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 3.3,
+            "points": 4.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1283,7 +1283,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 78.36,
+        "total": 78.86,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1292,7 +1292,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 17,
-        "totalYards": 576,
+        "totalYards": 581,
         "players": [
           {
             "position": "QB",
@@ -1320,7 +1320,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 8.7,
+            "points": 9.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1339,7 +1339,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 43.36,
+        "total": 44.66,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1348,7 +1348,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 18,
         "longestTD": 3,
-        "totalYards": 463,
+        "totalYards": 476,
         "players": [
           {
             "position": "QB",
@@ -1376,7 +1376,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 3.3,
+            "points": 4.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-27T21:54:54.385Z"
+  "updatedAt": "2026-09-27T22:10:46.814Z"
 }
