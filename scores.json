@@ -36,7 +36,7 @@
       "1": 39.6,
       "2": 60.86,
       "3": 64.4,
-      "4": 17.4,
+      "4": 21.6,
       "5": 79.66,
       "6": 58.14,
       "7": 87.26,
@@ -1115,7 +1115,7 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 17.4,
+        "total": 21.6,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1124,7 +1124,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 8,
-        "totalYards": 114,
+        "totalYards": 156,
         "players": [
           {
             "position": "QB",
@@ -1162,7 +1162,7 @@
             "replacement": null,
             "scoringName": "D'Andre Swift",
             "playerId": "6790",
-            "points": 4.6,
+            "points": 8.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-29T03:00:07.456Z"
+  "updatedAt": "2026-09-29T03:20:53.480Z"
 }
