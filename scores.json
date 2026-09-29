@@ -36,7 +36,7 @@
       "1": 37.4,
       "2": 60.16,
       "3": 64.4,
-      "4": 12.8,
+      "4": 15.1,
       "5": 79.66,
       "6": 58.14,
       "7": 87.26,
@@ -1115,7 +1115,7 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 12.8,
+        "total": 15.1,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1124,7 +1124,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 8,
-        "totalYards": 68,
+        "totalYards": 91,
         "players": [
           {
             "position": "QB",
@@ -1142,7 +1142,7 @@
             "replacement": null,
             "scoringName": "Luther Burden III",
             "playerId": "12519",
-            "points": 10.1,
+            "points": 12.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1162,7 +1162,7 @@
             "replacement": null,
             "scoringName": "D'Andre Swift",
             "playerId": "6790",
-            "points": 2.7,
+            "points": 2.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-29T01:14:50.572Z"
+  "updatedAt": "2026-09-29T01:30:29.180Z"
 }
