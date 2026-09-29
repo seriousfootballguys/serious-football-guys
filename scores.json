@@ -36,7 +36,7 @@
       "1": 39.6,
       "2": 60.76,
       "3": 64.4,
-      "4": 16.5,
+      "4": 16.3,
       "5": 79.66,
       "6": 58.14,
       "7": 87.26,
@@ -1115,7 +1115,7 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 16.5,
+        "total": 16.3,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1124,7 +1124,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 8,
-        "totalYards": 105,
+        "totalYards": 103,
         "players": [
           {
             "position": "QB",
@@ -1142,7 +1142,7 @@
             "replacement": null,
             "scoringName": "Luther Burden III",
             "playerId": "12519",
-            "points": 13,
+            "points": 12.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-29T02:17:40.381Z"
+  "updatedAt": "2026-09-29T02:32:56.441Z"
 }
