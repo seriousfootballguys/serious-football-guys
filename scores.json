@@ -33,10 +33,10 @@
       "8": 27.22
     },
     "3": {
-      "1": 36.9,
-      "2": 54.46,
+      "1": 37.4,
+      "2": 60.16,
       "3": 64.4,
-      "4": 13,
+      "4": 12.8,
       "5": 79.66,
       "6": 58.14,
       "7": 87.26,
@@ -947,7 +947,7 @@
     "3": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 36.9,
+        "total": 37.4,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -956,7 +956,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 3,
-        "totalYards": 249,
+        "totalYards": 254,
         "players": [
           {
             "position": "QB",
@@ -984,7 +984,7 @@
             "replacement": null,
             "scoringName": "Colston Loveland",
             "playerId": "12517",
-            "points": 0.4,
+            "points": 0.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1003,7 +1003,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 54.46,
+        "total": 60.16,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1012,7 +1012,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 4,
-        "totalYards": 457,
+        "totalYards": 514,
         "players": [
           {
             "position": "QB",
@@ -1050,7 +1050,7 @@
             "replacement": null,
             "scoringName": "Saquon Barkley",
             "playerId": "4866",
-            "points": 1.6,
+            "points": 7.3,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1115,7 +1115,7 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 13,
+        "total": 12.8,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1124,7 +1124,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 8,
-        "totalYards": 70,
+        "totalYards": 68,
         "players": [
           {
             "position": "QB",
@@ -1162,7 +1162,7 @@
             "replacement": null,
             "scoringName": "D'Andre Swift",
             "playerId": "6790",
-            "points": 2.9,
+            "points": 2.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-29T00:56:11.631Z"
+  "updatedAt": "2026-09-29T01:14:50.572Z"
 }
