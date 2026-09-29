@@ -34,9 +34,9 @@
     },
     "3": {
       "1": 39.6,
-      "2": 60.76,
+      "2": 60.86,
       "3": 64.4,
-      "4": 16.3,
+      "4": 16.6,
       "5": 79.66,
       "6": 58.14,
       "7": 87.26,
@@ -1003,7 +1003,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 60.76,
+        "total": 60.86,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1012,7 +1012,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 22,
         "longestTD": 4,
-        "totalYards": 520,
+        "totalYards": 521,
         "players": [
           {
             "position": "QB",
@@ -1050,7 +1050,7 @@
             "replacement": null,
             "scoringName": "Saquon Barkley",
             "playerId": "4866",
-            "points": 7.9,
+            "points": 8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1115,7 +1115,7 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 16.3,
+        "total": 16.6,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1124,7 +1124,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 8,
-        "totalYards": 103,
+        "totalYards": 106,
         "players": [
           {
             "position": "QB",
@@ -1162,7 +1162,7 @@
             "replacement": null,
             "scoringName": "D'Andre Swift",
             "playerId": "6790",
-            "points": 3.5,
+            "points": 3.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1395,5 +1395,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-29T02:32:56.441Z"
+  "updatedAt": "2026-09-29T02:48:06.266Z"
 }
