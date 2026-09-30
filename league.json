@@ -325,7 +325,7 @@
       ]
     ]
   },
-  "bonuses": {
+    "bonuses": {
     "1": "Most interceptions",
     "2": "Most fumbles",
     "3": "Aggies or Tigers? Pick by Wednesday; winner earns bonus",
@@ -339,5 +339,22 @@
     "11": "Least standard-league points",
     "12": "Aggies or Longhorns? Pick by Wednesday; winner earns bonus",
     "13": "Most cumulative rushing, passing, and receiving yards"
+  },
+
+  "bonusPicks": {
+    "3": {
+      "1": "LSU",
+      "2": "LSU",
+      "3": "LSU",
+      "4": "LSU",
+      "5": "Texas A&M",
+      "6": "Texas A&M",
+      "7": "LSU",
+      "8": "LSU"
+    }
+  },
+
+  "bonusWinners": {
+    "3": "LSU"
   }
 }
