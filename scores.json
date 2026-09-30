@@ -26,21 +26,21 @@
       "1": 24.78,
       "2": 64.62,
       "3": 69.28,
-      "4": 33.28,
+      "4": 32.98,
       "5": 64.42,
       "6": 69.08,
       "7": 79.92,
       "8": 27.22
     },
     "3": {
-      "1": 39.6,
+      "1": 64.08,
       "2": 60.86,
       "3": 64.4,
-      "4": 21.6,
+      "4": 46.08,
       "5": 79.66,
-      "6": 58.14,
+      "6": 69.64,
       "7": 87.26,
-      "8": 47.56
+      "8": 62.86
     },
     "4": {
       "1": 10,
@@ -675,7 +675,7 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 33.28,
+        "total": 32.98,
         "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -684,7 +684,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 42,
         "longestTD": 0,
-        "totalYards": 368,
+        "totalYards": 365,
         "players": [
           {
             "position": "QB",
@@ -713,8 +713,8 @@
             "scoringName": "Cole Kmet",
             "playerId": "6826",
             "points": 0,
-            "injuryAddition": "Colston Loveland",
-            "injuryAdditionPoints": 0.3
+            "injuryAddition": null,
+            "injuryAdditionPoints": 0
           },
           {
             "position": "RB",
@@ -957,24 +957,24 @@
     "3": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 39.6,
+        "total": 64.08,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 0,
+        "passingTDs": 2,
         "tightEndTDs": 0,
         "runningBackTDs": 2,
-        "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingTDs": 1,
+        "qbRushingYards": 6,
         "longestTD": 3,
-        "totalYards": 276,
+        "totalYards": 529,
         "players": [
           {
             "position": "QB",
             "name": "Caleb Williams",
-            "replacement": null,
-            "scoringName": "Caleb Williams",
-            "playerId": "11560",
-            "points": 0,
+            "replacement": "Case Keenum",
+            "scoringName": "Case Keenum",
+            "playerId": "1737",
+            "points": 24.48,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1125,24 +1125,24 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 21.6,
+        "total": 46.08,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 0,
+        "passingTDs": 2,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
-        "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingTDs": 1,
+        "qbRushingYards": 6,
         "longestTD": 8,
-        "totalYards": 156,
+        "totalYards": 409,
         "players": [
           {
             "position": "QB",
             "name": "Caleb Williams",
-            "replacement": null,
-            "scoringName": "Caleb Williams",
-            "playerId": "11560",
-            "points": 0,
+            "replacement": "Case Keenum",
+            "scoringName": "Case Keenum",
+            "playerId": "1737",
+            "points": 24.48,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1237,16 +1237,16 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 58.14,
+        "total": 69.64,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 3,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 13,
         "longestTD": 11,
-        "totalYards": 529,
+        "totalYards": 584,
         "players": [
           {
             "position": "QB",
@@ -1285,8 +1285,8 @@
             "scoringName": "De'Von Achane",
             "playerId": "9226",
             "points": 1.7,
-            "injuryAddition": null,
-            "injuryAdditionPoints": 0
+            "injuryAddition": "Ollie Gordon",
+            "injuryAdditionPoints": 11.5
           }
         ],
         "bonus": 0
@@ -1349,7 +1349,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 47.56,
+        "total": 62.86,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1357,8 +1357,8 @@
         "runningBackTDs": 2,
         "qbRushingTDs": 0,
         "qbRushingYards": 18,
-        "longestTD": 3,
-        "totalYards": 505,
+        "longestTD": 48,
+        "totalYards": 598,
         "players": [
           {
             "position": "QB",
@@ -1373,10 +1373,10 @@
           {
             "position": "WR",
             "name": "Puka Nacua",
-            "replacement": null,
-            "scoringName": "Puka Nacua",
-            "playerId": "9493",
-            "points": 0,
+            "replacement": "Konata Mumpfield",
+            "scoringName": "Konata Mumpfield",
+            "playerId": "12718",
+            "points": 15.3,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1855,5 +1855,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-30T01:06:18.585Z"
+  "updatedAt": "2026-09-30T01:26:00.306Z"
 }
