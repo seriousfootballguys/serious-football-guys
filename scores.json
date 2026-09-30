@@ -33,14 +33,14 @@
       "8": 27.22
     },
     "3": {
-      "1": 64.08,
-      "2": 60.86,
-      "3": 64.4,
-      "4": 46.08,
+      "1": 74.08,
+      "2": 70.86,
+      "3": 74.4,
+      "4": 56.08,
       "5": 79.66,
       "6": 69.64,
-      "7": 87.26,
-      "8": 62.86
+      "7": 97.26,
+      "8": 72.86
     },
     "4": {
       "1": 10,
@@ -957,7 +957,7 @@
     "3": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 64.08,
+        "total": 74.08,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 2,
@@ -1009,11 +1009,11 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 0
+        "bonus": 10
       },
       "2": {
         "team": "The Sparklers",
-        "total": 60.86,
+        "total": 70.86,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1065,11 +1065,11 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 0
+        "bonus": 10
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 64.4,
+        "total": 74.4,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1121,11 +1121,11 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 0
+        "bonus": 10
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 46.08,
+        "total": 56.08,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 2,
@@ -1177,7 +1177,7 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 0
+        "bonus": 10
       },
       "5": {
         "team": "The Banana Crew",
@@ -1293,7 +1293,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 87.26,
+        "total": 97.26,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1345,11 +1345,11 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 0
+        "bonus": 10
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 62.86,
+        "total": 72.86,
         "qbInterceptions": 2,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -1401,7 +1401,7 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 0
+        "bonus": 10
       }
     },
     "4": {
@@ -1855,5 +1855,5 @@
       }
     }
   },
-  "updatedAt": "2026-09-30T01:28:07.005Z"
+  "updatedAt": "2026-09-30T01:34:10.099Z"
 }
