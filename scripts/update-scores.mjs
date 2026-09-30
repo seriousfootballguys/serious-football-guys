@@ -21,13 +21,19 @@ const injuryReplacements = {
   },
   "2": {
     "Brock Bowers": "Michael Mayer"
+  },
+  "3": {
+    "Caleb Williams": "Case Keenum",
+    "Puka Nacua": "Konata Mumpfield"
   }
 };
 
 const inGameInjuryAdditions = {
   "2": {
-    "Caleb Williams": "Tyson Bagent",
-    "Cole Kmet": "Colston Loveland"
+    "Caleb Williams": "Tyson Bagent"
+  },
+  "3": {
+    "De'Von Achane": "Ollie Gordon"
   }
 };
 
