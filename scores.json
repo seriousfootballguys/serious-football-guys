@@ -44,12 +44,12 @@
     },
     "4": {
       "1": 5.7,
-      "2": 23.22,
-      "3": 13.74,
+      "2": 25.72,
+      "3": 15.76,
       "4": 15.1,
-      "5": 27.02,
-      "6": 28.82,
-      "7": 22.22,
+      "5": 29.52,
+      "6": 30.32,
+      "7": 24.72,
       "8": 57.96
     }
   },
@@ -1463,7 +1463,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 23.22,
+        "total": 25.72,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1472,7 +1472,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 4,
         "longestTD": 2,
-        "totalYards": 294,
+        "totalYards": 319,
         "players": [
           {
             "position": "QB",
@@ -1500,7 +1500,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 0,
+            "points": 2.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1519,7 +1519,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 13.74,
+        "total": 15.76,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1528,7 +1528,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 5,
-        "totalYards": 100,
+        "totalYards": 128,
         "players": [
           {
             "position": "QB",
@@ -1536,7 +1536,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": -0.16,
+            "points": 0.36,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1546,7 +1546,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 0,
+            "points": 1.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1631,7 +1631,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 27.02,
+        "total": 29.52,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1640,7 +1640,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 4,
         "longestTD": 2,
-        "totalYards": 332,
+        "totalYards": 357,
         "players": [
           {
             "position": "QB",
@@ -1668,7 +1668,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 0,
+            "points": 2.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1687,7 +1687,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 28.82,
+        "total": 30.32,
         "qbInterceptions": 2,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1696,7 +1696,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 6,
         "longestTD": 1,
-        "totalYards": 465,
+        "totalYards": 480,
         "players": [
           {
             "position": "QB",
@@ -1714,7 +1714,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 0,
+            "points": 1.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1743,7 +1743,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 22.22,
+        "total": 24.72,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1752,7 +1752,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 4,
         "longestTD": 2,
-        "totalYards": 284,
+        "totalYards": 309,
         "players": [
           {
             "position": "QB",
@@ -1780,7 +1780,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 0,
+            "points": 2.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1855,5 +1855,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-04T20:41:27.637Z"
+  "updatedAt": "2026-10-04T21:30:03.106Z"
 }
