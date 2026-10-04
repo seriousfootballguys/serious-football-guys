@@ -45,10 +45,10 @@
     "4": {
       "1": 5.7,
       "2": 27.32,
-      "3": 21.64,
+      "3": 23.64,
       "4": 15.1,
       "5": 31.12,
-      "6": 34.42,
+      "6": 36.42,
       "7": 26.32,
       "8": 57.96
     }
@@ -1519,7 +1519,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 21.64,
+        "total": 23.64,
         "qbInterceptions": 2,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1528,7 +1528,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 27,
         "longestTD": 5,
-        "totalYards": 198,
+        "totalYards": 218,
         "players": [
           {
             "position": "QB",
@@ -1546,7 +1546,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 5.6,
+            "points": 7.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1687,7 +1687,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 34.42,
+        "total": 36.42,
         "qbInterceptions": 2,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1696,7 +1696,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 6,
         "longestTD": 1,
-        "totalYards": 521,
+        "totalYards": 541,
         "players": [
           {
             "position": "QB",
@@ -1714,7 +1714,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 5.6,
+            "points": 7.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1855,5 +1855,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-04T22:02:11.215Z"
+  "updatedAt": "2026-10-04T22:21:23.220Z"
 }
