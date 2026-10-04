@@ -45,7 +45,7 @@
     "4": {
       "1": 5.7,
       "2": 37.82,
-      "3": 34.7,
+      "3": 34.06,
       "4": 15.1,
       "5": 41.62,
       "6": 36.42,
@@ -1519,16 +1519,16 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 34.7,
+        "total": 34.06,
         "qbInterceptions": 2,
-        "fumblesLost": 0,
+        "fumblesLost": 1,
         "passingTDs": 1,
         "tightEndTDs": 0,
         "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 40,
         "longestTD": 5,
-        "totalYards": 375,
+        "totalYards": 384,
         "players": [
           {
             "position": "QB",
@@ -1536,7 +1536,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 13.2,
+            "points": 12.56,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1855,5 +1855,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-04T23:38:30.435Z"
+  "updatedAt": "2026-10-04T23:52:40.779Z"
 }
