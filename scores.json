@@ -44,12 +44,12 @@
     },
     "4": {
       "1": 5.7,
-      "2": 25.72,
-      "3": 15.76,
+      "2": 27.32,
+      "3": 20.04,
       "4": 15.1,
-      "5": 29.52,
-      "6": 30.32,
-      "7": 24.72,
+      "5": 31.12,
+      "6": 34.42,
+      "7": 26.32,
       "8": 57.96
     }
   },
@@ -1463,7 +1463,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 25.72,
+        "total": 27.32,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1472,7 +1472,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 4,
         "longestTD": 2,
-        "totalYards": 319,
+        "totalYards": 335,
         "players": [
           {
             "position": "QB",
@@ -1500,7 +1500,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 2.5,
+            "points": 4.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1519,16 +1519,16 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 15.76,
+        "total": 20.04,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 1,
         "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingYards": 1,
         "longestTD": 5,
-        "totalYards": 128,
+        "totalYards": 172,
         "players": [
           {
             "position": "QB",
@@ -1536,7 +1536,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 0.36,
+            "points": 0.54,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1546,7 +1546,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 1.5,
+            "points": 5.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1631,7 +1631,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 29.52,
+        "total": 31.12,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1640,7 +1640,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 4,
         "longestTD": 2,
-        "totalYards": 357,
+        "totalYards": 373,
         "players": [
           {
             "position": "QB",
@@ -1668,7 +1668,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 2.5,
+            "points": 4.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1687,7 +1687,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 30.32,
+        "total": 34.42,
         "qbInterceptions": 2,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1696,7 +1696,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 6,
         "longestTD": 1,
-        "totalYards": 480,
+        "totalYards": 521,
         "players": [
           {
             "position": "QB",
@@ -1714,7 +1714,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 1.5,
+            "points": 5.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1743,7 +1743,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 24.72,
+        "total": 26.32,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1752,7 +1752,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 4,
         "longestTD": 2,
-        "totalYards": 309,
+        "totalYards": 325,
         "players": [
           {
             "position": "QB",
@@ -1780,7 +1780,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 2.5,
+            "points": 4.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1855,5 +1855,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-04T21:30:03.106Z"
+  "updatedAt": "2026-10-04T21:50:31.320Z"
 }
