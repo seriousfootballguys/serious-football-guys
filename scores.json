@@ -47,9 +47,9 @@
       "2": 37.82,
       "3": 34.06,
       "4": 15.1,
-      "5": 41.62,
+      "5": 42.62,
       "6": 36.42,
-      "7": 36.82,
+      "7": 37.82,
       "8": 57.96
     }
   },
@@ -1631,7 +1631,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 41.62,
+        "total": 42.62,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1640,7 +1640,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 4,
         "longestTD": 20,
-        "totalYards": 418,
+        "totalYards": 428,
         "players": [
           {
             "position": "QB",
@@ -1678,7 +1678,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 0,
+            "points": 1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1743,7 +1743,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 36.82,
+        "total": 37.82,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1752,7 +1752,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 4,
         "longestTD": 20,
-        "totalYards": 370,
+        "totalYards": 380,
         "players": [
           {
             "position": "QB",
@@ -1790,7 +1790,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 0,
+            "points": 1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1855,5 +1855,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-05T00:09:30.691Z"
+  "updatedAt": "2026-10-05T00:38:59.270Z"
 }
