@@ -43,14 +43,14 @@
       "8": 72.86
     },
     "4": {
-      "1": 5.7,
+      "1": 17.6,
       "2": 37.82,
       "3": 48.46,
       "4": 15.1,
       "5": 55.32,
       "6": 36.42,
       "7": 50.52,
-      "8": 57.96
+      "8": 69.86
     }
   },
   "details": {
@@ -1407,16 +1407,16 @@
     "4": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 5.7,
+        "total": 17.6,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 57,
+        "longestTD": 59,
+        "totalYards": 116,
         "players": [
           {
             "position": "QB",
@@ -1454,7 +1454,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 0,
+            "points": 11.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1799,16 +1799,16 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 57.96,
+        "total": 69.86,
         "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 3,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 54,
-        "longestTD": 2,
-        "totalYards": 481,
+        "longestTD": 59,
+        "totalYards": 540,
         "players": [
           {
             "position": "QB",
@@ -1846,7 +1846,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 0,
+            "points": 11.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1855,5 +1855,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-05T23:56:58.820Z"
+  "updatedAt": "2026-10-06T00:25:11.331Z"
 }
