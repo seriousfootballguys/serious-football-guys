@@ -33,6 +33,15 @@ const injuryReplacements = {
   }
 };
 
+const inGameInjuryAdditions = {
+  "2": {
+    "Caleb Williams": "Tyson Bagent"
+  },
+  "3": {
+    "De'Von Achane": "Ollie Gordon"
+  }
+};
+
 function normalize(name) {
   return String(name)
     .toLowerCase()
