@@ -43,14 +43,14 @@
       "8": 72.86
     },
     "4": {
-      "1": 42.32,
+      "1": 43.62,
       "2": 37.82,
       "3": 48.46,
       "4": 24.92,
       "5": 55.32,
       "6": 52.42,
       "7": 50.52,
-      "8": 83.36
+      "8": 84.66
     }
   },
   "details": {
@@ -1407,7 +1407,7 @@
     "4": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 42.32,
+        "total": 43.62,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1416,7 +1416,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 1,
         "longestTD": 59,
-        "totalYards": 474,
+        "totalYards": 487,
         "players": [
           {
             "position": "QB",
@@ -1454,7 +1454,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 25.4,
+            "points": 26.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1799,7 +1799,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 83.36,
+        "total": 84.66,
         "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 3,
@@ -1808,7 +1808,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 54,
         "longestTD": 59,
-        "totalYards": 615,
+        "totalYards": 628,
         "players": [
           {
             "position": "QB",
@@ -1846,7 +1846,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 25.4,
+            "points": 26.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1855,5 +1855,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-06T02:52:27.671Z"
+  "updatedAt": "2026-10-06T03:06:37.859Z"
 }
