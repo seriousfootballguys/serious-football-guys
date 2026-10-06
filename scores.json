@@ -43,14 +43,14 @@
       "8": 72.86
     },
     "4": {
-      "1": 25.7,
+      "1": 38.92,
       "2": 37.82,
       "3": 48.46,
-      "4": 15.1,
+      "4": 24.92,
       "5": 55.32,
-      "6": 36.42,
+      "6": 52.42,
       "7": 50.52,
-      "8": 77.96
+      "8": 79.96
     }
   },
   "details": {
@@ -1407,34 +1407,34 @@
     "4": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 25.7,
-        "qbInterceptions": 0,
+        "total": 38.92,
+        "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 2,
         "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingYards": 1,
         "longestTD": 59,
-        "totalYards": 137,
+        "totalYards": 440,
         "players": [
           {
             "position": "QB",
             "name": "Caleb Williams",
-            "replacement": null,
-            "scoringName": "Caleb Williams",
-            "playerId": "11560",
-            "points": 0,
+            "replacement": "Tyson Bagent",
+            "scoringName": "Tyson Bagent",
+            "playerId": "11256",
+            "points": 9.82,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
           {
             "position": "WR",
             "name": "Justin Jefferson",
-            "replacement": null,
-            "scoringName": "Justin Jefferson",
-            "playerId": "6794",
-            "points": 0,
+            "replacement": "Tai Felton",
+            "scoringName": "Tai Felton",
+            "playerId": "12496",
+            "points": 1.4,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1454,7 +1454,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 20,
+            "points": 22,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1575,24 +1575,24 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 15.1,
-        "qbInterceptions": 0,
+        "total": 24.92,
+        "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingYards": 1,
         "longestTD": 0,
-        "totalYards": 161,
+        "totalYards": 430,
         "players": [
           {
             "position": "QB",
             "name": "Caleb Williams",
-            "replacement": null,
-            "scoringName": "Caleb Williams",
-            "playerId": "11560",
-            "points": 0,
+            "replacement": "Tyson Bagent",
+            "scoringName": "Tyson Bagent",
+            "playerId": "11256",
+            "points": 9.82,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1687,16 +1687,16 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 36.42,
+        "total": 52.42,
         "qbInterceptions": 2,
         "fumblesLost": 0,
         "passingTDs": 1,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 1,
         "qbRushingYards": 6,
-        "longestTD": 1,
-        "totalYards": 541,
+        "longestTD": 12,
+        "totalYards": 641,
         "players": [
           {
             "position": "QB",
@@ -1731,10 +1731,10 @@
           {
             "position": "RB",
             "name": "De'Von Achane",
-            "replacement": null,
-            "scoringName": "De'Von Achane",
-            "playerId": "9226",
-            "points": 0,
+            "replacement": "Ollie Gordon",
+            "scoringName": "Ollie Gordon",
+            "playerId": "12495",
+            "points": 16,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1799,7 +1799,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 77.96,
+        "total": 79.96,
         "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 3,
@@ -1808,7 +1808,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 54,
         "longestTD": 59,
-        "totalYards": 561,
+        "totalYards": 581,
         "players": [
           {
             "position": "QB",
@@ -1846,7 +1846,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 20,
+            "points": 22,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1855,5 +1855,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-06T01:26:16.370Z"
+  "updatedAt": "2026-10-06T01:37:26.114Z"
 }
