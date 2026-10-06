@@ -25,14 +25,10 @@ const injuryReplacements = {
   "3": {
     "Caleb Williams": "Case Keenum",
     "Puka Nacua": "Konata Mumpfield"
-  }
-};
-
-const inGameInjuryAdditions = {
-  "2": {
-    "Caleb Williams": "Tyson Bagent"
   },
-  "3": {
+  "4": {
+    "Caleb Williams": "Tyson Bagent",
+    "Justin Jefferson": "Tai Felton",
     "De'Von Achane": "Ollie Gordon"
   }
 };
