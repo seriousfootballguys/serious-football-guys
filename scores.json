@@ -57,7 +57,7 @@
       "2": 10,
       "3": 10,
       "4": 10,
-      "5": 16.3,
+      "5": 19.6,
       "6": 10,
       "7": 10,
       "8": 10
@@ -2091,7 +2091,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 16.3,
+        "total": 19.6,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -2100,7 +2100,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 63,
+        "totalYards": 96,
         "players": [
           {
             "position": "QB",
@@ -2118,7 +2118,7 @@
             "replacement": null,
             "scoringName": "George Pickens",
             "playerId": "8137",
-            "points": 6.3,
+            "points": 9.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-09T02:40:15.444Z"
+  "updatedAt": "2026-10-09T02:57:09.626Z"
 }
