@@ -55,12 +55,12 @@
     "5": {
       "1": 14.7,
       "2": 39.7,
-      "3": 47.54,
+      "3": 47.34,
       "4": 19,
-      "5": 64.8,
-      "6": 40.9,
-      "7": 59.5,
-      "8": 42.36
+      "5": 67.6,
+      "6": 43.4,
+      "7": 62.3,
+      "8": 44.86
     }
   },
   "details": {
@@ -1979,16 +1979,16 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 47.54,
+        "total": 47.34,
         "qbInterceptions": 0,
-        "fumblesLost": 0,
+        "fumblesLost": 1,
         "passingTDs": 1,
         "tightEndTDs": 1,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 34,
+        "qbRushingYards": 42,
         "longestTD": 38,
-        "totalYards": 273,
+        "totalYards": 281,
         "players": [
           {
             "position": "QB",
@@ -1996,7 +1996,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 11.24,
+            "points": 11.04,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2091,7 +2091,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 64.8,
+        "total": 67.6,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -2100,7 +2100,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 18,
-        "totalYards": 378,
+        "totalYards": 406,
         "players": [
           {
             "position": "QB",
@@ -2138,7 +2138,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 19.8,
+            "points": 22.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2147,7 +2147,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 40.9,
+        "total": 43.4,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 4,
@@ -2156,7 +2156,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 10,
         "longestTD": 16,
-        "totalYards": 303,
+        "totalYards": 328,
         "players": [
           {
             "position": "QB",
@@ -2184,7 +2184,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 2.9,
+            "points": 5.4,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2203,7 +2203,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 59.5,
+        "total": 62.3,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -2212,7 +2212,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 45,
-        "totalYards": 325,
+        "totalYards": 353,
         "players": [
           {
             "position": "QB",
@@ -2250,7 +2250,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 19.8,
+            "points": 22.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2259,7 +2259,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 42.36,
+        "total": 44.86,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 4,
@@ -2268,7 +2268,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 25,
         "longestTD": 3,
-        "totalYards": 428,
+        "totalYards": 453,
         "players": [
           {
             "position": "QB",
@@ -2296,7 +2296,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 2.9,
+            "points": 5.4,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-11T22:39:22.398Z"
+  "updatedAt": "2026-10-11T22:55:51.243Z"
 }
