@@ -55,11 +55,11 @@
     "5": {
       "1": 14.7,
       "2": 39.7,
-      "3": 8.74,
+      "3": 9.8,
       "4": 19,
-      "5": 46.9,
+      "5": 54.9,
       "6": 31.1,
-      "7": 41.6,
+      "7": 49.6,
       "8": 40.56
     }
   },
@@ -1979,7 +1979,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 8.74,
+        "total": 9.8,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1988,7 +1988,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 1,
         "longestTD": 0,
-        "totalYards": 118,
+        "totalYards": 128,
         "players": [
           {
             "position": "QB",
@@ -1996,7 +1996,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 2.14,
+            "points": 2.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2016,7 +2016,7 @@
             "replacement": null,
             "scoringName": "Sam LaPorta",
             "playerId": "10859",
-            "points": 1.2,
+            "points": 2.3,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2091,16 +2091,16 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 46.9,
+        "total": 54.9,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 0,
         "tightEndTDs": 1,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 18,
-        "totalYards": 259,
+        "totalYards": 279,
         "players": [
           {
             "position": "QB",
@@ -2138,7 +2138,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 1.9,
+            "points": 9.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2203,16 +2203,16 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 41.6,
+        "total": 49.6,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 0,
         "tightEndTDs": 1,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 45,
-        "totalYards": 206,
+        "totalYards": 226,
         "players": [
           {
             "position": "QB",
@@ -2250,7 +2250,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 1.9,
+            "points": 9.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-11T21:08:51.255Z"
+  "updatedAt": "2026-10-11T21:28:02.234Z"
 }
