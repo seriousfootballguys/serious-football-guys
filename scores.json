@@ -54,13 +54,13 @@
     },
     "5": {
       "1": 2.4,
-      "2": 20.4,
+      "2": 23.6,
       "3": 0,
-      "4": 7.3,
-      "5": 38.7,
-      "6": 10.38,
-      "7": 20.4,
-      "8": 9.64
+      "4": 14.1,
+      "5": 41.9,
+      "6": 12.12,
+      "7": 23.6,
+      "8": 10.12
     }
   },
   "details": {
@@ -1923,7 +1923,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 20.4,
+        "total": 23.6,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1932,7 +1932,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 13,
-        "totalYards": 44,
+        "totalYards": 76,
         "players": [
           {
             "position": "QB",
@@ -1960,7 +1960,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 9.7,
+            "points": 12.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2035,16 +2035,16 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 7.3,
+        "total": 14.1,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 73,
+        "longestTD": 1,
+        "totalYards": 81,
         "players": [
           {
             "position": "QB",
@@ -2062,7 +2062,7 @@
             "replacement": null,
             "scoringName": "Luther Burden III",
             "playerId": "12519",
-            "points": 1.4,
+            "points": 2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2082,7 +2082,7 @@
             "replacement": null,
             "scoringName": "D'Andre Swift",
             "playerId": "6790",
-            "points": 5.1,
+            "points": 11.3,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2091,7 +2091,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 38.7,
+        "total": 41.9,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -2100,7 +2100,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 18,
-        "totalYards": 167,
+        "totalYards": 199,
         "players": [
           {
             "position": "QB",
@@ -2128,7 +2128,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 9.7,
+            "points": 12.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2147,16 +2147,16 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 10.38,
+        "total": 12.12,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 2,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 1,
+        "qbRushingYards": 12,
         "longestTD": 0,
-        "totalYards": 58,
+        "totalYards": 85,
         "players": [
           {
             "position": "QB",
@@ -2164,7 +2164,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 10.38,
+            "points": 12.12,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2203,7 +2203,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 20.4,
+        "total": 23.6,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -2212,7 +2212,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 13,
-        "totalYards": 44,
+        "totalYards": 76,
         "players": [
           {
             "position": "QB",
@@ -2240,7 +2240,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 9.7,
+            "points": 12.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2259,7 +2259,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 9.64,
+        "total": 10.12,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -2268,7 +2268,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 18,
         "longestTD": 0,
-        "totalYards": 114,
+        "totalYards": 126,
         "players": [
           {
             "position": "QB",
@@ -2276,7 +2276,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 9.64,
+            "points": 10.12,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-11T17:54:51.273Z"
+  "updatedAt": "2026-10-11T18:12:01.384Z"
 }
