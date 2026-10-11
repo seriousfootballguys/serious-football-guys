@@ -53,14 +53,14 @@
       "8": 84.66
     },
     "5": {
-      "1": 10,
-      "2": 10,
-      "3": 10,
-      "4": 10,
-      "5": 29,
-      "6": 10,
-      "7": 10,
-      "8": 10
+      "1": 0,
+      "2": 19.7,
+      "3": 0,
+      "4": 2,
+      "5": 38.7,
+      "6": 4.4,
+      "7": 19.7,
+      "8": 6.04
     }
   },
   "details": {
@@ -1867,7 +1867,7 @@
     "5": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 10,
+        "total": 0,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1919,20 +1919,20 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 10
+        "bonus": 0
       },
       "2": {
         "team": "The Sparklers",
-        "total": 10,
+        "total": 19.7,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
-        "tightEndTDs": 0,
+        "tightEndTDs": 1,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "longestTD": 13,
+        "totalYards": 37,
         "players": [
           {
             "position": "QB",
@@ -1960,7 +1960,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 0,
+            "points": 9.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -1979,7 +1979,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 10,
+        "total": 0,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -2031,11 +2031,11 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 10
+        "bonus": 0
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 10,
+        "total": 2,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -2044,7 +2044,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 20,
         "players": [
           {
             "position": "QB",
@@ -2062,7 +2062,7 @@
             "replacement": null,
             "scoringName": "Luther Burden III",
             "playerId": "12519",
-            "points": 0,
+            "points": 0.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2082,25 +2082,25 @@
             "replacement": null,
             "scoringName": "D'Andre Swift",
             "playerId": "6790",
-            "points": 0,
+            "points": 1.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 10
+        "bonus": 0
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 29,
+        "total": 38.7,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
-        "tightEndTDs": 0,
+        "tightEndTDs": 1,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 18,
-        "totalYards": 130,
+        "totalYards": 167,
         "players": [
           {
             "position": "QB",
@@ -2128,7 +2128,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 0,
+            "points": 9.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2147,16 +2147,16 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 10,
+        "total": 4.4,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 0,
+        "passingTDs": 1,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 10,
         "players": [
           {
             "position": "QB",
@@ -2164,7 +2164,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 0,
+            "points": 4.4,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2199,20 +2199,20 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 10
+        "bonus": 0
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 10,
+        "total": 19.7,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
-        "tightEndTDs": 0,
+        "tightEndTDs": 1,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "longestTD": 13,
+        "totalYards": 37,
         "players": [
           {
             "position": "QB",
@@ -2240,7 +2240,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 0,
+            "points": 9.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2259,16 +2259,16 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 10,
+        "total": 6.04,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 0,
+        "passingTDs": 1,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 51,
         "players": [
           {
             "position": "QB",
@@ -2276,7 +2276,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 0,
+            "points": 6.04,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2311,9 +2311,9 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 10
+        "bonus": 0
       }
     }
   },
-  "updatedAt": "2026-10-11T17:03:22.649Z"
+  "updatedAt": "2026-10-11T17:22:21.446Z"
 }
