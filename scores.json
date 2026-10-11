@@ -55,11 +55,11 @@
     "5": {
       "1": 14.7,
       "2": 39.7,
-      "3": 1.5,
+      "3": 8.74,
       "4": 19,
-      "5": 46.1,
-      "6": 25.7,
-      "7": 40.8,
+      "5": 46.9,
+      "6": 31.1,
+      "7": 41.6,
       "8": 40.56
     }
   },
@@ -1979,7 +1979,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 1.5,
+        "total": 8.74,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1988,7 +1988,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 1,
         "longestTD": 0,
-        "totalYards": 36,
+        "totalYards": 118,
         "players": [
           {
             "position": "QB",
@@ -1996,7 +1996,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 1.5,
+            "points": 2.14,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2006,7 +2006,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 0,
+            "points": 5.4,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2016,7 +2016,7 @@
             "replacement": null,
             "scoringName": "Sam LaPorta",
             "playerId": "10859",
-            "points": 0,
+            "points": 1.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2091,7 +2091,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 46.1,
+        "total": 46.9,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -2100,7 +2100,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 18,
-        "totalYards": 251,
+        "totalYards": 259,
         "players": [
           {
             "position": "QB",
@@ -2138,7 +2138,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 1.1,
+            "points": 1.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2147,7 +2147,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 25.7,
+        "total": 31.1,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 4,
@@ -2156,7 +2156,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 10,
         "longestTD": 0,
-        "totalYards": 211,
+        "totalYards": 265,
         "players": [
           {
             "position": "QB",
@@ -2174,7 +2174,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 0,
+            "points": 5.4,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2203,7 +2203,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 40.8,
+        "total": 41.6,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -2212,7 +2212,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 45,
-        "totalYards": 198,
+        "totalYards": 206,
         "players": [
           {
             "position": "QB",
@@ -2250,7 +2250,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 1.1,
+            "points": 1.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-11T20:53:56.950Z"
+  "updatedAt": "2026-10-11T21:08:51.255Z"
 }
