@@ -60,7 +60,7 @@
       "5": 45,
       "6": 24.8,
       "7": 39.7,
-      "8": 34.66
+      "8": 39.86
     }
   },
   "details": {
@@ -2259,16 +2259,16 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 34.66,
+        "total": 39.86,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 3,
+        "passingTDs": 4,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 1,
         "qbRushingYards": 29,
         "longestTD": 3,
-        "totalYards": 373,
+        "totalYards": 403,
         "players": [
           {
             "position": "QB",
@@ -2276,7 +2276,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 34.66,
+            "points": 39.86,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-11T19:46:42.874Z"
+  "updatedAt": "2026-10-11T19:59:20.862Z"
 }
