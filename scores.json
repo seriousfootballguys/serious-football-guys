@@ -55,12 +55,12 @@
     "5": {
       "1": 14.7,
       "2": 39.7,
-      "3": 39.94,
+      "3": 47.54,
       "4": 19,
-      "5": 63.1,
-      "6": 31.5,
-      "7": 57.8,
-      "8": 40.56
+      "5": 64.8,
+      "6": 40.9,
+      "7": 59.5,
+      "8": 42.36
     }
   },
   "details": {
@@ -1979,7 +1979,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 39.94,
+        "total": 47.54,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -1988,7 +1988,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 34,
         "longestTD": 38,
-        "totalYards": 257,
+        "totalYards": 273,
         "players": [
           {
             "position": "QB",
@@ -2006,7 +2006,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 5.8,
+            "points": 13.4,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2091,7 +2091,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 63.1,
+        "total": 64.8,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -2100,7 +2100,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 18,
-        "totalYards": 361,
+        "totalYards": 378,
         "players": [
           {
             "position": "QB",
@@ -2138,7 +2138,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 18.1,
+            "points": 19.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2147,7 +2147,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 31.5,
+        "total": 40.9,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 4,
@@ -2155,8 +2155,8 @@
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 10,
-        "longestTD": 0,
-        "totalYards": 269,
+        "longestTD": 16,
+        "totalYards": 303,
         "players": [
           {
             "position": "QB",
@@ -2174,7 +2174,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 5.8,
+            "points": 13.4,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2184,7 +2184,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 1.1,
+            "points": 2.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2203,7 +2203,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 57.8,
+        "total": 59.5,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -2212,7 +2212,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 45,
-        "totalYards": 308,
+        "totalYards": 325,
         "players": [
           {
             "position": "QB",
@@ -2250,7 +2250,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 18.1,
+            "points": 19.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2259,7 +2259,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 40.56,
+        "total": 42.36,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 4,
@@ -2268,7 +2268,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 25,
         "longestTD": 3,
-        "totalYards": 410,
+        "totalYards": 428,
         "players": [
           {
             "position": "QB",
@@ -2296,7 +2296,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 1.1,
+            "points": 2.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-11T22:21:05.785Z"
+  "updatedAt": "2026-10-11T22:39:22.398Z"
 }
