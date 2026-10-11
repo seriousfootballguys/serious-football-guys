@@ -55,12 +55,12 @@
     "5": {
       "1": 14.7,
       "2": 39.7,
-      "3": 0,
+      "3": 0.76,
       "4": 19,
-      "5": 45,
-      "6": 24.6,
-      "7": 39.7,
-      "8": 39.46
+      "5": 45.5,
+      "6": 25.7,
+      "7": 40.2,
+      "8": 40.56
     }
   },
   "details": {
@@ -1979,7 +1979,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 0,
+        "total": 0.76,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1988,7 +1988,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 19,
         "players": [
           {
             "position": "QB",
@@ -1996,7 +1996,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 0,
+            "points": 0.76,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2091,7 +2091,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 45,
+        "total": 45.5,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -2100,7 +2100,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 18,
-        "totalYards": 240,
+        "totalYards": 245,
         "players": [
           {
             "position": "QB",
@@ -2138,7 +2138,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 0,
+            "points": 0.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2147,7 +2147,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 24.6,
+        "total": 25.7,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 4,
@@ -2156,7 +2156,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 10,
         "longestTD": 0,
-        "totalYards": 200,
+        "totalYards": 211,
         "players": [
           {
             "position": "QB",
@@ -2184,7 +2184,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 0,
+            "points": 1.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2203,7 +2203,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 39.7,
+        "total": 40.2,
         "qbInterceptions": 0,
         "fumblesLost": 1,
         "passingTDs": 0,
@@ -2212,7 +2212,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 45,
-        "totalYards": 187,
+        "totalYards": 192,
         "players": [
           {
             "position": "QB",
@@ -2250,7 +2250,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 0,
+            "points": 0.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2259,7 +2259,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 39.46,
+        "total": 40.56,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 4,
@@ -2268,7 +2268,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 25,
         "longestTD": 3,
-        "totalYards": 399,
+        "totalYards": 410,
         "players": [
           {
             "position": "QB",
@@ -2296,7 +2296,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 0,
+            "points": 1.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-11T20:18:27.130Z"
+  "updatedAt": "2026-10-11T20:37:09.523Z"
 }
