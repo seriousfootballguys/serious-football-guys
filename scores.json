@@ -53,14 +53,14 @@
       "8": 84.66
     },
     "5": {
-      "1": 5.6,
+      "1": 13.1,
       "2": 24.8,
       "3": 0,
-      "4": 14.7,
+      "4": 16.2,
       "5": 41.9,
-      "6": 17.72,
+      "6": 17.64,
       "7": 24.8,
-      "8": 16.2
+      "8": 22.6
     }
   },
   "details": {
@@ -1867,7 +1867,7 @@
     "5": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 5.6,
+        "total": 13.1,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1875,8 +1875,8 @@
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 56,
+        "longestTD": 15,
+        "totalYards": 71,
         "players": [
           {
             "position": "QB",
@@ -1894,7 +1894,7 @@
             "replacement": null,
             "scoringName": "Justin Jefferson",
             "playerId": "6794",
-            "points": 5.6,
+            "points": 13.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2035,7 +2035,7 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 14.7,
+        "total": 16.2,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -2044,7 +2044,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 1,
-        "totalYards": 87,
+        "totalYards": 102,
         "players": [
           {
             "position": "QB",
@@ -2062,7 +2062,7 @@
             "replacement": null,
             "scoringName": "Luther Burden III",
             "playerId": "12519",
-            "points": 2,
+            "points": 2.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2082,7 +2082,7 @@
             "replacement": null,
             "scoringName": "D'Andre Swift",
             "playerId": "6790",
-            "points": 11.9,
+            "points": 12.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2147,7 +2147,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 17.72,
+        "total": 17.64,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 3,
@@ -2156,7 +2156,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 12,
         "longestTD": 0,
-        "totalYards": 125,
+        "totalYards": 123,
         "players": [
           {
             "position": "QB",
@@ -2164,7 +2164,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 17.72,
+            "points": 17.64,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2259,16 +2259,16 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 16.2,
+        "total": 22.6,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 2,
+        "passingTDs": 3,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 18,
         "longestTD": 0,
-        "totalYards": 178,
+        "totalYards": 238,
         "players": [
           {
             "position": "QB",
@@ -2276,7 +2276,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 16.2,
+            "points": 22.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-11T18:35:17.787Z"
+  "updatedAt": "2026-10-11T18:54:57.654Z"
 }
