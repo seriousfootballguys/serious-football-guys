@@ -53,14 +53,14 @@
       "8": 84.66
     },
     "5": {
-      "1": 14.7,
+      "1": 17.4,
       "2": 39.7,
-      "3": 56.54,
+      "3": 58.84,
       "4": 19,
       "5": 77.7,
       "6": 65,
       "7": 72.4,
-      "8": 62.06
+      "8": 64.76
     }
   },
   "details": {
@@ -1867,7 +1867,7 @@
     "5": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 14.7,
+        "total": 17.4,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -1876,7 +1876,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 15,
-        "totalYards": 87,
+        "totalYards": 114,
         "players": [
           {
             "position": "QB",
@@ -1914,7 +1914,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 0,
+            "points": 2.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -1979,7 +1979,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 56.54,
+        "total": 58.84,
         "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 1,
@@ -1988,7 +1988,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 54,
         "longestTD": 38,
-        "totalYards": 398,
+        "totalYards": 421,
         "players": [
           {
             "position": "QB",
@@ -2026,7 +2026,7 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 1.7,
+            "points": 4,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2259,7 +2259,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 62.06,
+        "total": 64.76,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 4,
@@ -2268,7 +2268,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 25,
         "longestTD": 9,
-        "totalYards": 465,
+        "totalYards": 492,
         "players": [
           {
             "position": "QB",
@@ -2306,7 +2306,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 0,
+            "points": 2.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-12T00:33:15.833Z"
+  "updatedAt": "2026-10-12T01:02:03.996Z"
 }
