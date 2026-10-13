@@ -54,13 +54,13 @@
     },
     "5": {
       "1": 26.5,
-      "2": 49.62,
+      "2": 59.16,
       "3": 72.84,
       "4": 19,
-      "5": 87.62,
+      "5": 97.16,
       "6": 65,
-      "7": 82.32,
-      "8": 89.26
+      "7": 91.86,
+      "8": 90.36
     }
   },
   "details": {
@@ -1923,16 +1923,16 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 49.62,
+        "total": 59.16,
         "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 1,
         "tightEndTDs": 1,
         "runningBackTDs": 0,
-        "qbRushingTDs": 0,
-        "qbRushingYards": 30,
+        "qbRushingTDs": 1,
+        "qbRushingYards": 53,
         "longestTD": 45,
-        "totalYards": 315,
+        "totalYards": 369,
         "players": [
           {
             "position": "QB",
@@ -1940,7 +1940,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 9.92,
+            "points": 19.46,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2091,16 +2091,16 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 87.62,
+        "total": 97.16,
         "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 1,
         "tightEndTDs": 1,
         "runningBackTDs": 2,
-        "qbRushingTDs": 0,
-        "qbRushingYards": 30,
+        "qbRushingTDs": 1,
+        "qbRushingYards": 53,
         "longestTD": 18,
-        "totalYards": 575,
+        "totalYards": 629,
         "players": [
           {
             "position": "QB",
@@ -2108,7 +2108,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 9.92,
+            "points": 19.46,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2203,16 +2203,16 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 82.32,
+        "total": 91.86,
         "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 1,
         "tightEndTDs": 1,
         "runningBackTDs": 2,
-        "qbRushingTDs": 0,
-        "qbRushingYards": 30,
+        "qbRushingTDs": 1,
+        "qbRushingYards": 53,
         "longestTD": 45,
-        "totalYards": 522,
+        "totalYards": 576,
         "players": [
           {
             "position": "QB",
@@ -2220,7 +2220,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 9.92,
+            "points": 19.46,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2259,7 +2259,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 89.26,
+        "total": 90.36,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 4,
@@ -2268,7 +2268,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 25,
         "longestTD": 9,
-        "totalYards": 677,
+        "totalYards": 688,
         "players": [
           {
             "position": "QB",
@@ -2286,7 +2286,7 @@
             "replacement": null,
             "scoringName": "Puka Nacua",
             "playerId": "9493",
-            "points": 15.4,
+            "points": 16.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-13T02:40:21.515Z"
+  "updatedAt": "2026-10-13T02:59:18.700Z"
 }
