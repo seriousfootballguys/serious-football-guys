@@ -60,7 +60,7 @@
       "5": 81.2,
       "6": 65,
       "7": 75.9,
-      "8": 77.96
+      "8": 81.06
     }
   },
   "details": {
@@ -2259,7 +2259,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 77.96,
+        "total": 81.06,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 4,
@@ -2268,7 +2268,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 25,
         "longestTD": 9,
-        "totalYards": 624,
+        "totalYards": 655,
         "players": [
           {
             "position": "QB",
@@ -2286,7 +2286,7 @@
             "replacement": null,
             "scoringName": "Puka Nacua",
             "playerId": "9493",
-            "points": 4.1,
+            "points": 7.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-13T01:37:50.439Z"
+  "updatedAt": "2026-10-13T01:56:51.858Z"
 }
