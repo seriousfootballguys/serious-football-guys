@@ -54,12 +54,12 @@
     },
     "5": {
       "1": 26.5,
-      "2": 43.92,
+      "2": 43.2,
       "3": 72.84,
       "4": 19,
-      "5": 81.92,
+      "5": 81.2,
       "6": 65,
-      "7": 76.62,
+      "7": 75.9,
       "8": 77.96
     }
   },
@@ -1923,8 +1923,8 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 43.92,
-        "qbInterceptions": 0,
+        "total": 43.2,
+        "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 0,
         "tightEndTDs": 1,
@@ -1932,7 +1932,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 21,
         "longestTD": 45,
-        "totalYards": 261,
+        "totalYards": 268,
         "players": [
           {
             "position": "QB",
@@ -1940,7 +1940,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 4.22,
+            "points": 3.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2091,8 +2091,8 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 81.92,
-        "qbInterceptions": 0,
+        "total": 81.2,
+        "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 0,
         "tightEndTDs": 1,
@@ -2100,7 +2100,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 21,
         "longestTD": 18,
-        "totalYards": 521,
+        "totalYards": 528,
         "players": [
           {
             "position": "QB",
@@ -2108,7 +2108,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 4.22,
+            "points": 3.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2203,8 +2203,8 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 76.62,
-        "qbInterceptions": 0,
+        "total": 75.9,
+        "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 0,
         "tightEndTDs": 1,
@@ -2212,7 +2212,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 21,
         "longestTD": 45,
-        "totalYards": 468,
+        "totalYards": 475,
         "players": [
           {
             "position": "QB",
@@ -2220,7 +2220,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 4.22,
+            "points": 3.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2315,5 +2315,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-13T01:13:29.661Z"
+  "updatedAt": "2026-10-13T01:37:50.439Z"
 }
