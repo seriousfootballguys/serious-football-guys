@@ -63,14 +63,14 @@
       "8": 94.56
     },
     "6": {
-      "1": 10,
-      "2": 10,
-      "3": 23.4,
-      "4": 10,
-      "5": 10,
-      "6": 23.4,
-      "7": 10,
-      "8": 10
+      "1": 28.48,
+      "2": 0,
+      "3": 18.3,
+      "4": 45.18,
+      "5": 0,
+      "6": 13.4,
+      "7": 0,
+      "8": 20.68
     }
   },
   "details": {
@@ -2327,16 +2327,16 @@
     "6": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 10,
+        "total": 28.48,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 0,
-        "tightEndTDs": 0,
+        "passingTDs": 1,
+        "tightEndTDs": 1,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "longestTD": 14,
+        "totalYards": 303,
         "players": [
           {
             "position": "QB",
@@ -2344,7 +2344,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 0,
+            "points": 11.88,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2364,7 +2364,7 @@
             "replacement": null,
             "scoringName": "Colston Loveland",
             "playerId": "12517",
-            "points": 0,
+            "points": 12,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2374,16 +2374,16 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 0,
+            "points": 4.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 10
+        "bonus": 0
       },
       "2": {
         "team": "The Sparklers",
-        "total": 10,
+        "total": 0,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -2435,11 +2435,11 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 10
+        "bonus": 0
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 23.4,
+        "total": 18.3,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -2448,7 +2448,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 134,
+        "totalYards": 183,
         "players": [
           {
             "position": "QB",
@@ -2486,25 +2486,25 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 0,
+            "points": 4.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 10
+        "bonus": 0
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 10,
+        "total": 45.18,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 0,
+        "passingTDs": 1,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 2,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "longestTD": 4,
+        "totalYards": 310,
         "players": [
           {
             "position": "QB",
@@ -2512,7 +2512,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 0,
+            "points": 11.88,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2522,7 +2522,7 @@
             "replacement": null,
             "scoringName": "Luther Burden III",
             "playerId": "12519",
-            "points": 0,
+            "points": 4.4,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2532,7 +2532,7 @@
             "replacement": null,
             "scoringName": "Cole Kmet",
             "playerId": "6826",
-            "points": 0,
+            "points": 0.3,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2542,7 +2542,7 @@
             "replacement": null,
             "scoringName": "D'Andre Swift",
             "playerId": "6790",
-            "points": 0,
+            "points": 18.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -2551,7 +2551,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 10,
+        "total": 0,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -2603,11 +2603,11 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 10
+        "bonus": 0
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 23.4,
+        "total": 13.4,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -2659,11 +2659,11 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 10
+        "bonus": 0
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 10,
+        "total": 0,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -2715,20 +2715,20 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 10
+        "bonus": 0
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 10,
+        "total": 20.68,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 0,
+        "passingTDs": 2,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingYards": 24,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 212,
         "players": [
           {
             "position": "QB",
@@ -2736,7 +2736,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 0,
+            "points": 16.08,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2766,14 +2766,14 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 0,
+            "points": 4.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 10
+        "bonus": 0
       }
     }
   },
-  "updatedAt": "2026-10-18T16:36:51.755Z"
+  "updatedAt": "2026-10-18T18:56:22.647Z"
 }
