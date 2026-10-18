@@ -64,13 +64,13 @@
     },
     "6": {
       "1": 34.3,
-      "2": 9.96,
-      "3": 20.66,
+      "2": 25.6,
+      "3": 28.12,
       "4": 55.3,
-      "5": 9.96,
-      "6": 17.6,
-      "7": 9.96,
-      "8": 34.9
+      "5": 25.6,
+      "6": 18.7,
+      "7": 25.6,
+      "8": 42.4
     }
   },
   "details": {
@@ -2383,16 +2383,16 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 9.96,
+        "total": 25.6,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 1,
+        "passingTDs": 2,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 2,
+        "qbRushingYards": 4,
         "longestTD": 0,
-        "totalYards": 146,
+        "totalYards": 329,
         "players": [
           {
             "position": "QB",
@@ -2400,7 +2400,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 9.96,
+            "points": 18.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2420,7 +2420,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 0,
+            "points": 7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2439,16 +2439,16 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 20.66,
+        "total": 28.12,
         "qbInterceptions": 1,
         "fumblesLost": 1,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 19,
+        "qbRushingYards": 26,
         "longestTD": 0,
-        "totalYards": 247,
+        "totalYards": 423,
         "players": [
           {
             "position": "QB",
@@ -2456,7 +2456,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 2.26,
+            "points": 9.72,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2551,16 +2551,16 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 9.96,
+        "total": 25.6,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 1,
+        "passingTDs": 2,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 2,
+        "qbRushingYards": 4,
         "longestTD": 0,
-        "totalYards": 146,
+        "totalYards": 329,
         "players": [
           {
             "position": "QB",
@@ -2568,7 +2568,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 9.96,
+            "points": 18.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2588,7 +2588,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 0,
+            "points": 7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2607,7 +2607,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 17.6,
+        "total": 18.7,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -2616,7 +2616,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 176,
+        "totalYards": 187,
         "players": [
           {
             "position": "QB",
@@ -2644,7 +2644,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 4.2,
+            "points": 5.3,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2663,16 +2663,16 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 9.96,
+        "total": 25.6,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 1,
+        "passingTDs": 2,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 2,
+        "qbRushingYards": 4,
         "longestTD": 0,
-        "totalYards": 146,
+        "totalYards": 329,
         "players": [
           {
             "position": "QB",
@@ -2680,7 +2680,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 9.96,
+            "points": 18.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2700,7 +2700,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 0,
+            "points": 7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2719,7 +2719,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 34.9,
+        "total": 42.4,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 3,
@@ -2728,7 +2728,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 24,
         "longestTD": 0,
-        "totalYards": 370,
+        "totalYards": 445,
         "players": [
           {
             "position": "QB",
@@ -2746,7 +2746,7 @@
             "replacement": null,
             "scoringName": "Puka Nacua",
             "playerId": "9493",
-            "points": 1.6,
+            "points": 8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2756,7 +2756,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 4.2,
+            "points": 5.3,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -2775,5 +2775,5 @@
       }
     }
   },
-  "updatedAt": "2026-10-18T21:19:48.477Z"
+  "updatedAt": "2026-10-18T23:23:22.207Z"
 }
