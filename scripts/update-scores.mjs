@@ -30,7 +30,17 @@ const injuryReplacements = {
     "Caleb Williams": "Tyson Bagent",
     "Justin Jefferson": "Tai Felton",
     "De'Von Achane": "Ollie Gordon"
-  }
+    },
+  "5": {
+    "Caleb Williams": "Tyson Bagent",
+    "Saquon Barkley": "Will Shipley",
+    "De'Von Achane": "Ollie Gordon"
+  },
+  "6": {
+    "Saquon Barkley": "Dameon Pierce"
+  },
+  "7": {
+    "De'Von Achane": "Ollie Gordon"
 };
 
 const inGameInjuryAdditions = {
@@ -170,8 +180,8 @@ async function getPlayerIds(league) {
   const missing = [];
 
   for (const name of rosterNames) {
-    const lookupName =
-      name === "Luther Burden III" ? "Luther Burden" : name;
+const lookupName =
+  name === "Ollie Gordon" ? "Ollie Gordon II" : name;
 
     const expectedPosition = positionByName[name];
 
@@ -426,6 +436,13 @@ if (bonusRule) {
     bonusRule.direction === "min"
       ? Math.min(...values)
       : Math.max(...values);
+  if (bonusRule.direction === "max" && winningValue === 0) {
+  for (const teamDetail of Object.values(weekDetails)) {
+    teamDetail.bonus = 0;
+  }
+
+  continue;
+}
 
   for (const [teamId, teamDetail] of Object.entries(weekDetails)) {
     const teamValue = Number(teamDetail[bonusRule.field] || 0);
