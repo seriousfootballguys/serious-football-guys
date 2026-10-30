@@ -437,7 +437,7 @@ if (bonusRule) {
     bonusRule.direction === "min"
       ? Math.min(...values)
       : Math.max(...values);
-  if (bonusRule.direction === "max" && winningValue === 0) {
+  if (values.every(value => value === 0)) {
   for (const teamDetail of Object.values(weekDetails)) {
     teamDetail.bonus = 0;
   }
