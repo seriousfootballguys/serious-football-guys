@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "cacheVersion": 2,
-  "generatedOn": "2026-10-21",
+  "generatedOn": "2026-10-30",
   "players": {
     "Caleb Williams": "11560",
     "Justin Jefferson": "6794",
@@ -30,6 +30,8 @@
     "Konata Mumpfield": "12718",
     "Tyson Bagent": "11256",
     "Tai Felton": "12496",
-    "Ollie Gordon": "12495"
+    "Ollie Gordon": "12495",
+    "Will Shipley": "11577",
+    "Dameon Pierce": "8129"
   }
 }
