@@ -41,6 +41,7 @@ const injuryReplacements = {
   },
   "7": {
     "De'Von Achane": "Ollie Gordon"
+  }
 };
 
 const inGameInjuryAdditions = {
