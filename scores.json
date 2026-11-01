@@ -83,14 +83,14 @@
       "8": 81.54
     },
     "8": {
-      "1": 0,
-      "2": 0,
-      "3": 0,
+      "1": 15.2,
+      "2": 42.46,
+      "3": 10.1,
       "4": 0,
-      "5": 0,
-      "6": 0,
-      "7": 0,
-      "8": 0
+      "5": 32.26,
+      "6": 12.18,
+      "7": 44.46,
+      "8": 8.7
     }
   },
   "details": {
@@ -3247,7 +3247,7 @@
     "8": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 0,
+        "total": 15.2,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -3255,8 +3255,8 @@
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "longestTD": 1,
+        "totalYards": 92,
         "players": [
           {
             "position": "QB",
@@ -3274,7 +3274,7 @@
             "replacement": null,
             "scoringName": "Justin Jefferson",
             "playerId": "6794",
-            "points": 0,
+            "points": 8.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3294,7 +3294,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 0,
+            "points": 6.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -3303,16 +3303,16 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 0,
-        "qbInterceptions": 0,
+        "total": 42.46,
+        "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 0,
-        "tightEndTDs": 0,
+        "tightEndTDs": 1,
         "runningBackTDs": 0,
-        "qbRushingTDs": 0,
-        "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "qbRushingTDs": 1,
+        "qbRushingYards": 15,
+        "longestTD": 30,
+        "totalYards": 211,
         "players": [
           {
             "position": "QB",
@@ -3320,7 +3320,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 0,
+            "points": 10.26,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3330,7 +3330,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 0,
+            "points": 12.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3340,7 +3340,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 0,
+            "points": 10,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3355,20 +3355,20 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 0
+        "bonus": 10
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 0,
+        "total": 10.1,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "longestTD": 2,
+        "totalYards": 41,
         "players": [
           {
             "position": "QB",
@@ -3396,7 +3396,7 @@
             "replacement": null,
             "scoringName": "Sam LaPorta",
             "playerId": "10859",
-            "points": 0,
+            "points": 0.8,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3406,7 +3406,7 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 0,
+            "points": 9.3,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -3471,16 +3471,16 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 0,
-        "qbInterceptions": 0,
+        "total": 32.26,
+        "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 0,
-        "tightEndTDs": 0,
+        "tightEndTDs": 1,
         "runningBackTDs": 0,
-        "qbRushingTDs": 0,
-        "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "qbRushingTDs": 1,
+        "qbRushingYards": 15,
+        "longestTD": 12,
+        "totalYards": 169,
         "players": [
           {
             "position": "QB",
@@ -3488,7 +3488,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 0,
+            "points": 10.26,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3508,7 +3508,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 0,
+            "points": 10,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3518,25 +3518,25 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 0,
+            "points": 2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 0
+        "bonus": 10
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 0,
-        "qbInterceptions": 0,
+        "total": 12.18,
+        "qbInterceptions": 1,
         "fumblesLost": 0,
-        "passingTDs": 0,
+        "passingTDs": 1,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingYards": 1,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 198,
         "players": [
           {
             "position": "QB",
@@ -3544,7 +3544,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 0,
+            "points": 10.18,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3564,7 +3564,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 0,
+            "points": 2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3583,16 +3583,16 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 0,
-        "qbInterceptions": 0,
+        "total": 44.46,
+        "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 0,
-        "tightEndTDs": 0,
+        "tightEndTDs": 1,
         "runningBackTDs": 0,
-        "qbRushingTDs": 0,
-        "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "qbRushingTDs": 1,
+        "qbRushingYards": 15,
+        "longestTD": 30,
+        "totalYards": 231,
         "players": [
           {
             "position": "QB",
@@ -3600,7 +3600,7 @@
             "replacement": null,
             "scoringName": "Josh Allen",
             "playerId": "4984",
-            "points": 0,
+            "points": 10.26,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3610,7 +3610,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 0,
+            "points": 12.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3620,7 +3620,7 @@
             "replacement": null,
             "scoringName": "Brock Bowers",
             "playerId": "11604",
-            "points": 0,
+            "points": 10,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3630,16 +3630,16 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 0,
+            "points": 2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 0
+        "bonus": 10
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 0,
+        "total": 8.7,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -3648,7 +3648,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 87,
         "players": [
           {
             "position": "QB",
@@ -3676,7 +3676,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 0,
+            "points": 2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3686,7 +3686,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 0,
+            "points": 6.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -3695,5 +3695,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-01T14:59:15.525Z"
+  "updatedAt": "2026-11-01T19:30:25.942Z"
 }
