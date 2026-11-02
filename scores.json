@@ -84,13 +84,13 @@
     },
     "8": {
       "1": 16.9,
-      "2": 78.86,
-      "3": 22.94,
+      "2": 88.46,
+      "3": 25.28,
       "4": 0,
       "5": 86.36,
       "6": 55.68,
       "7": 101.66,
-      "8": 29.82
+      "8": 57.26
     }
   },
   "details": {
@@ -3303,16 +3303,16 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 78.86,
+        "total": 88.46,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 2,
         "tightEndTDs": 2,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 1,
         "qbRushingYards": 30,
         "longestTD": 30,
-        "totalYards": 552,
+        "totalYards": 588,
         "players": [
           {
             "position": "QB",
@@ -3350,7 +3350,7 @@
             "replacement": null,
             "scoringName": "Saquon Barkley",
             "playerId": "4866",
-            "points": 0,
+            "points": 9.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -3359,16 +3359,16 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 22.94,
-        "qbInterceptions": 1,
+        "total": 25.28,
+        "qbInterceptions": 2,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 1,
         "qbRushingTDs": 0,
-        "qbRushingYards": 8,
+        "qbRushingYards": 15,
         "longestTD": 2,
-        "totalYards": 294,
+        "totalYards": 367,
         "players": [
           {
             "position": "QB",
@@ -3376,7 +3376,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 7.44,
+            "points": 9.78,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3639,16 +3639,16 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 29.82,
+        "total": 57.26,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 0,
+        "passingTDs": 2,
         "tightEndTDs": 1,
         "runningBackTDs": 0,
-        "qbRushingTDs": 0,
+        "qbRushingTDs": 1,
         "qbRushingYards": 5,
-        "longestTD": 14,
-        "totalYards": 270,
+        "longestTD": 18,
+        "totalYards": 432,
         "players": [
           {
             "position": "QB",
@@ -3656,7 +3656,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 2.62,
+            "points": 22.46,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3666,7 +3666,7 @@
             "replacement": null,
             "scoringName": "Puka Nacua",
             "playerId": "9493",
-            "points": 6.4,
+            "points": 14,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3695,5 +3695,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-01T22:59:48.437Z"
+  "updatedAt": "2026-11-02T02:21:28.066Z"
 }
