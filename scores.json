@@ -83,12 +83,12 @@
       "8": 81.54
     },
     "8": {
-      "1": 16.9,
+      "1": 25.92,
       "2": 90.26,
-      "3": 25.28,
-      "4": 0,
+      "3": 28.98,
+      "4": 16.92,
       "5": 86.36,
-      "6": 55.68,
+      "6": 59.38,
       "7": 101.66,
       "8": 57.26
     }
@@ -3247,16 +3247,16 @@
     "8": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 16.9,
+        "total": 25.92,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 0,
+        "passingTDs": 1,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 1,
-        "totalYards": 109,
+        "totalYards": 194,
         "players": [
           {
             "position": "QB",
@@ -3264,7 +3264,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 0,
+            "points": 6.32,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3284,7 +3284,7 @@
             "replacement": null,
             "scoringName": "Colston Loveland",
             "playerId": "12517",
-            "points": 0,
+            "points": 2.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3359,7 +3359,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 25.28,
+        "total": 28.98,
         "qbInterceptions": 2,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -3368,7 +3368,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 15,
         "longestTD": 2,
-        "totalYards": 367,
+        "totalYards": 404,
         "players": [
           {
             "position": "QB",
@@ -3386,7 +3386,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 0,
+            "points": 3.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3415,16 +3415,16 @@
       },
       "4": {
         "team": "The Roadrunners",
-        "total": 0,
+        "total": 16.92,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 0,
+        "passingTDs": 1,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "longestTD": 1,
+        "totalYards": 104,
         "players": [
           {
             "position": "QB",
@@ -3432,7 +3432,7 @@
             "replacement": null,
             "scoringName": "Caleb Williams",
             "playerId": "11560",
-            "points": 0,
+            "points": 6.32,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3442,7 +3442,7 @@
             "replacement": null,
             "scoringName": "Luther Burden III",
             "playerId": "12519",
-            "points": 0,
+            "points": 8.3,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3462,7 +3462,7 @@
             "replacement": null,
             "scoringName": "D'Andre Swift",
             "playerId": "6790",
-            "points": 0,
+            "points": 2.3,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -3527,7 +3527,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 55.68,
+        "total": 59.38,
         "qbInterceptions": 3,
         "fumblesLost": 0,
         "passingTDs": 5,
@@ -3536,7 +3536,7 @@
         "qbRushingTDs": 1,
         "qbRushingYards": 10,
         "longestTD": 14,
-        "totalYards": 544,
+        "totalYards": 581,
         "players": [
           {
             "position": "QB",
@@ -3554,7 +3554,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 0,
+            "points": 3.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3695,5 +3695,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-02T19:49:05.279Z"
+  "updatedAt": "2026-11-03T01:52:48.099Z"
 }
