@@ -95,7 +95,7 @@
     "9": {
       "1": 0,
       "2": 0,
-      "3": 0,
+      "3": 5.38,
       "4": 0,
       "5": 0,
       "6": 0,
@@ -3819,7 +3819,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 0,
+        "total": 5.38,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -3828,7 +3828,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 52,
         "players": [
           {
             "position": "QB",
@@ -3866,7 +3866,7 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 0,
+            "points": 5.38,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -4155,5 +4155,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-05T23:36:50.623Z"
+  "updatedAt": "2026-11-06T03:39:19.766Z"
 }
