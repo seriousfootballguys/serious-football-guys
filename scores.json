@@ -93,14 +93,14 @@
       "8": 57.26
     },
     "9": {
-      "1": 0,
-      "2": 0,
+      "1": 8.1,
+      "2": 30.2,
       "3": 5.58,
       "4": 0,
       "5": 0,
-      "6": 0,
-      "7": 0,
-      "8": 0
+      "6": 23.66,
+      "7": 30.2,
+      "8": 8.1
     }
   },
   "details": {
@@ -3707,7 +3707,7 @@
     "9": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 0,
+        "total": 8.1,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -3716,7 +3716,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 81,
         "players": [
           {
             "position": "QB",
@@ -3754,7 +3754,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 0,
+            "points": 8.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -3763,7 +3763,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 0,
+        "total": 30.2,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -3771,8 +3771,8 @@
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "longestTD": 47,
+        "totalYards": 142,
         "players": [
           {
             "position": "QB",
@@ -3790,7 +3790,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 0,
+            "points": 20.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3815,7 +3815,7 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 0
+        "bonus": 10
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
@@ -3987,16 +3987,16 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 0,
+        "total": 23.66,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 0,
+        "passingTDs": 2,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
-        "qbRushingTDs": 0,
-        "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "qbRushingTDs": 1,
+        "qbRushingYards": 1,
+        "longestTD": 1,
+        "totalYards": 240,
         "players": [
           {
             "position": "QB",
@@ -4004,7 +4004,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 0,
+            "points": 23.66,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4043,7 +4043,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 0,
+        "total": 30.2,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -4051,8 +4051,8 @@
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "longestTD": 47,
+        "totalYards": 142,
         "players": [
           {
             "position": "QB",
@@ -4070,7 +4070,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 0,
+            "points": 20.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4095,11 +4095,11 @@
             "injuryAdditionPoints": 0
           }
         ],
-        "bonus": 0
+        "bonus": 10
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 0,
+        "total": 8.1,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -4108,7 +4108,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 81,
         "players": [
           {
             "position": "QB",
@@ -4146,7 +4146,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 0,
+            "points": 8.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -4155,5 +4155,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-08T09:33:14.618Z"
+  "updatedAt": "2026-11-08T16:16:03.817Z"
 }
