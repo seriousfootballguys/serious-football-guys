@@ -93,14 +93,14 @@
       "8": 57.26
     },
     "9": {
-      "1": 8.1,
-      "2": 30.2,
-      "3": 5.58,
+      "1": 20.7,
+      "2": 39.4,
+      "3": 8.08,
       "4": 0,
-      "5": 0,
-      "6": 23.66,
-      "7": 30.2,
-      "8": 8.1
+      "5": 12.1,
+      "6": 29.54,
+      "7": 43.6,
+      "8": 40.7
     }
   },
   "details": {
@@ -3707,16 +3707,16 @@
     "9": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 8.1,
+        "total": 20.7,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 81,
+        "longestTD": 1,
+        "totalYards": 147,
         "players": [
           {
             "position": "QB",
@@ -3754,7 +3754,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 8.1,
+            "points": 20.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -3763,16 +3763,16 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 30.2,
+        "total": 39.4,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 47,
-        "totalYards": 142,
+        "totalYards": 174,
         "players": [
           {
             "position": "QB",
@@ -3790,7 +3790,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 20.2,
+            "points": 21.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3810,7 +3810,7 @@
             "replacement": null,
             "scoringName": "Saquon Barkley",
             "playerId": "4866",
-            "points": 0,
+            "points": 7.9,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -3819,7 +3819,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 5.58,
+        "total": 8.08,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -3828,7 +3828,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 54,
+        "totalYards": 79,
         "players": [
           {
             "position": "QB",
@@ -3856,7 +3856,7 @@
             "replacement": null,
             "scoringName": "Sam LaPorta",
             "playerId": "10859",
-            "points": 0,
+            "points": 2.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -3931,16 +3931,16 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 0,
+        "total": 12.1,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "longestTD": 8,
+        "totalYards": 61,
         "players": [
           {
             "position": "QB",
@@ -3978,7 +3978,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 0,
+            "points": 12.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -3987,16 +3987,16 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 23.66,
+        "total": 29.54,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 2,
+        "passingTDs": 3,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 1,
-        "qbRushingYards": 1,
+        "qbRushingYards": 7,
         "longestTD": 1,
-        "totalYards": 240,
+        "totalYards": 278,
         "players": [
           {
             "position": "QB",
@@ -4004,7 +4004,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 23.66,
+            "points": 29.54,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4043,16 +4043,16 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 30.2,
+        "total": 43.6,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 47,
-        "totalYards": 142,
+        "totalYards": 216,
         "players": [
           {
             "position": "QB",
@@ -4070,7 +4070,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 20.2,
+            "points": 21.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4090,7 +4090,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 0,
+            "points": 12.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -4099,16 +4099,16 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 8.1,
+        "total": 40.7,
         "qbInterceptions": 0,
-        "fumblesLost": 0,
+        "fumblesLost": 1,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 1,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 81,
+        "longestTD": 7,
+        "totalYards": 297,
         "players": [
           {
             "position": "QB",
@@ -4126,7 +4126,7 @@
             "replacement": null,
             "scoringName": "Puka Nacua",
             "playerId": "9493",
-            "points": 0,
+            "points": 20,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4146,7 +4146,7 @@
             "replacement": null,
             "scoringName": "Bijan Robinson",
             "playerId": "9509",
-            "points": 8.1,
+            "points": 20.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -4155,5 +4155,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-08T16:16:03.817Z"
+  "updatedAt": "2026-11-08T20:36:21.498Z"
 }
