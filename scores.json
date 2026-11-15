@@ -105,12 +105,12 @@
     "10": {
       "1": 0,
       "2": 0,
-      "3": 0,
+      "3": 1.6,
       "4": 0,
-      "5": 0,
+      "5": 37.2,
       "6": 0,
-      "7": 0,
-      "8": 0
+      "7": 37.2,
+      "8": 3.02
     }
   },
   "details": {
@@ -4279,7 +4279,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 0,
+        "total": 1.6,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -4288,7 +4288,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 16,
         "players": [
           {
             "position": "QB",
@@ -4316,7 +4316,7 @@
             "replacement": null,
             "scoringName": "Sam LaPorta",
             "playerId": "10859",
-            "points": 0,
+            "points": 1.6,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4391,16 +4391,16 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 0,
+        "total": 37.2,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 2,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "longestTD": 28,
+        "totalYards": 252,
         "players": [
           {
             "position": "QB",
@@ -4438,7 +4438,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 0,
+            "points": 37.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -4503,16 +4503,16 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 0,
+        "total": 37.2,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
+        "runningBackTDs": 2,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 0,
+        "longestTD": 28,
+        "totalYards": 252,
         "players": [
           {
             "position": "QB",
@@ -4550,7 +4550,7 @@
             "replacement": null,
             "scoringName": "Jahmyr Gibbs",
             "playerId": "9221",
-            "points": 0,
+            "points": 37.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -4559,16 +4559,16 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 0,
+        "total": 3.02,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingYards": 11,
         "longestTD": 0,
-        "totalYards": 0,
+        "totalYards": 59,
         "players": [
           {
             "position": "QB",
@@ -4576,7 +4576,7 @@
             "replacement": null,
             "scoringName": "Drake Maye",
             "playerId": "11564",
-            "points": 0,
+            "points": 3.02,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4615,5 +4615,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-15T10:40:46.829Z"
+  "updatedAt": "2026-11-15T17:25:01.818Z"
 }
