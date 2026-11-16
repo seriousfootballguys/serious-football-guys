@@ -104,12 +104,12 @@
     },
     "10": {
       "1": 21.1,
-      "2": 29.84,
+      "2": 48.24,
       "3": 24.7,
       "4": 0,
       "5": 94.84,
-      "6": 31,
-      "7": 67.04,
+      "6": 59.96,
+      "7": 85.44,
       "8": 20.42
     }
   },
@@ -4223,7 +4223,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 29.84,
+        "total": 48.24,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -4232,7 +4232,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 5,
         "longestTD": 1,
-        "totalYards": 266,
+        "totalYards": 450,
         "players": [
           {
             "position": "QB",
@@ -4250,7 +4250,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 4.7,
+            "points": 23.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4447,16 +4447,16 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 31,
+        "total": 59.96,
         "qbInterceptions": 0,
         "fumblesLost": 0,
-        "passingTDs": 0,
+        "passingTDs": 4,
         "tightEndTDs": 0,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "qbRushingYards": 8,
         "longestTD": 71,
-        "totalYards": 313,
+        "totalYards": 625,
         "players": [
           {
             "position": "QB",
@@ -4464,7 +4464,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 4.2,
+            "points": 33.16,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4503,7 +4503,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 67.04,
+        "total": 85.44,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -4512,7 +4512,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 5,
         "longestTD": 28,
-        "totalYards": 518,
+        "totalYards": 702,
         "players": [
           {
             "position": "QB",
@@ -4530,7 +4530,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 4.7,
+            "points": 23.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4615,5 +4615,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-16T01:49:32.436Z"
+  "updatedAt": "2026-11-16T08:39:37.974Z"
 }
