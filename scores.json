@@ -104,13 +104,13 @@
     },
     "10": {
       "1": 21.1,
-      "2": 25.14,
-      "3": 2.7,
+      "2": 29.84,
+      "3": 24.7,
       "4": 0,
-      "5": 73.44,
-      "6": 2.4,
-      "7": 62.34,
-      "8": 18.02
+      "5": 94.84,
+      "6": 31,
+      "7": 67.04,
+      "8": 20.42
     }
   },
   "details": {
@@ -4223,7 +4223,7 @@
       },
       "2": {
         "team": "The Sparklers",
-        "total": 25.14,
+        "total": 29.84,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -4232,7 +4232,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 5,
         "longestTD": 1,
-        "totalYards": 219,
+        "totalYards": 266,
         "players": [
           {
             "position": "QB",
@@ -4250,7 +4250,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 0,
+            "points": 4.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4279,7 +4279,7 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 2.7,
+        "total": 24.7,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -4287,8 +4287,8 @@
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 27,
+        "longestTD": 71,
+        "totalYards": 187,
         "players": [
           {
             "position": "QB",
@@ -4306,7 +4306,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 1.1,
+            "points": 23.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4391,7 +4391,7 @@
       },
       "5": {
         "team": "The Banana Crew",
-        "total": 73.44,
+        "total": 94.84,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -4399,8 +4399,8 @@
         "runningBackTDs": 2,
         "qbRushingTDs": 2,
         "qbRushingYards": 5,
-        "longestTD": 35,
-        "totalYards": 522,
+        "longestTD": 39,
+        "totalYards": 616,
         "players": [
           {
             "position": "QB",
@@ -4418,7 +4418,7 @@
             "replacement": null,
             "scoringName": "George Pickens",
             "playerId": "8137",
-            "points": 11.1,
+            "points": 32.5,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4447,7 +4447,7 @@
       },
       "6": {
         "team": "The Wrecking Crew",
-        "total": 2.4,
+        "total": 31,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -4455,8 +4455,8 @@
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 0,
-        "longestTD": 0,
-        "totalYards": 24,
+        "longestTD": 71,
+        "totalYards": 313,
         "players": [
           {
             "position": "QB",
@@ -4464,7 +4464,7 @@
             "replacement": null,
             "scoringName": "Joe Burrow",
             "playerId": "6770",
-            "points": 0,
+            "points": 4.2,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4474,7 +4474,7 @@
             "replacement": null,
             "scoringName": "Jaxon Smith-Njigba",
             "playerId": "9488",
-            "points": 1.1,
+            "points": 23.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4484,7 +4484,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 1.3,
+            "points": 3.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4503,7 +4503,7 @@
       },
       "7": {
         "team": "aMerrickan Football 1",
-        "total": 62.34,
+        "total": 67.04,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 1,
@@ -4512,7 +4512,7 @@
         "qbRushingTDs": 2,
         "qbRushingYards": 5,
         "longestTD": 28,
-        "totalYards": 471,
+        "totalYards": 518,
         "players": [
           {
             "position": "QB",
@@ -4530,7 +4530,7 @@
             "replacement": null,
             "scoringName": "Ja'Marr Chase",
             "playerId": "7564",
-            "points": 0,
+            "points": 4.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4559,7 +4559,7 @@
       },
       "8": {
         "team": "aMerrickan Football 2",
-        "total": 18.02,
+        "total": 20.42,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
@@ -4568,7 +4568,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 11,
         "longestTD": 3,
-        "totalYards": 149,
+        "totalYards": 173,
         "players": [
           {
             "position": "QB",
@@ -4596,7 +4596,7 @@
             "replacement": null,
             "scoringName": "Trey McBride",
             "playerId": "8130",
-            "points": 1.3,
+            "points": 3.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4615,5 +4615,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-15T21:58:58.114Z"
+  "updatedAt": "2026-11-16T01:49:32.436Z"
 }
