@@ -105,7 +105,7 @@
     "10": {
       "1": 21.1,
       "2": 48.24,
-      "3": 24.7,
+      "3": 44.24,
       "4": 0,
       "5": 94.84,
       "6": 59.96,
@@ -4279,16 +4279,16 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 24.7,
+        "total": 44.24,
         "qbInterceptions": 0,
         "fumblesLost": 0,
         "passingTDs": 0,
         "tightEndTDs": 0,
-        "runningBackTDs": 0,
-        "qbRushingTDs": 0,
-        "qbRushingYards": 0,
+        "runningBackTDs": 1,
+        "qbRushingTDs": 1,
+        "qbRushingYards": 38,
         "longestTD": 71,
-        "totalYards": 187,
+        "totalYards": 317,
         "players": [
           {
             "position": "QB",
@@ -4296,7 +4296,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 0,
+            "points": 13.44,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4326,7 +4326,7 @@
             "replacement": null,
             "scoringName": "Derrick Henry",
             "playerId": "3198",
-            "points": 0,
+            "points": 6.1,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           }
@@ -4615,5 +4615,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-16T18:55:57.962Z"
+  "updatedAt": "2026-11-17T02:21:47.528Z"
 }
