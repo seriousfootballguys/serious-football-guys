@@ -113,9 +113,9 @@
       "8": 20.42
     },
     "11": {
-      "1": 24.24,
+      "1": 27.94,
       "2": 27.66,
-      "3": 33.06,
+      "3": 44.74,
       "4": 27.54,
       "5": 54.76,
       "6": 15.8,
@@ -4627,7 +4627,7 @@
     "11": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 24.24,
+        "total": 27.94,
         "qbInterceptions": 1,
         "fumblesLost": 0,
         "passingTDs": 2,
@@ -4636,7 +4636,7 @@
         "qbRushingTDs": 0,
         "qbRushingYards": 11,
         "longestTD": 15,
-        "totalYards": 221,
+        "totalYards": 258,
         "players": [
           {
             "position": "QB",
@@ -4654,7 +4654,7 @@
             "replacement": null,
             "scoringName": "Justin Jefferson",
             "playerId": "6794",
-            "points": 0,
+            "points": 3.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -4739,16 +4739,16 @@
       },
       "3": {
         "team": "Man, You Gotta be Fast to Play Defense",
-        "total": 33.06,
+        "total": 44.74,
         "qbInterceptions": 0,
         "fumblesLost": 1,
-        "passingTDs": 0,
+        "passingTDs": 2,
         "tightEndTDs": 0,
         "runningBackTDs": 1,
         "qbRushingTDs": 1,
-        "qbRushingYards": 24,
+        "qbRushingYards": 32,
         "longestTD": 15,
-        "totalYards": 256,
+        "totalYards": 336,
         "players": [
           {
             "position": "QB",
@@ -4756,7 +4756,7 @@
             "replacement": null,
             "scoringName": "Justin Herbert",
             "playerId": "6797",
-            "points": 10.76,
+            "points": 22.44,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -5075,5 +5075,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-22T22:42:45.990Z"
+  "updatedAt": "2026-11-23T03:10:53.687Z"
 }
