@@ -113,7 +113,7 @@
       "8": 20.42
     },
     "11": {
-      "1": 27.94,
+      "1": 31.94,
       "2": 27.66,
       "3": 44.74,
       "4": 27.54,
@@ -4627,16 +4627,16 @@
     "11": {
       "1": {
         "team": "Jordan Love Eats at McDonald's a Lot",
-        "total": 27.94,
+        "total": 31.94,
         "qbInterceptions": 1,
-        "fumblesLost": 0,
+        "fumblesLost": 1,
         "passingTDs": 2,
         "tightEndTDs": 1,
         "runningBackTDs": 0,
         "qbRushingTDs": 0,
         "qbRushingYards": 11,
         "longestTD": 15,
-        "totalYards": 258,
+        "totalYards": 308,
         "players": [
           {
             "position": "QB",
@@ -4654,7 +4654,7 @@
             "replacement": null,
             "scoringName": "Justin Jefferson",
             "playerId": "6794",
-            "points": 3.7,
+            "points": 7.7,
             "injuryAddition": null,
             "injuryAdditionPoints": 0
           },
@@ -5075,5 +5075,5 @@
       }
     }
   },
-  "updatedAt": "2026-11-23T03:10:53.687Z"
+  "updatedAt": "2026-11-23T12:45:31.957Z"
 }
